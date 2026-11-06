@@ -1,0 +1,33 @@
+{
+  "day": "2026-11-05",
+  "mode": "manual",
+  "started_at": "2026-11-06T22:47:04+00:00",
+  "discovered": [],
+  "passes": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "The Proliferation of DarkSword: iOS Exploit Chain Adopted by Multiple Threat Actors",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain",
+      "kind": "news",
+      "importance": 1.0,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0
+    }
+  ],
+  "tries": [
+    {
+      "headline": "The Proliferation of DarkSword: iOS Exploit Chain Adopted by Multiple Threat Actors",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain",
+      "kind": "news",
+      "official": false,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "google-says-darksword-iphone-exploit-chain-has-been-used-by-multiple-actors",
+    "live": true
+  }
+}
