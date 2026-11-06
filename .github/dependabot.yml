@@ -1,11 +1,14 @@
 # Weekly update PRs. Actions are pinned to commit SHAs, so Dependabot is what
-# keeps those pins current.
+# keeps those pins current. New releases wait three days before an update PR,
+# so a bad or compromised release has time to be caught and pulled.
 version: 2
 updates:
   - package-ecosystem: github-actions
     directory: /
     schedule:
       interval: weekly
+    cooldown:
+      default-days: 3
     groups:
       actions:
         patterns: ["*"]
@@ -13,6 +16,8 @@ updates:
     directory: /pipeline
     schedule:
       interval: weekly
+    cooldown:
+      default-days: 3
     groups:
       python:
         patterns: ["*"]

@@ -37,3 +37,7 @@ ignore = ["E501"]
 python_version = "3.11"
 files = ["agent", "evals"]
 ignore_missing_imports = true
+
+[tool.uv]
+# Only resolve releases at least three days old (same hold as Dependabot).
+exclude-newer = "3 days"
