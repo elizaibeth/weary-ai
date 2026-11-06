@@ -28,6 +28,7 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid 
 .main-nav { display: flex; gap: 22px; margin-left: auto; font-size: 12px; }
 .main-nav a, footer nav a { border-bottom: 1px solid transparent; padding-bottom: 3px; }
 .main-nav a:hover, footer nav a:hover { border-bottom-color: var(--green); color: var(--green); }
+.nav-toggle { display: none; }
 
 .eyebrow, .section-label, .image-credit, figcaption, .lead-meta, .archive-meta {
   font-family: var(--mono);
@@ -141,6 +142,16 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid 
 .category-filters button { cursor: pointer; }
 .search-status { min-height: 1em; margin: 16px 0 0; color: var(--muted); font-size: 12px; }
 .archive-item[hidden], .no-results[hidden] { display: none; }
+.archive-intro { margin: 24px 0 28px; color: var(--muted); font: 18px/1.5 var(--serif); }
+.archive-intro a { color: var(--green); border-bottom: 1px solid currentColor; }
+.pager { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 16px; margin-top: 36px; font: 12px var(--mono); letter-spacing: .6px; }
+.pager-step { justify-self: start; padding: 10px 0; border-bottom: 1px solid transparent; }
+.pager-step.next { justify-self: end; }
+a.pager-step:hover { color: var(--green); border-bottom-color: var(--green); }
+.pager-pages { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin: 0; padding: 0; list-style: none; }
+.pager-pages a, .pager-pages span { display: inline-grid; place-items: center; min-width: 36px; height: 36px; border: 1px solid var(--line); }
+.pager-pages a:hover { border-color: var(--green); color: var(--green); background: var(--wash); }
+.pager-pages [aria-current] { border-color: var(--ink); background: var(--ink); color: var(--paper); }
 .archive-row { display: grid; grid-template-columns: 150px minmax(0, 1fr) 20px; gap: 20px; align-items: center; min-height: 132px; padding: 22px 0; border-bottom: 1px solid var(--line); transition: background-color 140ms ease, box-shadow 140ms ease; }
 .archive-row:hover { background: var(--wash); box-shadow: inset 3px 0 var(--green); }
 .archive-thumb { display: block; overflow: hidden; aspect-ratio: 3 / 2; background: var(--wash); }
@@ -192,6 +203,16 @@ footer nav { display: flex; gap: 25px; margin-left: auto; }
   .masthead { flex-wrap: wrap; padding: 22px 0; }
   .brand { font-size: 30px; }
   .main-nav { order: 3; width: 100%; justify-content: space-between; gap: 10px; margin-top: 18px; }
+  .nav-ready .nav-toggle { display: inline-flex; flex-direction: column; justify-content: center; gap: 5px; width: 44px; height: 44px; margin: 0 -10px 0 auto; padding: 10px; border: 0; background: transparent; cursor: pointer; }
+  .nav-toggle span { display: block; height: 2px; background: var(--ink); transition: transform 160ms ease, opacity 160ms ease; }
+  .nav-open .nav-toggle span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .nav-open .nav-toggle span:nth-child(2) { opacity: 0; }
+  .nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+  .nav-ready .main-nav { display: none; }
+  .nav-ready.nav-open .main-nav { display: flex; flex-direction: column; gap: 0; margin-top: 14px; font-size: 15px; }
+  .nav-ready.nav-open .main-nav a { padding: 14px 0; border-top: 1px solid var(--line); }
+  .pager { grid-template-columns: 1fr 1fr; }
+  .pager-pages { grid-column: 1 / -1; grid-row: 1; }
   .section-label { flex-wrap: wrap; font-size: 9px; }
   .home-intro { grid-template-columns: 1fr; gap: 28px; padding: 46px 0 38px; }
   .home-intro h1 { font-size: clamp(44px, 14vw, 60px); letter-spacing: -2px; }

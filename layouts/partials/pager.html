@@ -1,0 +1,11 @@
+{{- if gt .TotalPages 1 }}
+<nav class="pager" aria-label="Archive pages">
+  {{- if .HasPrev }}<a class="pager-step" href="{{ .Prev.URL }}" rel="prev">← Newer</a>{{ else }}<span class="pager-step" aria-hidden="true"></span>{{ end }}
+  <ol class="pager-pages">
+    {{- range .Pagers }}
+      <li>{{ if eq .PageNumber $.PageNumber }}<span aria-current="page">{{ .PageNumber }}</span>{{ else }}<a href="{{ .URL }}">{{ .PageNumber }}</a>{{ end }}</li>
+    {{- end }}
+  </ol>
+  {{- if .HasNext }}<a class="pager-step next" href="{{ .Next.URL }}" rel="next">Older →</a>{{ else }}<span class="pager-step" aria-hidden="true"></span>{{ end }}
+</nav>
+{{- end }}

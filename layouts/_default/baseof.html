@@ -23,9 +23,10 @@
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
-<header class="masthead"><a class="brand" href="{{ .Site.Home.RelPermalink }}">weary<span>.ai</span></a><nav class="main-nav" aria-label="Main navigation"><a href="{{ "posts/" | relURL }}">Archive</a><a href="{{ "categories/" | relURL }}">Categories</a><a href="{{ "search/" | relURL }}">Search</a><a href="{{ "about/" | relURL }}">About</a></nav></header>
+<header class="masthead"><a class="brand" href="{{ .Site.Home.RelPermalink }}">weary<span>.ai</span></a><button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Menu"><span></span><span></span><span></span></button><nav class="main-nav" id="main-nav" aria-label="Main navigation"><a href="{{ "posts/" | relURL }}">Archive</a><a href="{{ "categories/" | relURL }}">Categories</a><a href="{{ "search/" | relURL }}">Search</a><a href="{{ "about/" | relURL }}">About</a></nav></header>
 <main id="main">{{ block "main" . }}{{ end }}</main>
 <footer><a class="brand small" href="{{ .Site.Home.RelPermalink }}">weary.ai</a><span>Enough AI for today.</span><nav aria-label="Footer"><a href="{{ "about/" | relURL }}">About</a><a href="{{ "posts/" | relURL }}">Archive</a><a href="{{ "index.xml" | relURL }}">RSS →</a></nav></footer>
+<script src="{{ "js/nav.js" | relURL }}" defer></script>
 <script src="{{ "js/archive.js" | relURL }}" defer></script>
 </body>
 </html>

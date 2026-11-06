@@ -2,27 +2,24 @@
 <section class="archive">
   <p class="eyebrow">{{ if eq .Section "posts" }}THE BACK ISSUES{{ else }}BROWSE WEARY.AI{{ end }}</p>
   <h1>{{ if eq .Section "posts" }}One day at a time.{{ else }}{{ .Title }}{{ end }}</h1>
+  {{ $pages := where .Pages "Params.review" "ne" true }}
   {{ if eq .Section "posts" }}
-    <div class="archive-tools" id="search">
-      <label for="archive-search">Search the archive</label>
-      <input id="archive-search" type="search" placeholder="Search headlines, stories and tags…" autocomplete="off">
-      <div class="category-filters" role="group" aria-label="Filter by category">
-        <button type="button" class="active" data-category="all">All</button>
-        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-          <button type="button" data-category="{{ $name | urlize }}">{{ $name | humanize }}</button>
-        {{ end }}
-      </div>
-      <p class="search-status" aria-live="polite"></p>
+    {{ $pager := .Paginate $pages.ByDate.Reverse }}
+    <p class="archive-intro">Every edition, newest first. Looking for something? <a href="{{ "search/" | relURL }}">Search every edition →</a></p>
+    <div class="archive-results">
+      {{ range $pager.Pages }}
+        {{ partial "story-row.html" (dict "page" .) }}
+      {{ else }}
+        <p>The first edition is on its way.</p>
+      {{ end }}
+    </div>
+    {{ partial "pager.html" $pager }}
+  {{ else }}
+    <div class="archive-results">
+      {{ range $pages.ByDate.Reverse }}
+        {{ partial "story-row.html" (dict "page" .) }}
+      {{ end }}
     </div>
   {{ end }}
-  <div class="archive-results">
-    {{ $pages := where .Pages "Params.review" "ne" true }}
-    {{ range $pages.ByDate.Reverse }}
-      {{ partial "story-row.html" (dict "page" . "searchable" true) }}
-    {{ else }}
-      <p>The first edition is on its way.</p>
-    {{ end }}
-  </div>
-  <p class="no-results" hidden>No stories match that search.</p>
 </section>
 {{ end }}

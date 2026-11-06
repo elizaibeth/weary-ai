@@ -11,5 +11,7 @@ enableRobotsTXT = true
   description = 'The most important AI story of the day, checked against its sources. Plus an opinion column on Saturdays and the research paper of the week on Sundays.'
 [markup.goldmark.renderer]
   unsafe = false
+[pagination]
+  pagerSize = 10
 [outputs]
   home = ['HTML', 'RSS']
