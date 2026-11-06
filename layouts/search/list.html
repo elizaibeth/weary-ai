@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="archive search-page">
+  <p class="eyebrow">FIND A STORY</p>
+  <h1>Search</h1>
+  <div class="archive-tools">
+    <label for="archive-search">Search every edition</label>
+    <input id="archive-search" type="search" placeholder="Search headlines, stories and tags…" autocomplete="off">
+    <div class="category-filters" role="group" aria-label="Filter by category">
+      <button type="button" class="active" data-category="all">All</button>
+      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+        <button type="button" data-category="{{ $name | urlize }}">{{ $name | humanize }}</button>
+      {{ end }}
+    </div>
+    <p class="search-status" aria-live="polite"></p>
+  </div>
+  <div class="archive-results">
+    {{ $posts := where (where .Site.RegularPages "Section" "posts") "Params.review" "ne" true }}
+    {{ range $posts.ByDate.Reverse }}
+      {{ partial "story-row.html" (dict "page" . "searchable" true) }}
+    {{ end }}
+  </div>
+  <p class="no-results" hidden>No stories match that search.</p>
+</section>
+{{ end }}

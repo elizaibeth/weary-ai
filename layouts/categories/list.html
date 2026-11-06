@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ if eq .Kind "taxonomy" }}
+<section class="archive taxonomy-index">
+  <p class="eyebrow">BROWSE THE ARCHIVE</p>
+  <h1>Categories</h1>
+  <div class="category-grid">
+    {{ range .Data.Terms.Alphabetical }}
+      <a href="{{ .Page.RelPermalink }}"><span>{{ .Page.Title }}</span><small>{{ .Count }} {{ if eq .Count 1 }}story{{ else }}stories{{ end }}</small></a>
+    {{ end }}
+  </div>
+  {{ with .Site.Taxonomies.tags }}
+  <h2 class="taxonomy-subhead">Tags</h2>
+  <div class="category-grid">
+    {{ range .ByCount }}
+      <a href="{{ .Page.RelPermalink }}"><span>{{ .Page.Title }}</span><small>{{ .Count }} {{ if eq .Count 1 }}story{{ else }}stories{{ end }}</small></a>
+    {{ end }}
+  </div>
+  {{ end }}
+</section>
+{{ else }}
+<section class="archive taxonomy-term">
+  <p class="eyebrow">CATEGORY</p>
+  <h1>{{ .Title }}</h1>
+  <div class="archive-results">
+    {{ range .Pages.ByDate.Reverse }}
+      {{ partial "story-row.html" (dict "page" .) }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}

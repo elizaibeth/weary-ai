@@ -1,0 +1,148 @@
+name: Daily edition
+on:
+  schedule:
+    # research.fetch_recent_headlines prefers the last 12h, widening to
+    # 24h, so a single fixed run time each day is enough.
+    - cron: '7 13 * * *' # 13:07 UTC: 1pm GMT, 2pm BST; off the hour to dodge GitHub's busiest slot
+  workflow_dispatch:
+    inputs:
+      date:
+        description: Edition date (YYYY-MM-DD). Leave blank for today.
+        type: string
+        default: ''
+      story_url:
+        description: Optional story URL. Bypasses discovery and ranking; evidence and verification still run.
+        type: string
+        default: ''
+permissions:
+  contents: read
+concurrency:
+  group: daily-edition
+  cancel-in-progress: false
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          ref: main
+      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        working-directory: pipeline
+        run: uv sync --no-active --locked
+      - name: Test editor
+        working-directory: pipeline
+        run: uv run --no-active --locked pytest -q
+      - name: Restore evidence cache
+        id: evidence-cache
+        uses: actions/cache/restore@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+        with:
+          path: |
+            .weary/gdelt_cache
+            .weary/evidence/documents
+            .weary/evidence/search
+            .weary/evidence/search-budget
+          key: evidence-v2-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: evidence-v2-${{ runner.os }}-
+      - name: Run daily editor
+        working-directory: pipeline
+        env:
+          TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
+          WEARY_MAX_SEARCHES: '2'
+          WEARY_SEARCH_REQUESTS_PER_RUN: '6'
+          WEARY_SEARCH_REQUESTS_PER_DAY: '6'
+          WEARY_SEARCH_REQUESTS_PER_MONTH: '100'
+          WEARY_BRAVE_STORAGE_ALLOWED: ${{ vars.WEARY_BRAVE_STORAGE_ALLOWED || 'false' }}
+          RUNWARE_API_KEY: ${{ secrets.RUNWARE_API_KEY }}
+          WEARY_RESEARCH_MODEL: ${{ vars.WEARY_RESEARCH_MODEL }}
+          WEARY_WRITER_MODEL: ${{ vars.WEARY_WRITER_MODEL }}
+          WEARY_REPAIRER_MODEL: ${{ vars.WEARY_REPAIRER_MODEL }}
+          WEARY_LLM_FALLBACK_MODEL: ${{ vars.WEARY_LLM_FALLBACK_MODEL }}
+          WEARY_GENERATE_IMAGES: ${{ vars.WEARY_GENERATE_IMAGES || 'true' }}
+          WEARY_IMAGE_PROVIDER: ${{ vars.WEARY_IMAGE_PROVIDER || 'runware' }}
+          WEARY_IMAGE_MODEL: ${{ vars.WEARY_IMAGE_MODEL || 'runware:100@1' }}
+          WEARY_AUTO_PUBLISH: ${{ vars.WEARY_AUTO_PUBLISH || 'true' }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          WEARY_NOTIFIED_MARKER: ${{ github.workspace }}/.weary/slack-notified
+          EDITION_DATE: ${{ inputs.date }}
+          STORY_URL: ${{ inputs.story_url }}
+        run: |
+          editor_args=()
+          if [ -n "$EDITION_DATE" ]; then
+            editor_args+=(--date "$EDITION_DATE")
+          fi
+          if [ -n "$STORY_URL" ]; then
+            editor_args+=(--url "$STORY_URL")
+          fi
+          uv run --no-active --locked python -m agent "${editor_args[@]}"
+      - name: Build and smoke-test production container
+        run: |
+          docker build --tag weary-news-two:daily .
+          docker run --detach --name weary-news-two-daily --env PORT=8080 weary-news-two:daily
+          trap 'docker rm --force weary-news-two-daily' EXIT
+          for attempt in 1 2 3 4 5; do
+            if docker exec weary-news-two-daily wget --quiet --spider http://127.0.0.1:8080/healthz; then break; fi
+            if [ "$attempt" = 5 ]; then
+              docker logs weary-news-two-daily
+              exit 1
+            fi
+            sleep 1
+          done
+          docker exec weary-news-two-daily wget --quiet --spider http://127.0.0.1:8080/
+      - name: Save the new edition
+        run: |
+          git config user.name 'Weary editor'
+          git config user.email 'weary-editor@users.noreply.github.com'
+          git add content/posts pipeline/runs
+          if ! git diff --cached --quiet; then
+            # Run logs feed the ranking's observed pass rates, so they are kept even without a new post.
+            if git diff --cached --quiet -- content/posts; then message='Record daily run'; else message='Publish daily edition'; fi
+            git commit -m "$message"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Keep diagnostics when an edition fails
+        if: failure()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: editorial-diagnostics-${{ github.run_id }}
+          path: .weary/
+          include-hidden-files: true
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Save evidence packets
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: evidence-packets-${{ github.run_id }}
+          path: .weary/evidence/packet-*.json
+          include-hidden-files: true
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Save evidence cache and search request budget
+        if: always() && steps.evidence-cache.outputs.cache-primary-key != ''
+        uses: actions/cache/save@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+        with:
+          path: |
+            .weary/gdelt_cache
+            .weary/evidence/documents
+            .weary/evidence/search
+            .weary/evidence/search-budget
+          key: ${{ steps.evidence-cache.outputs.cache-primary-key }}
+      - name: Alert Slack when a failure was not already reported
+        if: failure()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          # The editor writes this marker after delivering its own failure alert.
+          if [ -f .weary/slack-notified ] || [ -z "$SLACK_WEBHOOK_URL" ]; then exit 0; fi
+          jq -n --arg text "*Daily edition failed* outside the editor's own reporting (setup, tests, container build or saving the edition). <$RUN_URL|View run logs>" '{text: $text}' \
+            | curl --fail --silent --show-error -X POST -H 'Content-Type: application/json' --data @- "$SLACK_WEBHOOK_URL"

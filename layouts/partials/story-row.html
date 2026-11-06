@@ -1,0 +1,14 @@
+{{- $page := .page -}}
+{{- $category := index $page.Params.categories 0 -}}
+<article class="archive-item"{{ if .searchable }} data-search="{{ printf "%s %s %s %s" $page.Title $page.Description ($page.Plain | truncate 600) (delimit $page.Params.tags " ") | plainify }}" data-category="{{ $category | urlize }}"{{ end }}>
+  <a class="archive-row" href="{{ $page.RelPermalink }}">
+    <span class="archive-thumb">{{ with $page.Resources.GetMatch "cover.webp" }}{{ $thumb := .Fill "600x400 webp q80" }}<img src="{{ $thumb.RelPermalink }}" alt="" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" loading="lazy">{{ end }}</span>
+    <div class="archive-copy">
+      <div class="archive-meta"><time>{{ $page.Date.Format "02 Jan 2006" }}</time>{{ with $category }}<span>{{ . }}</span>{{ end }}</div>
+      <h3>{{ $page.Title }}</h3>
+      {{ with $page.Description }}<p>{{ . }}</p>{{ end }}
+      {{ with $page.Params.tags }}<div class="chip-list">{{ range . }}<span class="chip">{{ . }}</span>{{ end }}</div>{{ end }}
+    </div>
+    <b aria-hidden="true">→</b>
+  </a>
+</article>

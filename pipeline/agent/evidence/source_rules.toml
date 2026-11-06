@@ -1,0 +1,216 @@
+# Eligible origins, not a guarantee that a page supports a particular claim.
+# Domains include their subdomains; paths use shell-style wildcards.
+# Unknown origins are not primary sources. Add narrow rules as coverage grows.
+[[sources]]
+domain = "openai.com"
+paths = ["/index/*", "/blog/*", "/research/*", "/misalignment-reports/*", "/*incident*", "/policies/*"]
+kind = "company_statement"
+aliases = ["OpenAI", "ChatGPT", "GPT"]
+[[sources]]
+domain = "anthropic.com"
+paths = ["/news/*", "/research/*", "/transparency/*", "/legal/*"]
+kind = "company_statement"
+aliases = ["Anthropic", "Claude"]
+[[sources]]
+domain = "blog.google"
+paths = ["/*"]
+kind = "company_statement"
+aliases = ["Google", "Gemini"]
+[[sources]]
+domain = "deepmind.google"
+paths = ["/discover/blog/*", "/blog/*", "/research/*"]
+kind = "company_statement"
+aliases = ["Google", "DeepMind", "Gemini"]
+[[sources]]
+domain = "blogs.microsoft.com"
+paths = ["/*"]
+kind = "company_statement"
+aliases = ["Microsoft", "Copilot"]
+[[sources]]
+domain = "microsoft.com"
+paths = ["/en-us/research/*", "/en-us/microsoft-copilot/blog/*"]
+kind = "company_statement"
+aliases = ["Microsoft", "Copilot"]
+[[sources]]
+domain = "about.fb.com"
+paths = ["/news/*"]
+kind = "company_statement"
+aliases = ["Meta", "Facebook", "Llama"]
+[[sources]]
+domain = "ai.meta.com"
+paths = ["/blog/*", "/research/*"]
+kind = "company_statement"
+aliases = ["Meta", "Llama"]
+[[sources]]
+domain = "nvidia.com"
+paths = ["/en-us/*", "/blog/*", "/*"]
+kind = "company_statement"
+aliases = ["Nvidia"]
+[[sources]]
+domain = "uscourts.gov"
+paths = ["/*"]
+kind = "court_document"
+aliases = ["court", "appeals", "judge", "ruling"]
+[[sources]]
+domain = "supremecourt.gov"
+paths = ["/opinions/*", "/docket/*"]
+kind = "court_document"
+aliases = ["court", "appeals", "judge", "ruling"]
+[[sources]]
+domain = "diu.mil"
+paths = ["/latest/*", "/work-with-us/*"]
+kind = "government_document"
+aliases = ["Pentagon", "Defense", "DIU", "Polygraph"]
+[[sources]]
+domain = "war.gov"
+paths = ["/Portals/*", "/News/*", "/news/*"]
+kind = "government_document"
+aliases = ["Pentagon", "Defense", "budget", "DCSA"]
+[[sources]]
+domain = "defense.gov"
+paths = ["/Portals/*", "/News/*", "/news/*"]
+kind = "government_document"
+aliases = ["Pentagon", "Defense", "budget", "DCSA"]
+[[sources]]
+domain = "dcsa.mil"
+paths = ["/*"]
+kind = "government_document"
+aliases = ["DCSA", "Pentagon", "Polygraph"]
+[[sources]]
+domain = "ftc.gov"
+paths = ["/news-events/*", "/legal-library/*", "/system/files/*"]
+kind = "government_document"
+aliases = ["FTC", "antitrust", "regulator"]
+[[sources]]
+domain = "justice.gov"
+paths = ["/*"]
+kind = "government_document"
+aliases = ["Justice", "DOJ", "antitrust", "lawsuit"]
+[[sources]]
+domain = "sec.gov"
+paths = ["/Archives/*", "/newsroom/*", "/news/*"]
+kind = "government_document"
+aliases = ["SEC", "acquisition", "acquire", "merger"]
+[[sources]]
+domain = "gov.uk"
+paths = ["/government/*", "/cma-cases/*"]
+kind = "government_document"
+aliases = ["UK", "Britain", "British", "CMA"]
+[[sources]]
+domain = "europa.eu"
+paths = ["/*"]
+kind = "government_document"
+aliases = ["EU", "European", "Commission"]
+[[sources]]
+domain = "arxiv.org"
+paths = ["/abs/*", "/pdf/*", "/html/*"]
+kind = "research_paper"
+aliases = ["research", "paper", "study"]
+[[sources]]
+domain = "newsroom.amd.com"
+paths = ["/news/*"]
+kind = "company_statement"
+aliases = ["AMD", "World Labs"]
+[[sources]]
+domain = "worldlabs.ai"
+paths = ["/blog/*"]
+kind = "company_statement"
+aliases = ["World Labs", "Fei-Fei Li"]
+[[sources]]
+domain = "drfeifei.substack.com"
+paths = ["/p/*"]
+kind = "company_statement"
+aliases = ["World Labs", "Fei-Fei Li"]
+# Added 2026-11-04 with their discovery feeds (research._PRIMARY_FEEDS).
+[[sources]]
+domain = "huggingface.co"
+paths = ["/blog/*"]
+exclude_paths = ["/blog/*/*"]  # community posts by any user are not Hugging Face statements
+kind = "company_statement"
+aliases = ["Hugging Face"]
+[[sources]]
+domain = "research.google"
+paths = ["/blog/*"]
+kind = "company_statement"
+aliases = ["Google", "Google Research"]
+[[sources]]
+domain = "machinelearning.apple.com"
+paths = ["/research/*"]
+kind = "company_statement"
+aliases = ["Apple"]
+[[sources]]
+domain = "allenai.org"
+paths = ["/blog/*"]
+kind = "company_statement"
+aliases = ["Ai2", "Allen Institute", "OLMo"]
+[[sources]]
+domain = "salesforce.com"
+paths = ["/blog/*"]
+kind = "company_statement"
+aliases = ["Salesforce", "Agentforce"]
+[[sources]]
+domain = "metr.org"
+paths = ["/blog/*"]
+kind = "research_paper"
+aliases = ["METR"]
+[[sources]]
+domain = "federalregister.gov"
+paths = ["/documents/*"]
+kind = "government_document"
+aliases = ["rule", "regulation", "executive order"]
+[[sources]]
+domain = "whitehouse.gov"
+paths = ["/presidential-actions/*", "/briefings-statements/*", "/fact-sheets/*", "/articles/*", "/releases/*"]
+kind = "government_document"
+aliases = ["White House", "executive order"]
+[[sources]]
+domain = "nist.gov"
+paths = ["/news-events/news/*", "/publications/*", "/artificial-intelligence/*"]
+kind = "government_document"
+aliases = ["NIST"]
+[[sources]]
+domain = "aws.amazon.com"
+paths = ["/blogs/machine-learning/*"]
+kind = "company_statement"
+aliases = ["AWS", "Amazon"]
+[[sources]]
+domain = "amazon.science"
+paths = ["/blog/*", "/news-and-features/*"]
+kind = "company_statement"
+aliases = ["Amazon"]
+[[sources]]
+domain = "cloud.google.com"
+paths = ["/blog/*"]
+kind = "company_statement"
+aliases = ["Google", "Google Cloud", "Gemini"]
+[[sources]]
+domain = "bair.berkeley.edu"
+paths = ["/blog/*"]
+kind = "research_paper"
+aliases = ["Berkeley", "BAIR"]
+[[sources]]
+domain = "news.mit.edu"
+paths = ["/20*"]
+kind = "company_statement"
+aliases = ["MIT"]
+# Security advisories (added 2026-11-04 after PHP2Shell was missed).
+[[sources]]
+domain = "cisa.gov"
+paths = ["/news-events/alerts/*", "/news-events/cybersecurity-advisories/*", "/news-events/news/*", "/known-exploited-vulnerabilities-catalog*"]
+kind = "government_document"
+aliases = ["CISA"]
+[[sources]]
+domain = "ncsc.gov.uk"
+paths = ["/news/*", "/blogs/*", "/blog-post/*", "/report/*", "/guidance/*", "/information/*"]
+kind = "government_document"
+aliases = ["NCSC"]
+[[sources]]
+domain = "php.net"
+paths = ["/index.php", "/archive/*", "/releases/*", "/ChangeLog-*"]
+kind = "company_statement"
+aliases = ["PHP"]
+[[sources]]
+domain = "projectzero.google"  # its old Blogspot feed now links here
+paths = ["/20*"]
+kind = "research_paper"
+aliases = ["Project Zero", "Google"]

@@ -1,0 +1,15 @@
+:{$PORT:8080} {
+	respond /healthz 200
+	root * /srv
+	encode zstd gzip
+	file_server
+
+	header {
+		Content-Security-Policy "default-src 'self'; base-uri 'none'; connect-src 'self' https://*.google-analytics.com; form-action 'none'; frame-ancestors 'none'; img-src 'self' data:; object-src 'none'; script-src 'self' https://www.googletagmanager.com; style-src 'self'"
+		Permissions-Policy "camera=(), geolocation=(), microphone=()"
+		X-Frame-Options DENY
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+		-Server
+	}
+}

@@ -1,0 +1,17 @@
+Old ranking vs new ranking, on 19 past days.
+Answer key: every headline graded 0-3 by GPT-5.5 (evals/gold.qrels).
+
+                         Old    New
+Best story first          54%    63%
+A good story first        84%    88%
+Model calls per day         1      2
+
+The new ranking was better on 5 days, worse on 2 (2026-10-22, 2026-10-26), the same on 12.
+
+Each new technique on its own (best story first; old ranking 54%):
+  merging duplicate stories       53%
+  ranking twice, shuffled         54%
+  expected-value order            58%
+  avoiding last week's topics     54%
+
+Full table: summary.md in this folder.

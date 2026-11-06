@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="archive">
+  <p class="eyebrow">{{ if eq .Section "posts" }}THE BACK ISSUES{{ else }}BROWSE WEARY.AI{{ end }}</p>
+  <h1>{{ if eq .Section "posts" }}One day at a time.{{ else }}{{ .Title }}{{ end }}</h1>
+  {{ if eq .Section "posts" }}
+    <div class="archive-tools" id="search">
+      <label for="archive-search">Search the archive</label>
+      <input id="archive-search" type="search" placeholder="Search headlines, stories and tags…" autocomplete="off">
+      <div class="category-filters" role="group" aria-label="Filter by category">
+        <button type="button" class="active" data-category="all">All</button>
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+          <button type="button" data-category="{{ $name | urlize }}">{{ $name | humanize }}</button>
+        {{ end }}
+      </div>
+      <p class="search-status" aria-live="polite"></p>
+    </div>
+  {{ end }}
+  <div class="archive-results">
+    {{ $pages := where .Pages "Params.review" "ne" true }}
+    {{ range $pages.ByDate.Reverse }}
+      {{ partial "story-row.html" (dict "page" . "searchable" true) }}
+    {{ else }}
+      <p>The first edition is on its way.</p>
+    {{ end }}
+  </div>
+  <p class="no-results" hidden>No stories match that search.</p>
+</section>
+{{ end }}

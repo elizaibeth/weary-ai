@@ -1,0 +1,7 @@
+/astral-sh/ruff
+/astral-sh/uv
+/pre-commit/pre-commit
+/pytest-dev/pytest
+/pytest-dev/pytest-cov
+/python/cpython
+/python/mypy

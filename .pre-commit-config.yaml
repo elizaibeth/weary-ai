@@ -1,0 +1,38 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: trailing-whitespace
+        exclude: ^pipeline/evals/replies/  # saved model replies, kept byte for byte
+      - id: end-of-file-fixer
+        exclude: ^pipeline/evals/replies/
+      - id: check-yaml
+      - id: check-toml
+      - id: check-merge-conflict
+      - id: detect-private-key
+
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.30.1
+    hooks:
+      - id: gitleaks
+
+  - repo: local
+    hooks:
+      - id: ruff-check
+        name: ruff check (pipeline)
+        entry: bash -c 'cd pipeline && uv run ruff check --fix .'
+        language: system
+        files: ^pipeline/.*\.py$
+        pass_filenames: false
+      - id: ruff-format
+        name: ruff format (pipeline)
+        entry: bash -c 'cd pipeline && uv run ruff format .'
+        language: system
+        files: ^pipeline/.*\.py$
+        pass_filenames: false
+      - id: mypy
+        name: mypy (pipeline)
+        entry: bash -c 'cd pipeline && uv run mypy'
+        language: system
+        files: ^pipeline/agent/.*\.py$
+        pass_filenames: false

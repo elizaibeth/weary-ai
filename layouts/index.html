@@ -1,0 +1,48 @@
+{{ define "main" }}
+<section class="home-intro">
+  <div>
+    <p class="eyebrow">ONE CLEAR EDITION · DAILY</p>
+    <h1>Enough AI<br>for today<span class="dot">.</span></h1>
+  </div>
+  <div class="home-promise">
+    <p>The most important AI story of the day, reported clearly and checked against its sources. On Saturdays, an opinion column on the week's news. On Sundays, the research paper of the week.</p>
+    <span>Weekdays: the day's story · Saturday: <a href="{{ "series/opinion/" | relURL }}">opinion</a> · Sunday: <a href="{{ "series/research-paper-of-the-week/" | relURL }}">research paper</a></span>
+  </div>
+</section>
+
+{{ $posts := where (where .Site.RegularPages "Section" "posts") "Params.review" "ne" true }}
+{{ with first 1 $posts.ByDate.Reverse }}{{ range . }}
+<section class="latest home-latest">
+  <div class="section-label"><span>TODAY’S EDITION</span><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Monday, 2 January 2006" }}</time></div>
+  <article class="lead-story">
+    <div class="lead-visual">
+      {{ $url := .RelPermalink }}{{ $alt := .Params.image_alt }}{{ $caption := .Params.image_caption }}
+      {{ with .Resources.GetMatch "cover.webp" }}{{ $display := .Resize "1200x webp q82" }}<a href="{{ $url }}"><img class="cover" src="{{ $display.RelPermalink }}" alt="{{ $alt }}" width="{{ $display.Width }}" height="{{ $display.Height }}"></a>{{ end }}
+      {{ with $caption }}<p class="image-credit">{{ . }}</p>{{ end }}
+    </div>
+    <div class="lead-copy">
+      <div class="lead-meta">{{ with index .Params.categories 0 }}<a href="{{ printf "categories/%s/" (. | urlize) | relURL }}">{{ . }}</a>{{ end }}<span>One story · {{ math.Round (div (countwords .Plain) 200.0) }} min read</span></div>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p class="dek">{{ .Description }}</p>
+      <a class="read" href="{{ .RelPermalink }}">Read today’s story <span>→</span></a>
+    </div>
+  </article>
+</section>
+{{ end }}{{ else }}
+<section class="empty"><span class="status-dot"></span><p class="eyebrow">THE FIRST EDITION IS ON ITS WAY</p><h2>Less scrolling.<br>A little more perspective.</h2><p>We’re getting ready to pick one AI story a day, verify it and leave it there.</p><a class="read" href="{{ "about/" | relURL }}">How this works <span>→</span></a></section>
+{{ end }}
+
+{{ if gt (len $posts) 1 }}
+<section class="home-previous">
+  <div class="section-label"><span>PREVIOUS EDITIONS</span><a href="{{ "posts/" | relURL }}">View the archive →</a></div>
+  {{ range first 4 (after 1 $posts.ByDate.Reverse) }}
+    <a class="home-previous-row" href="{{ .RelPermalink }}">
+      <time>{{ .Date.Format "02 Jan" }}</time>
+      <h3>{{ .Title }}</h3>
+      {{ with index .Params.categories 0 }}<span>{{ . }}</span>{{ end }}
+      <b aria-hidden="true">→</b>
+    </a>
+  {{ end }}
+</section>
+{{ end }}
+{{ end }}

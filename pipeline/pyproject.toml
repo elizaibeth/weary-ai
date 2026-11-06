@@ -1,0 +1,39 @@
+[project]
+name = "weary-news-two"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "pillow>=13.0.0",
+    "pypdf>=6.21.4",
+    "slack-sdk>=3.44.1",
+    "typesafe-sdk>=0.7.1",
+]
+
+[dependency-groups]
+dev = [
+    "mypy>=2.3.1",
+    "pip-audit>=2.10.1",
+    "pytest>=8",
+    "pytest-cov>=7.1.0",
+    "ruff>=0.16.9",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "G", "LOG"]
+# Several modules carry long, deliberately single-line prompt/house-style
+# strings and test-fixture JSON literals that a formatter can't rewrap
+# without breaking their content - line length is advisory here, not enforced.
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.11"
+files = ["agent", "evals"]
+ignore_missing_imports = true

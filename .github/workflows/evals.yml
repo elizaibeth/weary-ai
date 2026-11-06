@@ -1,0 +1,48 @@
+name: Weekly ranking eval
+# Grows the gold set from the past week's run logs, grades the new days and
+# reruns the old-vs-new ranking comparison. Labels added here are silver until
+# a person reviews pipeline/evals/review.md.
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Mondays, well clear of the daily run
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: daily-edition # shares the daily run's lock, so the two never push at once
+  cancel-in-progress: false
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          ref: main
+      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        working-directory: pipeline
+        run: uv sync --no-active --locked
+      - name: Add new days from run logs, grade them, and compare rankings
+        working-directory: pipeline
+        env:
+          RUNWARE_API_KEY: ${{ secrets.RUNWARE_API_KEY }}
+        run: |
+          uv run --no-active --locked python -m evals.from_runs
+          uv run --no-active --locked python -m evals.label
+          uv run --no-active --locked python -m evals.run --label weekly
+          cat evals/results/weekly/summary.txt >> "$GITHUB_STEP_SUMMARY"
+      - name: Commit results
+        run: |
+          git config user.name 'Weary editor'
+          git config user.email 'weary-editor@users.noreply.github.com'
+          git add pipeline/evals
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update weekly ranking eval'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

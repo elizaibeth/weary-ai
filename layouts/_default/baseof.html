@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title }} · {{ end }}Weary.ai</title>
+  <meta name="description" content="{{ .Description | default .Site.Params.description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
+  <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+  <link rel="alternate" type="application/rss+xml" title="Weary.ai" href="{{ "index.xml" | absURL }}">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="{{ if eq .Section "posts" }}article{{ else }}website{{ end }}">
+  {{ with .Resources.GetMatch "cover.webp" }}{{ $social := .Resize "1200x jpg q85" }}<meta property="og:image" content="{{ $social.Permalink }}"><meta property="og:image:alt" content="{{ $.Params.image_alt }}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{{ $social.Permalink }}">{{ end }}
+  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
+  {{ if eq .Section "posts" }}<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+  {{ if .Draft }}<meta name="robots" content="noindex">{{ end }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T5SYZWPKEK"></script>
+  <script src="{{ "js/analytics.js" | relURL }}" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead"><a class="brand" href="{{ .Site.Home.RelPermalink }}">weary<span>.ai</span></a><nav class="main-nav" aria-label="Main navigation"><a href="{{ "posts/" | relURL }}">Archive</a><a href="{{ "categories/" | relURL }}">Categories</a><a href="{{ "search/" | relURL }}">Search</a><a href="{{ "about/" | relURL }}">About</a></nav></header>
+<main id="main">{{ block "main" . }}{{ end }}</main>
+<footer><a class="brand small" href="{{ .Site.Home.RelPermalink }}">weary.ai</a><span>Enough AI for today.</span><nav aria-label="Footer"><a href="{{ "about/" | relURL }}">About</a><a href="{{ "posts/" | relURL }}">Archive</a><a href="{{ "index.xml" | relURL }}">RSS →</a></nav></footer>
+<script src="{{ "js/archive.js" | relURL }}" defer></script>
+</body>
+</html>

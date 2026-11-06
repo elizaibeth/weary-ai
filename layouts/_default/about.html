@@ -1,0 +1,23 @@
+{{ define "main" }}
+<section class="about-page">
+  <p class="eyebrow">ABOUT WEARY.AI</p>
+  <div class="about-intro">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+  </div>
+  <div class="about-grid">
+    {{ range $index, $section := .Params.sections }}
+      <section class="about-section">
+        <span aria-hidden="true">0{{ add $index 1 }}</span>
+        <h2>{{ $section.title }}</h2>
+        <p>{{ $section.text }}</p>
+      </section>
+    {{ end }}
+  </div>
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  <div class="about-cta">
+    <div><p class="eyebrow">ENOUGH EXPLANATION</p><h2>Read the story. Close the tab.</h2></div>
+    {{ with first 1 $posts.ByDate.Reverse }}{{ range . }}<a class="read" href="{{ .RelPermalink }}">Read today’s story <span>→</span></a>{{ end }}{{ else }}<a class="read" href="{{ "posts/" | relURL }}">Browse the archive <span>→</span></a>{{ end }}
+  </div>
+</section>
+{{ end }}

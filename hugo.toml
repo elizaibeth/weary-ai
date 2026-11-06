@@ -1,0 +1,15 @@
+baseURL = 'https://weary.ai/'
+languageCode = 'en-gb'
+title = 'Weary.ai'
+timeZone = 'Europe/London'
+enableRobotsTXT = true
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  series = 'series'
+[params]
+  description = 'The most important AI story of the day, checked against its sources. Plus an opinion column on Saturdays and the research paper of the week on Sundays.'
+[markup.goldmark.renderer]
+  unsafe = false
+[outputs]
+  home = ['HTML', 'RSS']

@@ -1,0 +1,74 @@
+name: Check site
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        working-directory: pipeline
+        run: uv sync --no-active --locked
+      - name: Lint editor
+        working-directory: pipeline
+        run: uv run --no-active --locked ruff check .
+      - name: Check editor formatting
+        working-directory: pipeline
+        run: uv run --no-active --locked ruff format --check .
+      - name: Type-check editor
+        working-directory: pipeline
+        run: uv run --no-active --locked mypy
+      - name: Test editor
+        working-directory: pipeline
+        run: uv run --no-active --locked pytest --cov=agent --cov-report=term-missing -q
+      - name: Audit editor dependencies
+        working-directory: pipeline
+        run: uv run --no-active --locked pip-audit
+      - name: Check discovery sources are reachable from Actions
+        # Informational: a site can work locally yet refuse GitHub's runners
+        # (openai.com returns 403 here). Read this step's log, it never fails.
+        working-directory: pipeline
+        continue-on-error: true
+        timeout-minutes: 5
+        run: uv run --no-active --locked python -m agent.source_check
+      - name: Install Hugo
+        env:
+          HUGO_VERSION: '0.160.1'
+        run: |
+          curl --fail --location --retry 3 --output "$RUNNER_TEMP/hugo.tar.gz" "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          mkdir -p "$RUNNER_TEMP/hugo-bin"
+          tar -xzf "$RUNNER_TEMP/hugo.tar.gz" -C "$RUNNER_TEMP/hugo-bin" hugo
+          echo "$RUNNER_TEMP/hugo-bin" >> "$GITHUB_PATH"
+      - name: Build public site (drafts and future posts excluded)
+        run: hugo --minify --gc --cleanDestinationDir
+      - name: Build with a sample series post
+        # A paper-of-the-week post broke the series pages on 4 Nov 2026 while
+        # this check passed, because no committed post had a series yet.
+        run: |
+          sample=content/posts/ci-sample-series-post
+          mkdir -p "$sample"
+          printf '%s\n' '---' 'title: "CI sample paper"' 'description: "Sample."' 'date: 2026-11-01' \
+            'draft: false' 'categories: ["Research"]' 'tags: ["AI"]' 'why_today: "Sample."' \
+            'series: ["Research paper of the week"]' '---' '' 'Sample body.' > "$sample/index.md"
+          hugo --minify --gc --destination "$RUNNER_TEMP/sample-site"
+          rm -r "$sample"
+          grep -q 'CI sample paper' "$RUNNER_TEMP/sample-site/series/research-paper-of-the-week/index.html"
+      - name: Build and smoke-test production container
+        run: |
+          docker build --tag weary-news-two:ci .
+          docker run --detach --name weary-news-two-ci --env PORT=8080 --publish 18080:8080 weary-news-two:ci
+          trap 'docker rm --force weary-news-two-ci' EXIT
+          for attempt in 1 2 3 4 5; do
+            if curl --fail --silent http://127.0.0.1:18080/healthz; then break; fi
+            if [ "$attempt" = 5 ]; then exit 1; fi
+            sleep 1
+          done
+          curl --fail --silent --show-error http://127.0.0.1:18080/ > /dev/null

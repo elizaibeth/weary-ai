@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{ $series := "" }}{{ with .Params.series }}{{ $series = index . 0 }}{{ end }}
+<article class="story">
+{{ if eq .Section "posts" }}<p class="eyebrow">THE DAILY EDITION · {{ .Date.Format "2 January 2006" | upper }}</p>{{ with index .Params.categories 0 }}<div class="story-taxonomy"><a href="{{ printf "categories/%s/" (. | urlize) | relURL }}">{{ . }}</a>{{ range $.Params.tags }}<a href="{{ printf "tags/%s/" (. | urlize) | relURL }}">{{ . }}</a>{{ end }}</div>{{ end }}{{ end }}
+{{ if .Draft }}<p class="draft">Preview · Unpublished draft</p>{{ end }}
+{{ if .Params.review }}<aside class="draft review-banner"><strong>Editorial review draft</strong><span>{{ .Params.review_reason }}</span></aside>{{ end }}
+{{ with .Params.series }}{{ $series := index . 0 }}<p class="series-label"><a href="{{ printf "series/%s/" ($series | urlize) | relURL }}">{{ $series }}</a></p>{{ end }}
+<h1>{{ .Title }}</h1>{{ with .Params.why_today }}<div class="dek"><p class="dek-label">{{ if eq $series "Opinion" }}Why this argument?{{ else if $series }}Why this paper?{{ else }}Why this story?{{ end }}</p><p>{{ . }}</p></div>{{ end }}
+<div class="story-content">
+{{ $alt := .Params.image_alt }}{{ $caption := .Params.image_caption }}{{ with .Resources.GetMatch "cover.webp" }}{{ $display := .Resize "1000x webp q82" }}<figure><img class="cover" src="{{ $display.RelPermalink }}" alt="{{ $alt }}" width="{{ $display.Width }}" height="{{ $display.Height }}">{{ with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>{{ end }}
+{{ if eq $series "Opinion" }}<p class="opinion-note">Opinion, written by AI from this week's verified reporting. Every factual claim is checked against the primary sources listed below; the argument is the column's own.</p>{{ end }}
+<div class="prose">{{ .Content }}</div>
+{{ if eq $series "Opinion" }}{{ with .Params.origin_urls }}<section class="discussed"><h2>This week's stories</h2><ul>{{ range . }}{{ $path := strings.TrimSuffix "/" (replaceRE "^https?://[^/]+" "" .) }}{{ with site.GetPage $path }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span>{{ .Date.Format "2 January" }}</span></li>{{ end }}{{ end }}</ul></section>{{ end }}{{ end }}
+</div>
+{{ if eq .Section "posts" }}
+<div class="share" data-share-url="{{ .Permalink }}" data-share-title="{{ .Title }}">
+  <p>Share this story</p>
+  <div class="share-actions">
+    <button type="button" data-native-share hidden>Share</button>
+    <button type="button" data-copy-link>Copy link</button>
+    <a href="https://bsky.app/intent/compose?text={{ printf "%s %s" .Title .Permalink | urlquery }}" target="_blank" rel="noopener noreferrer">Bluesky</a>
+    <a href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&amp;url={{ .Permalink | urlquery }}" target="_blank" rel="noopener noreferrer">X</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | urlquery }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    <a href="https://www.reddit.com/submit?url={{ .Permalink | urlquery }}&amp;title={{ .Title | urlquery }}" target="_blank" rel="noopener noreferrer">Reddit</a>
+  </div>
+  <span class="share-status" role="status" aria-live="polite"></span>
+</div>
+<div class="signoff"><span class="status-dot"></span>That’s enough AI for today.<small>Researched and written by AI. Sources linked above.</small></div>
+<script src="{{ "js/share.js" | relURL }}" defer></script>
+{{ end }}
+</article>
+{{ end }}
