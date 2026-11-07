@@ -1,0 +1,226 @@
+{
+  "day": "2026-11-07",
+  "mode": "live",
+  "started_at": "2026-11-07T18:00:12+00:00",
+  "discovered": [
+    {
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-07T15:50:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
+    },
+    {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-07T15:43:45+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-07T15:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-07T12:30:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+    },
+    {
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-07T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/"
+    },
+    {
+      "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+      "url": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-07T10:30:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201"
+    },
+    {
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-07T15:25:35+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/"
+    },
+    {
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-07T14:10:19+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/"
+    },
+    {
+      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-07T10:16:23+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/"
+    },
+    {
+      "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "url": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-06T18:01:00+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/"
+    },
+    {
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-06T22:20:20+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
+    },
+    {
+      "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+      "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-06T18:03:26+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+    },
+    {
+      "title": "How to predict the behavior of molecules from scant data",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-06T19:00:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
+    }
+  ],
+  "passes": [
+    {
+      "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": 0.78,
+      "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos": 0.18,
+      "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": 0.33,
+      "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201": 0.52,
+      "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/": 0.96,
+      "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/": 0.87
+    },
+    {
+      "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/": 0.95,
+      "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": 0.74,
+      "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos": 0.15,
+      "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201": 0.48,
+      "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/": 0.88,
+      "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": 0.72,
+      "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/": 0.22
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Google is calling access controls and exploit warnings safety, while leaving the real exposure unchanged.",
+      "url": "https://weary.ai/posts/google-says-darksword-iphone-exploit-chain-has-been-used-by-multiple-actors/",
+      "kind": "opinion",
+      "importance": 1.0,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0
+    },
+    {
+      "rank": 2,
+      "headline": "Hackers pull off $133 million French bank heist via service provider",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "kind": "news",
+      "importance": 0.955,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.705
+    },
+    {
+      "rank": 3,
+      "headline": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "kind": "news",
+      "importance": 0.875,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.5788
+    },
+    {
+      "rank": 4,
+      "headline": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "kind": "news",
+      "importance": 0.75,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.475
+    },
+    {
+      "rank": 5,
+      "headline": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "kind": "news",
+      "importance": 0.535,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2577
+    },
+    {
+      "rank": 6,
+      "headline": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+      "url": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+      "kind": "news",
+      "importance": 0.5,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.25
+    },
+    {
+      "rank": 7,
+      "headline": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "kind": "news",
+      "importance": 0.165,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.085
+    },
+    {
+      "rank": 8,
+      "headline": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "kind": "news",
+      "importance": 0.11,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.14
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Google is calling access controls and exploit warnings safety, while leaving the real exposure unchanged.",
+      "url": "https://weary.ai/posts/google-says-darksword-iphone-exploit-chain-has-been-used-by-multiple-actors/",
+      "kind": "opinion",
+      "official": false,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "google-rebrands-controls-as-safety",
+    "live": true
+  }
+}
