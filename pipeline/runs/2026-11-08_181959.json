@@ -1,0 +1,194 @@
+{
+  "day": "2026-11-08",
+  "mode": "live",
+  "started_at": "2026-11-08T18:19:59+00:00",
+  "discovered": [
+    {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-08T17:23:19+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+    },
+    {
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-08T12:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/"
+    },
+    {
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-08T10:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
+    },
+    {
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-08T15:43:08+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/"
+    },
+    {
+      "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+      "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-08T12:14:00+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/"
+    },
+    {
+      "title": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
+      "feed": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22artificial+intelligence%22&conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PRORULE&conditions%5Btype%5D%5B%5D=PRESDOCU&order=newest",
+      "published": "2026-11-09T05:00:00+00:00",
+      "official": true,
+      "event": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+    }
+  ],
+  "passes": [
+    {
+      "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit": 0.89,
+      "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/": 0.42,
+      "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/": 0.16
+    },
+    {
+      "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit": 0.89,
+      "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other": 0.58,
+      "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/": 0.41,
+      "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/": 0.33
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+      "url": "https://arxiv.org/abs/2611.05275",
+      "kind": "paper",
+      "importance": 0.76,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.6471
+    },
+    {
+      "rank": 2,
+      "headline": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
+      "url": "https://arxiv.org/abs/2611.04814",
+      "kind": "paper",
+      "importance": 0.67,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5571
+    },
+    {
+      "rank": 3,
+      "headline": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+      "url": "https://arxiv.org/abs/2611.06918",
+      "kind": "paper",
+      "importance": 0.66,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5471
+    },
+    {
+      "rank": 4,
+      "headline": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+      "url": "https://arxiv.org/abs/2611.08373",
+      "kind": "paper",
+      "importance": 0.33,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2171
+    },
+    {
+      "rank": 5,
+      "headline": "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
+      "url": "https://arxiv.org/abs/2611.02737",
+      "kind": "paper",
+      "importance": 0.315,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2021
+    },
+    {
+      "rank": 6,
+      "headline": "Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy",
+      "url": "https://arxiv.org/abs/2611.00617",
+      "kind": "paper",
+      "importance": 0.26,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1471
+    },
+    {
+      "rank": 7,
+      "headline": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+      "url": "https://arxiv.org/abs/2611.04916",
+      "kind": "paper",
+      "importance": 0.24,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1271
+    },
+    {
+      "rank": 8,
+      "headline": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "kind": "news",
+      "importance": 0.89,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2233
+    },
+    {
+      "rank": 9,
+      "headline": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
+      "kind": "news",
+      "importance": 0.29,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1771
+    },
+    {
+      "rank": 10,
+      "headline": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "kind": "news",
+      "importance": 0.375,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2917
+    },
+    {
+      "rank": 11,
+      "headline": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "kind": "news",
+      "importance": 0.285,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3817
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+      "url": "https://arxiv.org/abs/2611.05275",
+      "kind": "paper",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "researchers-study-routing-across-models-tools-and-policies-in-general-purpose-ai-systems",
+    "live": true
+  }
+}
