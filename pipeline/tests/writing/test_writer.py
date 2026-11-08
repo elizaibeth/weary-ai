@@ -528,3 +528,15 @@ def test_column_paragraphs_keep_facts_and_argument_separately():
     assert first.argument == "That looks like a bet on scale."
     assert first.published_text == f"{first.text} {first.argument}"
     assert first.argument in result.body_text
+
+
+def test_passage_markers_are_removed_from_every_published_field():
+    payload = _valid_payload(
+        title="Company launches new model (P1)",
+        image_alt="An editorial illustration of a launch (P1, P2)",
+        image_caption="A rocket rising past a company logo [P1]",
+    )
+    payload["paragraphs"][0]["text"] += " (P1; P2)"
+    d = writer.draft(CANDIDATE, EVIDENCE, client=_client(payload))
+    published = [d.title, d.image_alt, d.image_caption, d.paragraphs[0].text]
+    assert not any("P1" in text or "P2" in text for text in published), published

@@ -150,10 +150,10 @@ def parse_draft(raw: str, evidence: EvidencePacket, catalog: dict, aliases: dict
     for number, paragraph in enumerate(data.get("paragraphs", []), start=1):
         paragraph["source_ids"], paragraph["passage_ids"] = resolve(paragraph.get("passage_ids"), f"paragraph {number}")
     data["sources"] = list(used_sources.values())
-    for field in ("title", "description", "why_today", "image_caption"):
+    for field in ("title", "description", "why_today", "image_caption", "image_alt"):
         if isinstance(data.get(field), str):
             data[field] = strip_passage_markers(data[field])
-            if field != "image_caption":
+            if field not in ("image_caption", "image_alt"):
                 data[field] = replace_dashes(data[field])
     for p in data.get("paragraphs", []):
         for key in ("text", "argument"):

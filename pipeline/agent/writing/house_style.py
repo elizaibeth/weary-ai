@@ -56,8 +56,12 @@ CAPTION_BANNED_RE = re.compile(r"\b(represents|symbolises|symbolizes|image|illus
 # or parenthesised reference number in the prose itself (e.g. "[1]", "(2)")
 # is always a leftover citation-marker habit, never something intentional.
 _INLINE_CITATION_RE = re.compile(r"[\[(]\s*\d{1,2}\s*[\])]")
-# Passage IDs are metadata; models sometimes echo them into prose ("[P1][P6]").
-PASSAGE_MARKER_RE = re.compile(r"\s*\[\s*P\d{1,3}(?:\s*,\s*P\d{1,3})*\s*\]")
+# Passage IDs are metadata; models sometimes echo them into prose, in square
+# or round brackets: "[P1][P6]", "(P1, P2, P4)", "(P1-P3)", "(see P2)". Only a
+# bracket holding nothing but IDs matches, so "(P2 class)" stays.
+_PASSAGE_ID = r"P\d{1,3}(?:\s*[-–]\s*P?\d{1,3})?"
+_PASSAGE_IDS = rf"\s*(?:(?:see|passages?)\s+)?{_PASSAGE_ID}(?:\s*(?:,|;|&|\band\b)\s*{_PASSAGE_ID})*\s*"
+PASSAGE_MARKER_RE = re.compile(rf"\s*(?:\[{_PASSAGE_IDS}\]|\({_PASSAGE_IDS}\))", re.IGNORECASE)
 
 
 def strip_passage_markers(text: str) -> str:
