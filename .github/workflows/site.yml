@@ -6,6 +6,8 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
+env:
+  HUGO_VERSION: '0.160.1' # keep in step with the hugomods/hugo image in the Dockerfile
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -39,14 +41,26 @@ jobs:
         continue-on-error: true
         timeout-minutes: 5
         run: uv run --no-active --locked python -m agent.source_check
-      - name: Install Hugo
-        env:
-          HUGO_VERSION: '0.160.1'
+      # Cached, because GitHub's release downloads sometimes return 504 for
+      # minutes at a time (twice on 8 Nov 2026), which failed the check and so
+      # held back the Railway deploy.
+      - name: Restore Hugo
+        id: hugo-cache
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/hugo-bin
+          key: hugo-extended-${{ env.HUGO_VERSION }}-${{ runner.os }}
+      - name: Download Hugo
+        if: steps.hugo-cache.outputs.cache-hit != 'true'
         run: |
-          curl --fail --location --retry 3 --output "$RUNNER_TEMP/hugo.tar.gz" "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          curl --fail --location --retry 6 --retry-delay 15 --retry-all-errors --output "$RUNNER_TEMP/hugo.tar.gz" \
+            "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
           mkdir -p "$RUNNER_TEMP/hugo-bin"
           tar -xzf "$RUNNER_TEMP/hugo.tar.gz" -C "$RUNNER_TEMP/hugo-bin" hugo
+      - name: Add Hugo to the path
+        run: |
           echo "$RUNNER_TEMP/hugo-bin" >> "$GITHUB_PATH"
+          "$RUNNER_TEMP/hugo-bin/hugo" version
       - name: Build public site (drafts and future posts excluded)
         run: hugo --minify --gc --cleanDestinationDir
       - name: Build with a sample series post
