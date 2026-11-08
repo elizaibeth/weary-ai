@@ -45,20 +45,23 @@ HistoricalSearch = Callable[[str, date], list[SearchHit]]
 # Reporting feeds supply leads only. BBC Technology is a general feed, so
 # only AI titles are kept (see _GENERAL_FEEDS).
 _BBC_TECH_FEED = "https://feeds.bbci.co.uk/news/technology/rss.xml"
-_REPORTING_FEEDS = (
-    "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-    "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "https://www.wired.com/feed/tag/ai/latest/rss",
-    _BBC_TECH_FEED,
-    # Security outlets, unfiltered: they carry AI-in-security stories (AI used
-    # in attacks, AI tools with flaws). Ranking drops items with no AI angle.
+# Security outlets, unfiltered: they carry AI-in-security stories (AI used in
+# attacks, AI tools with flaws). Ranking drops items with no AI angle.
+_SECURITY_REPORTING_FEEDS = (
     "https://www.theregister.com/security/headlines.atom",
     "https://krebsonsecurity.com/feed/",
     "https://www.bleepingcomputer.com/feed/",
     "https://www.darkreading.com/rss.xml",
     "https://www.securityweek.com/feed/",
     "https://therecord.media/feed",
+)
+_REPORTING_FEEDS = (
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "https://www.wired.com/feed/tag/ai/latest/rss",
+    _BBC_TECH_FEED,
+    *_SECURITY_REPORTING_FEEDS,
 )
 # Article domains for the one-query historical Brave fallback (feed hosts
 # such as feeds.bbci.co.uk are not where the articles live).
@@ -77,6 +80,17 @@ _FEDERAL_REGISTER_AI_FEED = (
 _WHITE_HOUSE_FEED = "https://www.whitehouse.gov/news/feed/"
 _NIST_FEED = "https://www.nist.gov/news-events/news/rss.xml"
 _UK_GOV_AI_FEED = "https://www.gov.uk/search/news-and-communications.atom?keywords=artificial+intelligence"
+# Security advisories: CISA alerts (including Known Exploited Vulnerabilities
+# additions) and joint advisories, the UK NCSC, the PHP project, and Google
+# Project Zero. They are primary sources when an advisory is about AI.
+# CISA's industrial-control advisories are left out as routine.
+_SECURITY_ADVISORY_FEEDS = (
+    "https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
+    "https://www.cisa.gov/cybersecurity-advisories/cybersecurity-advisories.xml",
+    "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
+    "https://www.php.net/feed.atom",
+    "https://googleprojectzero.blogspot.com/feeds/posts/default",
+)
 _PRIMARY_FEEDS = (
     # AI labs and companies
     _ANTHROPIC_NEWS,
@@ -104,16 +118,11 @@ _PRIMARY_FEEDS = (
     _WHITE_HOUSE_FEED,
     _NIST_FEED,
     _UK_GOV_AI_FEED,
-    # Security advisories: CISA alerts (including Known Exploited
-    # Vulnerabilities additions) and joint advisories, the UK NCSC, the PHP
-    # project, and Google Project Zero. CISA's industrial-control advisories
-    # are left out as routine.
-    "https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
-    "https://www.cisa.gov/cybersecurity-advisories/cybersecurity-advisories.xml",
-    "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
-    "https://www.php.net/feed.atom",
-    "https://googleprojectzero.blogspot.com/feeds/posts/default",
+    *_SECURITY_ADVISORY_FEEDS,
 )
+# Feeds about security in general, not AI: only the ranking model can tell
+# which of their items have an AI angle (see `likely_ai`).
+_SECURITY_FEEDS = frozenset(_SECURITY_REPORTING_FEEDS + _SECURITY_ADVISORY_FEEDS)
 # Feeds that also carry non-AI posts: keep AI titles only. (The gov.uk search
 # matches any page mentioning AI, so most of its titles are unrelated.)
 _GENERAL_FEEDS = frozenset(
@@ -132,7 +141,16 @@ _AI_TOPIC_RE = re.compile(
     r"Gemini|Copilot|Llama|GPT|LLMs?|chatbots?|superintelligence)\b",
     re.I,
 )
+# Stricter, for security feeds: "agents" and "models" there are usually FBI
+# agents and threat models.
+_AI_NAMED_RE = re.compile(
+    r"\b(AI|artificial intelligence|machine learning|agentic|OpenAI|Anthropic|ChatGPT|Claude|Gemini|Copilot|"
+    r"Llama|GPT|LLMs?|chatbots?|deepfakes?|superintelligence)\b",
+    re.I,
+)
 _MAX_ITEMS_PER_FEED = 30
+
+
 _ATOM_NS = "{http://www.w3.org/2005/Atom}"
 _GDELT_URL = "https://api.gdeltproject.org/api/v2/doc/doc"
 # Community-upvoted AI papers; free, no key. Each item links to arXiv.
@@ -147,6 +165,13 @@ class Headline:
     url: str
     published: datetime | None = None
     feed: str = ""  # the feed or page it came from, for the run log
+
+
+def likely_ai(headline: Headline) -> bool:
+    """Whether a headline may be about AI, judged without a model: anything
+    from an AI feed, and items from security feeds only when the title names
+    AI. Used when the ranking model is unavailable."""
+    return headline.feed not in _SECURITY_FEEDS or bool(_AI_NAMED_RE.search(headline.title))
 
 
 def _parse_date(text: str | None) -> datetime | None:

@@ -16,7 +16,7 @@ from pathlib import Path
 
 from agent.evidence.source_rules import eligible_rule, load_rules
 from agent.research.candidate import Candidate
-from agent.research.discovery import Headline
+from agent.research.discovery import Headline, likely_ai
 from agent.research.ranking_core import (
     LEGACY,
     NEWS_PROMPT,
@@ -70,6 +70,7 @@ def rank_headlines(
 ) -> str:
     """Ranked candidates for these real headlines, as JSON for `candidates_from_json`."""
     settings = settings or config()
+    news = template is not PAPER_PROMPT
     if not real_headlines:
         log.info("no real headlines to rank")
         return json.dumps({"candidates": []})
@@ -77,7 +78,7 @@ def rank_headlines(
     coverage: dict[str, int] = {}
     headlines = real_headlines
     event_of = {h.url: h.url for h in real_headlines}
-    if settings.cluster and template is not PAPER_PROMPT:
+    if settings.cluster and news:
         groups = cluster(real_headlines)
         reps = representatives(groups, rules)
         headlines = [h for h, _ in reps]
@@ -104,7 +105,7 @@ def rank_headlines(
         )
         if proposed is not None:
             kept = grounded(proposed, headlines)
-            if template is not PAPER_PROMPT:
+            if news:
                 before = len(kept)
                 kept = on_topic(kept)
                 if len(kept) < before:
@@ -115,8 +116,19 @@ def rank_headlines(
     passes = [{c["url"]: c.get("importance_score") for c in reply} for reply in replies]
     if not replies:
         # Real headlines are still real: an unranked list beats losing the day.
-        log.warning("ranking unavailable; using %s headline(s) unranked in feed order", len(headlines))
-        return json.dumps({"candidates": unranked(headlines), "discovered": discovered, "passes": passes})
+        # Without the model's ai_related flag, security-feed items need an AI
+        # title. The filter runs before picking one headline per event, so an
+        # AI report is not lost when an official non-AI advisory represents it.
+        fallback = headlines
+        if news:
+            seen: set[str] = set()
+            fallback = []
+            for h in real_headlines:
+                if likely_ai(h) and event_of[h.url] not in seen:
+                    seen.add(event_of[h.url])
+                    fallback.append(h)
+        log.warning("ranking unavailable; using %s headline(s) unranked in feed order", len(fallback))
+        return json.dumps({"candidates": unranked(fallback), "discovered": discovered, "passes": passes})
     merged = average(replies) if len(replies) > 1 else replies[0]
     candidates = [dict(c, coverage=coverage.get(c["url"], 1)) for c in merged]
     # `discovered` and `passes` are for the run log: everything ranking could

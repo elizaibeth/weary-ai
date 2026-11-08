@@ -457,3 +457,55 @@ def test_a_day_with_no_ai_story_has_no_candidates_rather_than_the_unranked_feed(
         ],
     )
     assert kept == []
+
+
+def test_without_a_ranking_model_security_feed_items_need_an_ai_title(monkeypatch):
+    cisa = "https://www.cisa.gov/cybersecurity-advisories/alerts.xml"
+    register = "https://www.theregister.com/security/headlines.atom"
+    headlines = [
+        Headline("CISA adds a CVE to its catalog", "https://www.cisa.gov/a", feed=cisa),
+        Headline("Bank confirms cyber heist", "https://www.theregister.com/b", feed=register),
+        Headline("AI agent escapes its sandbox", "https://www.theregister.com/c", feed=register),
+        Headline("Google ships Gemini 5", "https://blog.google/d", feed="https://blog.google/technology/ai/rss/"),
+    ]
+    monkeypatch.setattr("agent.research.discovery.fetch_headlines", lambda day: headlines)
+    monkeypatch.setattr("agent.research.ranking.llm.complete", lambda prompt, model: "")  # model unavailable
+
+    data = json.loads(_default_client("2026-11-06"))
+
+    assert [c["url"] for c in data["candidates"]] == ["https://www.theregister.com/c", "https://blog.google/d"]
+
+
+def test_without_a_ranking_model_agents_and_models_alone_do_not_make_a_security_item_about_ai(monkeypatch):
+    record = "https://therecord.media/feed"
+    headlines = [
+        Headline("FBI agents arrest ransomware suspect", "https://therecord.media/a", feed=record),
+        Headline("New threat model for banks", "https://therecord.media/b", feed=record),
+        Headline("Deepfake scammers stole $25 million", "https://therecord.media/c", feed=record),
+    ]
+    monkeypatch.setattr("agent.research.discovery.fetch_headlines", lambda day: headlines)
+    monkeypatch.setattr("agent.research.ranking.llm.complete", lambda prompt, model: "")
+
+    data = json.loads(_default_client("2026-11-06"))
+
+    assert [c["url"] for c in data["candidates"]] == ["https://therecord.media/c"]
+
+
+def test_without_a_ranking_model_an_ai_report_is_kept_when_it_clusters_with_a_non_ai_advisory(monkeypatch):
+    advisory = Headline(
+        "CISA warns of exploited Exchange flaw",
+        "https://www.cisa.gov/news-events/alerts/2026/11/06/exchange",
+        feed="https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
+    )
+    report = Headline(
+        "CISA warns of exploited Exchange flaw found by AI",
+        "https://www.bleepingcomputer.com/news/security/exchange-ai/",
+        feed="https://www.bleepingcomputer.com/feed/",
+    )
+    monkeypatch.setattr("agent.research.discovery.fetch_headlines", lambda day: [advisory, report])
+    monkeypatch.setattr("agent.research.ranking.llm.complete", lambda prompt, model: "")
+
+    data = json.loads(_default_client("2026-11-06"))
+
+    assert {e["event"] for e in data["discovered"]} == {advisory.url}  # the two really are one event
+    assert [c["url"] for c in data["candidates"]] == [report.url]
