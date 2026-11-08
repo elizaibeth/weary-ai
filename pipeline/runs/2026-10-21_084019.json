@@ -1,0 +1,208 @@
+{
+  "day": "2026-10-21",
+  "mode": "backfill",
+  "started_at": "2026-11-08T08:40:19+00:00",
+  "discovered": [
+    {
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "feed": "https://krebsonsecurity.com/feed/",
+      "published": "2026-10-21T15:26:07+00:00",
+      "official": false,
+      "event": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
+    },
+    {
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "feed": "https://www.anthropic.com/news",
+      "published": "2026-10-21T23:59:59+00:00",
+      "official": true,
+      "event": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
+    },
+    {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "feed": "https://blog.google/technology/ai/rss/",
+      "published": "2026-10-21T04:00:00+00:00",
+      "official": true,
+      "event": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
+    },
+    {
+      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+      "feed": "https://research.google/blog/rss/",
+      "published": "2026-10-21T16:23:53+00:00",
+      "official": true,
+      "event": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/"
+    },
+    {
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "feed": "https://www.microsoft.com/en-us/research/feed/",
+      "published": "2026-10-21T16:00:00+00:00",
+      "official": true,
+      "event": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/"
+    },
+    {
+      "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+      "url": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-10-21T12:30:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/"
+    },
+    {
+      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-10-21T12:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/"
+    },
+    {
+      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
+      "feed": "https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
+      "published": "2026-10-21T12:00:00+00:00",
+      "official": true,
+      "event": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching"
+    },
+    {
+      "title": "Critical security issue affecting PHP",
+      "url": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php",
+      "feed": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
+      "published": "2026-10-21T12:00:00+00:00",
+      "official": true,
+      "event": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php"
+    },
+    {
+      "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+      "url": "https://www.php.net/index.php#2026-10-21-5",
+      "feed": "https://www.php.net/feed.atom",
+      "published": "2026-10-21T00:35:26+00:00",
+      "official": true,
+      "event": "https://www.php.net/index.php#2026-10-21-5"
+    },
+    {
+      "title": "PHP 8.6.0 RC4 available for testing",
+      "url": "https://www.php.net/index.php#2026-10-21-6",
+      "feed": "https://www.php.net/feed.atom",
+      "published": "2026-10-21T15:41:41+00:00",
+      "official": true,
+      "event": "https://www.php.net/index.php#2026-10-21-6"
+    },
+    {
+      "title": "PHP 8.5.12 Released!",
+      "url": "https://www.php.net/index.php#2026-10-21-4",
+      "feed": "https://www.php.net/feed.atom",
+      "published": "2026-10-21T00:24:52+00:00",
+      "official": true,
+      "event": "https://www.php.net/index.php#2026-10-21-4"
+    },
+    {
+      "title": "PHP 8.4.27 Released!",
+      "url": "https://www.php.net/index.php#2026-10-21-3",
+      "feed": "https://www.php.net/feed.atom",
+      "published": "2026-10-21T00:20:54+00:00",
+      "official": true,
+      "event": "https://www.php.net/index.php#2026-10-21-4"
+    },
+    {
+      "title": "PHP 8.3.36 Released!",
+      "url": "https://www.php.net/index.php#2026-10-21-2",
+      "feed": "https://www.php.net/feed.atom",
+      "published": "2026-10-21T00:14:54+00:00",
+      "official": true,
+      "event": "https://www.php.net/index.php#2026-10-21-4"
+    },
+    {
+      "title": "PHP 8.2.35 Released!",
+      "url": "https://www.php.net/index.php#2026-10-21-1",
+      "feed": "https://www.php.net/feed.atom",
+      "published": "2026-10-21T00:05:37+00:00",
+      "official": true,
+      "event": "https://www.php.net/index.php#2026-10-21-4"
+    }
+  ],
+  "passes": [
+    {
+      "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/": 0.72,
+      "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/": 0.68,
+      "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/": 0.78,
+      "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust": 0.41
+    },
+    {
+      "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/": 0.95,
+      "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/": 0.78,
+      "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust": 0.52,
+      "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/": 0.34,
+      "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/": 0.33
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
+      "kind": "news",
+      "importance": 0.865,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.7031
+    },
+    {
+      "rank": 2,
+      "headline": "Empowering frontline maternal care with AI-assisted ultrasound",
+      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+      "kind": "news",
+      "importance": 0.75,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.631
+    },
+    {
+      "rank": 3,
+      "headline": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "kind": "news",
+      "importance": 0.51,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.391
+    },
+    {
+      "rank": 4,
+      "headline": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "kind": "news",
+      "importance": 0.465,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.346
+    },
+    {
+      "rank": 5,
+      "headline": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+      "url": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
+      "kind": "news",
+      "importance": 0.165,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.046
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "google-cloud-adds-openai-models-to-its-model-garden",
+    "live": true
+  }
+}

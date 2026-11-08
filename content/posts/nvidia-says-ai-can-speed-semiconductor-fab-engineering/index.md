@@ -1,4 +1,5 @@
 ---
+aliases: ["/posts/former-u-s-contractor-pleads-guilty-to-spying-for-ethiopia/"]
 title: "Nvidia says AI can speed semiconductor fab engineering"
 description: "Nvidia said AI tools can help semiconductor engineers simulate plasma behavior in milliseconds instead of days, letting teams test more process options before physical trials."
 date: 2026-11-04

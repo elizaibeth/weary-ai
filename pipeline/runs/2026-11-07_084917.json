@@ -1,0 +1,238 @@
+{
+  "day": "2026-11-07",
+  "mode": "backfill",
+  "started_at": "2026-11-08T08:49:17+00:00",
+  "discovered": [
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-07T22:07:22+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-07T21:17:08+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-07T01:40:28+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+    },
+    {
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-07T15:50:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
+    },
+    {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-07T15:43:45+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-07T15:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-07T12:30:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+    },
+    {
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-07T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/"
+    },
+    {
+      "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+      "url": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-07T10:30:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201"
+    },
+    {
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-07T15:25:35+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/"
+    },
+    {
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-07T14:10:19+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/"
+    },
+    {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-07T00:00:55+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+    },
+    {
+      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-07T10:16:23+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/": 0.62,
+      "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/": 0.74,
+      "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/": 0.58,
+      "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review": 0.18,
+      "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": 0.84,
+      "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos": 0.22,
+      "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": 0.71,
+      "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/": 0.16
+    },
+    {
+      "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": 0.92,
+      "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": 0.88,
+      "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/": 0.71,
+      "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos": 0.58,
+      "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/": 0.67,
+      "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/": 0.54,
+      "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/": 0.38
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "OpenAI is marketing safer hacking tools while proving how useful offensive AI already is",
+      "url": "https://weary.ai/posts/openai-says-gpt-6-cyber-found-new-firefox-flaws-and-helped-test-linux-exploits/",
+      "kind": "opinion",
+      "importance": 1.0,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0
+    },
+    {
+      "rank": 2,
+      "headline": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "kind": "news",
+      "importance": 0.86,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1683
+    },
+    {
+      "rank": 3,
+      "headline": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "kind": "news",
+      "importance": 0.815,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1211
+    },
+    {
+      "rank": 4,
+      "headline": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "kind": "news",
+      "importance": 0.705,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0169
+    },
+    {
+      "rank": 5,
+      "headline": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "kind": "news",
+      "importance": 0.645,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0417
+    },
+    {
+      "rank": 6,
+      "headline": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "kind": "news",
+      "importance": 0.58,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0867
+    },
+    {
+      "rank": 7,
+      "headline": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "kind": "news",
+      "importance": 0.4,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2667
+    },
+    {
+      "rank": 8,
+      "headline": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "kind": "news",
+      "importance": 0.27,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3967
+    },
+    {
+      "rank": 9,
+      "headline": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "kind": "news",
+      "importance": 0.09,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.5767
+    }
+  ],
+  "tries": [
+    {
+      "headline": "OpenAI is marketing safer hacking tools while proving how useful offensive AI already is",
+      "url": "https://weary.ai/posts/openai-says-gpt-6-cyber-found-new-firefox-flaws-and-helped-test-linux-exploits/",
+      "kind": "opinion",
+      "official": false,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "openai-is-pitching-safety-while-proving-offense-works",
+    "live": true
+  }
+}

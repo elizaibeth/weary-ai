@@ -1,0 +1,33 @@
+{
+  "day": "2026-10-24",
+  "mode": "backfill",
+  "started_at": "2026-11-08T08:44:09+00:00",
+  "discovered": [],
+  "passes": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Google Cloud is rebranding other companies’ models as its own AI platform",
+      "url": "https://weary.ai/posts/google-cloud-adds-openai-models-to-its-model-garden/",
+      "kind": "opinion",
+      "importance": 1.0,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Google Cloud is rebranding other companies’ models as its own AI platform",
+      "url": "https://weary.ai/posts/google-cloud-adds-openai-models-to-its-model-garden/",
+      "kind": "opinion",
+      "official": false,
+      "outcome": "unverified",
+      "reason": "unverified claim [body]: Google Cloud said Gemini Omni 1.2 Flash is generally available on Google Cloud and can be used in Google Vids, Gemini for business, and via API."
+    }
+  ],
+  "outcome": {
+    "published": "google-cloud-repackages-openai-as-platform-choice",
+    "live": false
+  }
+}

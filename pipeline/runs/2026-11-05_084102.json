@@ -1,0 +1,884 @@
+{
+  "day": "2026-11-05",
+  "mode": "backfill",
+  "started_at": "2026-11-08T08:41:02+00:00",
+  "discovered": [
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-05T22:40:55+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-05T19:48:28+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-05T19:12:39+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+    },
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-05T19:06:12+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+    },
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-05T18:02:27+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+    },
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-05T18:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-05T16:16:45+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
+    },
+    {
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-05T21:37:18+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/"
+    },
+    {
+      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-05T16:26:57+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/"
+    },
+    {
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-05T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/aina-smart-ring/"
+    },
+    {
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-05T13:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
+    },
+    {
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-05T12:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/"
+    },
+    {
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-05T11:45:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/"
+    },
+    {
+      "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
+      "url": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-05T22:37:06+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978"
+    },
+    {
+      "title": "The White House is apparently a popular residential proxy exit spot",
+      "url": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-05T20:50:57+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969"
+    },
+    {
+      "title": "Get root on a musl Linux system by slamming it with an overly long password",
+      "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-05T18:29:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910"
+    },
+    {
+      "title": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-05T18:03:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852"
+    },
+    {
+      "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
+      "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-05T17:00:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855"
+    },
+    {
+      "title": "Tobacco company got smoked by leaving secret recipes on a file share",
+      "url": "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-05T16:02:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704"
+    },
+    {
+      "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
+      "url": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-05T13:00:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684"
+    },
+    {
+      "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-05T12:10:15+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796"
+    },
+    {
+      "title": "Norway's aid agency pwned and all users' data is stolen",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-05T11:19:16+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765"
+    },
+    {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "feed": "https://krebsonsecurity.com/feed/",
+      "published": "2026-11-05T04:36:17+00:00",
+      "official": false,
+      "event": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/"
+    },
+    {
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-05T21:30:30+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+    },
+    {
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-05T20:15:08+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/"
+    },
+    {
+      "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-05T22:13:23+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina"
+    },
+    {
+      "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+      "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-05T21:35:05+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos"
+    },
+    {
+      "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-05T21:00:47+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds"
+    },
+    {
+      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-05T20:05:39+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users"
+    },
+    {
+      "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+      "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-05T16:48:36+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "feed": "https://blog.google/technology/ai/rss/",
+      "published": "2026-11-05T17:00:00+00:00",
+      "official": true,
+      "event": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "published": "2026-11-05T17:05:16+00:00",
+      "official": true,
+      "event": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    },
+    {
+      "title": "Detecting signs of hypertension using wearable sensors",
+      "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+      "feed": "https://research.google/blog/rss/",
+      "published": "2026-11-05T16:01:08+00:00",
+      "official": true,
+      "event": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/"
+    },
+    {
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+      "feed": "https://www.microsoft.com/en-us/research/feed/",
+      "published": "2026-11-05T16:00:00+00:00",
+      "official": true,
+      "event": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/"
+    },
+    {
+      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-05T20:00:41+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/"
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-05T17:00:35+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+    },
+    {
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-05T16:00:05+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/"
+    },
+    {
+      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-05T16:00:00+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/"
+    },
+    {
+      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-05T14:00:34+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/"
+    },
+    {
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "feed": "https://machinelearning.apple.com/rss.xml",
+      "published": "2026-11-05T00:00:00+00:00",
+      "official": true,
+      "event": "https://machinelearning.apple.com/research/faster-retrieval"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-05T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/phonon-tts"
+    },
+    {
+      "title": "Interactive Visual Gym: Evaluating Visual Interaction Models Through Simulation",
+      "url": "https://www.salesforce.com/blog/interactive-visual-gym/",
+      "feed": "https://www.salesforce.com/blog/category/ai-research/feed/",
+      "published": "2026-11-05T20:01:17+00:00",
+      "official": true,
+      "event": "https://www.salesforce.com/blog/interactive-visual-gym/"
+    },
+    {
+      "title": "Review of the \"Risks from automated R&D\" section in Anthropic's Risk Report (August 2026)",
+      "url": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/",
+      "feed": "https://metr.org/blog/rss.xml",
+      "published": "2026-11-05T08:00:00+00:00",
+      "official": true,
+      "event": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/"
+    },
+    {
+      "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "feed": "https://metr.org/blog/rss.xml",
+      "published": "2026-11-05T08:00:00+00:00",
+      "official": true,
+      "event": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+    },
+    {
+      "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-05T21:04:24+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-05T18:06:43+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/"
+    },
+    {
+      "title": "Hamed Karimi wins ECML PKDD Test-of-Time Award",
+      "url": "https://www.amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award",
+      "feed": "https://www.amazon.science/index.rss",
+      "published": "2026-11-05T14:57:23+00:00",
+      "official": true,
+      "event": "https://www.amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award"
+    },
+    {
+      "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-05T17:00:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/"
+    },
+    {
+      "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-05T16:00:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
+    },
+    {
+      "title": "Bringing conversational analytics to Gemini with Agentic Data Cloud connectors",
+      "url": "https://cloud.google.com/blog/products/data-analytics/query-enterprise-data-in-gemini-with-data-cloud-connectors/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-05T23:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/data-analytics/query-enterprise-data-in-gemini-with-data-cloud-connectors/"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-05T17:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/"
+    },
+    {
+      "title": "Clearing up a robot’s fuzzy memory",
+      "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-05T05:00:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105"
+    },
+    {
+      "title": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions",
+      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions",
+      "feed": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22artificial+intelligence%22&conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PRORULE&conditions%5Btype%5D%5B%5D=PRESDOCU&order=newest",
+      "published": "2026-11-05T05:00:00+00:00",
+      "official": true,
+      "event": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions"
+    },
+    {
+      "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+      "feed": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22artificial+intelligence%22&conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PRORULE&conditions%5Btype%5D%5B%5D=PRESDOCU&order=newest",
+      "published": "2026-11-05T05:00:00+00:00",
+      "official": true,
+      "event": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/": 0.72,
+      "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/": 0.65,
+      "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/": 0.61,
+      "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/": 0.77,
+      "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/": 0.7,
+      "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/": 0.31,
+      "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/": 0.64,
+      "https://www.wired.com/story/aina-smart-ring/": 0.44,
+      "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/": 0.58,
+      "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/": 0.35,
+      "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855": 0.8,
+      "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684": 0.71,
+      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": 0.74,
+      "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/": 0.42,
+      "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/": 0.55,
+      "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/": 0.69,
+      "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/": 0.46,
+      "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/": 0.18,
+      "https://blogs.nvidia.com/blog/memory-full-stack-codesign/": 0.6,
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/": 0.24,
+      "https://machinelearning.apple.com/research/faster-retrieval": 0.4,
+      "https://huggingface.co/blog/phonon-tts": 0.43,
+      "https://www.salesforce.com/blog/interactive-visual-gym/": 0.32,
+      "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/": 0.51,
+      "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/": 0.67,
+      "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/": 0.45,
+      "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/": 0.41,
+      "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/": 0.52,
+      "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/": 0.39,
+      "https://cloud.google.com/blog/products/data-analytics/query-enterprise-data-in-gemini-with-data-cloud-connectors/": 0.59,
+      "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/": 0.76,
+      "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105": 0.37,
+      "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions": 0.48,
+      "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology": 0.66
+    },
+    {
+      "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/": 0.88,
+      "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology": 0.74,
+      "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/": 0.45,
+      "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/": 0.33,
+      "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/": 0.08,
+      "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/": 0.41,
+      "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/": 0.52,
+      "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/": 0.3,
+      "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/": 0.55,
+      "https://www.salesforce.com/blog/interactive-visual-gym/": 0.22,
+      "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/": 0.58,
+      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": 0.69,
+      "https://machinelearning.apple.com/research/faster-retrieval": 0.26,
+      "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684": 0.63,
+      "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/": 0.37,
+      "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/": 0.46,
+      "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions": 0.18,
+      "https://huggingface.co/blog/phonon-tts": 0.21,
+      "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855": 0.57,
+      "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/": 0.4,
+      "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105": 0.2,
+      "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/": 0.72,
+      "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/": 0.28,
+      "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/": 0.19,
+      "https://blogs.nvidia.com/blog/memory-full-stack-codesign/": 0.23,
+      "https://cloud.google.com/blog/products/data-analytics/query-enterprise-data-in-gemini-with-data-cloud-connectors/": 0.34,
+      "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/": 0.17,
+      "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/": 0.64,
+      "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/": 0.86
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "kind": "news",
+      "importance": 0.765,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.6496
+    },
+    {
+      "rank": 2,
+      "headline": "Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
+      "kind": "news",
+      "importance": 0.74,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.6096
+    },
+    {
+      "rank": 3,
+      "headline": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+      "kind": "news",
+      "importance": 0.7,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5846
+    },
+    {
+      "rank": 4,
+      "headline": "Review of the \"Risks from automated R&D\" section in Anthropic's Risk Report (August 2026)",
+      "url": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/",
+      "kind": "news",
+      "importance": 0.695,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5796
+    },
+    {
+      "rank": 5,
+      "headline": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "kind": "news",
+      "importance": 0.715,
+      "official": true,
+      "coverage": 2,
+      "rank_key": 0.5796
+    },
+    {
+      "rank": 6,
+      "headline": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
+      "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+      "kind": "news",
+      "importance": 0.685,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.435
+    },
+    {
+      "rank": 7,
+      "headline": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
+      "url": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+      "kind": "news",
+      "importance": 0.67,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.42
+    },
+    {
+      "rank": 8,
+      "headline": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "kind": "news",
+      "importance": 0.66,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.41
+    },
+    {
+      "rank": 9,
+      "headline": "Detecting signs of hypertension using wearable sensors",
+      "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+      "kind": "news",
+      "importance": 0.47,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3546
+    },
+    {
+      "rank": 10,
+      "headline": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "kind": "news",
+      "importance": 0.58,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.33
+    },
+    {
+      "rank": 11,
+      "headline": "Bringing conversational analytics to Gemini with Agentic Data Cloud connectors",
+      "url": "https://cloud.google.com/blog/products/data-analytics/query-enterprise-data-in-gemini-with-data-cloud-connectors/",
+      "kind": "news",
+      "importance": 0.465,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3296
+    },
+    {
+      "rank": 12,
+      "headline": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "kind": "news",
+      "importance": 0.565,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.315
+    },
+    {
+      "rank": 13,
+      "headline": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "kind": "news",
+      "importance": 0.58,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.305
+    },
+    {
+      "rank": 14,
+      "headline": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+      "kind": "news",
+      "importance": 0.415,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2996
+    },
+    {
+      "rank": 15,
+      "headline": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+      "kind": "news",
+      "importance": 0.415,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2996
+    },
+    {
+      "rank": 16,
+      "headline": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
+      "kind": "news",
+      "importance": 0.355,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2396
+    },
+    {
+      "rank": 17,
+      "headline": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "kind": "news",
+      "importance": 0.51,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2386
+    },
+    {
+      "rank": 18,
+      "headline": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "kind": "news",
+      "importance": 0.505,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2383
+    },
+    {
+      "rank": 19,
+      "headline": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "kind": "news",
+      "importance": 0.33,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2146
+    },
+    {
+      "rank": 20,
+      "headline": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions",
+      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions",
+      "kind": "news",
+      "importance": 0.33,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2146
+    },
+    {
+      "rank": 21,
+      "headline": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "kind": "news",
+      "importance": 0.345,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2082
+    },
+    {
+      "rank": 22,
+      "headline": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "kind": "news",
+      "importance": 0.32,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2046
+    },
+    {
+      "rank": 23,
+      "headline": "Getting started with Web Answer on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
+      "kind": "news",
+      "importance": 0.31,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1946
+    },
+    {
+      "rank": 24,
+      "headline": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "kind": "news",
+      "importance": 0.325,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1846
+    },
+    {
+      "rank": 25,
+      "headline": "Clearing up a robot’s fuzzy memory",
+      "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+      "kind": "news",
+      "importance": 0.285,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1696
+    },
+    {
+      "rank": 26,
+      "headline": "Interactive Visual Gym: Evaluating Visual Interaction Models Through Simulation",
+      "url": "https://www.salesforce.com/blog/interactive-visual-gym/",
+      "kind": "news",
+      "importance": 0.27,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1315
+    },
+    {
+      "rank": 27,
+      "headline": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
+      "kind": "news",
+      "importance": 0.26,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1215
+    },
+    {
+      "rank": 28,
+      "headline": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "kind": "news",
+      "importance": 0.32,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.07
+    },
+    {
+      "rank": 29,
+      "headline": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
+      "kind": "news",
+      "importance": 0.195,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0582
+    },
+    {
+      "rank": 30,
+      "headline": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "kind": "news",
+      "importance": 0.32,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0513
+    },
+    {
+      "rank": 31,
+      "headline": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "kind": "news",
+      "importance": 0.32,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0513
+    },
+    {
+      "rank": 32,
+      "headline": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+      "kind": "news",
+      "importance": 0.13,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0146
+    },
+    {
+      "rank": 33,
+      "headline": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+      "kind": "news",
+      "importance": 0.12,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0168
+    },
+    {
+      "rank": 34,
+      "headline": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "kind": "news",
+      "importance": 0.225,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0464
+    },
+    {
+      "rank": 35,
+      "headline": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "kind": "news",
+      "importance": 0.22,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0488
+    },
+    {
+      "rank": 36,
+      "headline": "AI’s Next Trick? Speaking Dolphin",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "kind": "news",
+      "importance": 0.175,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.075
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "metr-says-anthropic-redacted-much-of-evidence-in-october-ai-r-d-assessment",
+    "live": true
+  }
+}

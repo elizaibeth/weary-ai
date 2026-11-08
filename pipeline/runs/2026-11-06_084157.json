@@ -1,0 +1,1150 @@
+{
+  "day": "2026-11-06",
+  "mode": "backfill",
+  "started_at": "2026-11-08T08:41:57+00:00",
+  "discovered": [
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-06T22:53:46+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-06T18:44:38+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-06T18:44:20+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-06T18:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-06T17:23:52+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-06T15:54:47+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-06T14:10:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+    },
+    {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-06T13:02:16+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-06T13:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-06T06:28:32+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+    },
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-06T23:46:18+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-06T23:00:44+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-06T20:02:22+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"
+    },
+    {
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-06T18:10:10+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+    },
+    {
+      "title": "AI is the new dating dealbreaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-06T17:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
+    },
+    {
+      "title": "Big Tech lost big in the 2026 election",
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-06T16:38:02+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "published": "2026-11-06T10:00:00+00:00",
+      "official": false,
+      "event": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-06T18:43:43+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/"
+    },
+    {
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-06T16:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
+    },
+    {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-06T21:06:25+00:00",
+      "official": false,
+      "event": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-06T18:32:16+00:00",
+      "official": false,
+      "event": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-06T13:25:50+00:00",
+      "official": false,
+      "event": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Agents reveal secrets when offered to team up with each other",
+      "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-06T21:39:23+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260"
+    },
+    {
+      "title": "DigiCert admits 16-month security lapse exposed customer information",
+      "url": "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-06T13:15:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097"
+    },
+    {
+      "title": "UK ministers seek powers to investigate when AI agents are let off the leash",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-06T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889"
+    },
+    {
+      "title": "Hospital gave very sick doctor a special PC for his personal, erm, pleasure",
+      "url": "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-06T06:31:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750"
+    },
+    {
+      "title": "AI agents are a 'bane' for some website operators, says Cloudflare",
+      "url": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-06T04:25:14+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022"
+    },
+    {
+      "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
+      "url": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-06T01:17:40+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000"
+    },
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-06T22:27:25+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+    },
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-06T20:24:19+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/"
+    },
+    {
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-06T18:46:52+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/"
+    },
+    {
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-06T17:04:23+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/"
+    },
+    {
+      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-06T15:25:31+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/"
+    },
+    {
+      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+      "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-06T15:00:10+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/"
+    },
+    {
+      "title": "Chainalysis says breach exposed credentials for all customers",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-06T14:17:07+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/"
+    },
+    {
+      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-06T12:37:22+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/"
+    },
+    {
+      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-06T09:22:28+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/"
+    },
+    {
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-06T00:56:44+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/"
+    },
+    {
+      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-06T21:27:36+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy"
+    },
+    {
+      "title": "AI Gave Your Incident Archive a Second Job",
+      "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-06T18:27:30+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job"
+    },
+    {
+      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
+      "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-06T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast"
+    },
+    {
+      "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-06T09:00:00+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk"
+    },
+    {
+      "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+      "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-06T18:28:41+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/"
+    },
+    {
+      "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+      "url": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-06T14:40:09+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/"
+    },
+    {
+      "title": "DigiCert Data Breach Impacts Business Customer Information",
+      "url": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-06T14:00:07+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/"
+    },
+    {
+      "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+      "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-06T13:19:52+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/"
+    },
+    {
+      "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
+      "url": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-06T13:02:26+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/"
+    },
+    {
+      "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
+      "url": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-06T12:47:55+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/"
+    },
+    {
+      "title": "Researchers Find Residential Proxies on White House Network",
+      "url": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-06T12:16:13+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/"
+    },
+    {
+      "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
+      "url": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-06T12:07:42+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/"
+    },
+    {
+      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+      "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-06T09:33:51+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/"
+    },
+    {
+      "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
+      "url": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-06T19:06:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/medical-services-company-settles-with-4-state-ags"
+    },
+    {
+      "title": "Certificate authority DigiCert reports data breach involving business customer info",
+      "url": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-06T18:56:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/digicert-certificate-authority-reports-data-breach"
+    },
+    {
+      "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
+      "url": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-06T16:53:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers"
+    },
+    {
+      "title": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
+      "url": "https://therecord.media/ceo-spoofing-scammers-charged",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-06T14:30:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/ceo-spoofing-scammers-charged"
+    },
+    {
+      "title": "EU accuses TikTok of trapping users in harmful ‘rabbit holes’",
+      "url": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-06T00:00:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation"
+    },
+    {
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-06T16:00:35+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-06T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/open-asr-leaderboard-liva"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://allenai.org/blog/toyblocks",
+      "feed": "https://allenai.org/rss.xml",
+      "published": "2026-11-06T08:00:00+00:00",
+      "official": true,
+      "event": "https://allenai.org/blog/toyblocks"
+    },
+    {
+      "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "url": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-06T18:01:00+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/"
+    },
+    {
+      "title": "Taxonomy of agentic primitives in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-06T17:34:45+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/"
+    },
+    {
+      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-06T17:13:13+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/"
+    },
+    {
+      "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-06T17:09:23+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/"
+    },
+    {
+      "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-06T17:09:18+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/"
+    },
+    {
+      "title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-06T16:55:05+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-06T16:49:42+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+      "url": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-06T16:45:58+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/"
+    },
+    {
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-06T22:20:20+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
+    },
+    {
+      "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+      "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-06T18:03:26+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+    },
+    {
+      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
+      "url": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-06T17:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/"
+    },
+    {
+      "title": "How to predict the behavior of molecules from scant data",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-06T19:00:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
+    },
+    {
+      "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots",
+      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment",
+      "feed": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22artificial+intelligence%22&conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PRORULE&conditions%5Btype%5D%5B%5D=PRESDOCU&order=newest",
+      "published": "2026-11-06T05:00:00+00:00",
+      "official": true,
+      "event": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+    },
+    {
+      "title": "Prohibiting Illegal Discrimination in Registered Apprenticeship Programs",
+      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22680/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs",
+      "feed": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22artificial+intelligence%22&conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PRORULE&conditions%5Btype%5D%5B%5D=PRESDOCU&order=newest",
+      "published": "2026-11-06T05:00:00+00:00",
+      "official": true,
+      "event": "https://www.federalregister.gov/documents/2026/11/06/2026-22680/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "feed": "https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
+      "published": "2026-11-06T12:00:00+00:00",
+      "official": true,
+      "event": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/": 0.97,
+      "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/": 0.83,
+      "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/": 0.62,
+      "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/": 0.74,
+      "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/": 0.58,
+      "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/": 0.43,
+      "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/": 0.48,
+      "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation": 0.96,
+      "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity": 0.31,
+      "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/": 0.79,
+      "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/": 0.55,
+      "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss": 0.7,
+      "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss": 0.56,
+      "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss": 0.72,
+      "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022": 0.5,
+      "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/": 0.88,
+      "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/": 0.82,
+      "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy": 0.53,
+      "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/": 0.76,
+      "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/": 0.89,
+      "https://therecord.media/ceo-spoofing-scammers-charged": 0.91,
+      "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/": 0.36,
+      "https://huggingface.co/blog/open-asr-leaderboard-liva": 0.29,
+      "https://allenai.org/blog/toyblocks": 0.41,
+      "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/": 0.35,
+      "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/": 0.24,
+      "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/": 0.22,
+      "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/": 0.23,
+      "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/": 0.4,
+      "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/": 0.27,
+      "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/": 0.26,
+      "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/": 0.2,
+      "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/": 0.18,
+      "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/": 0.32,
+      "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106": 0.44
+    },
+    {
+      "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/": 0.61,
+      "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889": 0.72,
+      "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/": 0.83,
+      "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/": 0.88,
+      "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/": 0.42,
+      "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/": 0.58,
+      "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job": 0.37,
+      "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": 0.44,
+      "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/": 0.39,
+      "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity": 0.22,
+      "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/": 0.79,
+      "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/": 0.27,
+      "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/": 0.41,
+      "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/": 0.56,
+      "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss": 0.86,
+      "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/": 0.88,
+      "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation": 0.9,
+      "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy": 0.33,
+      "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022": 0.46,
+      "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/": 0.35,
+      "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss": 0.43,
+      "https://allenai.org/blog/toyblocks": 0.34,
+      "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/": 0.28,
+      "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/": 0.24,
+      "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/": 0.77,
+      "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/": 0.67,
+      "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/": 0.29,
+      "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260": 0.73
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "kind": "news",
+      "importance": 0.925,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.675
+    },
+    {
+      "rank": 2,
+      "headline": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "kind": "news",
+      "importance": 0.93,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.6569
+    },
+    {
+      "rank": 3,
+      "headline": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "kind": "news",
+      "importance": 0.88,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.63
+    },
+    {
+      "rank": 4,
+      "headline": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+      "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+      "kind": "news",
+      "importance": 0.86,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.61
+    },
+    {
+      "rank": 5,
+      "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "kind": "news",
+      "importance": 0.81,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.54
+    },
+    {
+      "rank": 6,
+      "headline": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "kind": "news",
+      "importance": 0.79,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.54
+    },
+    {
+      "rank": 7,
+      "headline": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "kind": "news",
+      "importance": 0.78,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.53
+    },
+    {
+      "rank": 8,
+      "headline": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+      "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
+      "kind": "news",
+      "importance": 0.715,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.465
+    },
+    {
+      "rank": 9,
+      "headline": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/",
+      "kind": "news",
+      "importance": 0.505,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3921
+    },
+    {
+      "rank": 10,
+      "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "kind": "news",
+      "importance": 0.65,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.38
+    },
+    {
+      "rank": 11,
+      "headline": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "kind": "news",
+      "importance": 0.565,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2919
+    },
+    {
+      "rank": 12,
+      "headline": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://allenai.org/blog/toyblocks",
+      "kind": "news",
+      "importance": 0.375,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2621
+    },
+    {
+      "rank": 13,
+      "headline": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "kind": "news",
+      "importance": 0.495,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.245
+    },
+    {
+      "rank": 14,
+      "headline": "Why the US midterms sparked an AI stock selloff",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "kind": "news",
+      "importance": 0.495,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.245
+    },
+    {
+      "rank": 15,
+      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "kind": "news",
+      "importance": 0.485,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.235
+    },
+    {
+      "rank": 16,
+      "headline": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
+      "url": "https://therecord.media/ceo-spoofing-scammers-charged",
+      "kind": "news",
+      "importance": 0.455,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.205
+    },
+    {
+      "rank": 17,
+      "headline": "AI agents are a 'bane' for some website operators, says Cloudflare",
+      "url": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+      "kind": "news",
+      "importance": 0.48,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2027
+    },
+    {
+      "rank": 18,
+      "headline": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "kind": "news",
+      "importance": 0.45,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2
+    },
+    {
+      "rank": 19,
+      "headline": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
+      "url": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "kind": "news",
+      "importance": 0.3,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1871
+    },
+    {
+      "rank": 20,
+      "headline": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/",
+      "kind": "news",
+      "importance": 0.28,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1671
+    },
+    {
+      "rank": 21,
+      "headline": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "kind": "news",
+      "importance": 0.41,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.16
+    },
+    {
+      "rank": 22,
+      "headline": "How to predict the behavior of molecules from scant data",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "kind": "news",
+      "importance": 0.22,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1071
+    },
+    {
+      "rank": 23,
+      "headline": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "kind": "news",
+      "importance": 0.35,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1
+    },
+    {
+      "rank": 24,
+      "headline": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "kind": "news",
+      "importance": 0.35,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1
+    },
+    {
+      "rank": 25,
+      "headline": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+      "kind": "news",
+      "importance": 0.23,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0994
+    },
+    {
+      "rank": 26,
+      "headline": "Agents reveal secrets when offered to team up with each other",
+      "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
+      "kind": "news",
+      "importance": 0.365,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0919
+    },
+    {
+      "rank": 27,
+      "headline": "UK ministers seek powers to investigate when AI agents are let off the leash",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
+      "kind": "news",
+      "importance": 0.36,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0886
+    },
+    {
+      "rank": 28,
+      "headline": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "url": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+      "kind": "news",
+      "importance": 0.175,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0621
+    },
+    {
+      "rank": 29,
+      "headline": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "kind": "news",
+      "importance": 0.18,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0471
+    },
+    {
+      "rank": 30,
+      "headline": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "kind": "news",
+      "importance": 0.145,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0321
+    },
+    {
+      "rank": 31,
+      "headline": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+      "url": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/",
+      "kind": "news",
+      "importance": 0.13,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0171
+    },
+    {
+      "rank": 32,
+      "headline": "AI is the new dating dealbreaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "kind": "news",
+      "importance": 0.265,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.015
+    },
+    {
+      "rank": 33,
+      "headline": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+      "kind": "news",
+      "importance": 0.265,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.015
+    },
+    {
+      "rank": 34,
+      "headline": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/",
+      "kind": "news",
+      "importance": 0.115,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0156
+    },
+    {
+      "rank": 35,
+      "headline": "Taxonomy of agentic primitives in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
+      "kind": "news",
+      "importance": 0.12,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0179
+    },
+    {
+      "rank": 36,
+      "headline": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+      "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
+      "kind": "news",
+      "importance": 0.09,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0229
+    },
+    {
+      "rank": 37,
+      "headline": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "kind": "news",
+      "importance": 0.22,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.03
+    },
+    {
+      "rank": 38,
+      "headline": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "kind": "news",
+      "importance": 0.195,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.055
+    },
+    {
+      "rank": 39,
+      "headline": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "kind": "news",
+      "importance": 0.1,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0629
+    },
+    {
+      "rank": 40,
+      "headline": "AI Gave Your Incident Archive a Second Job",
+      "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+      "kind": "news",
+      "importance": 0.185,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.065
+    },
+    {
+      "rank": 41,
+      "headline": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "kind": "news",
+      "importance": 0.165,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.085
+    }
+  ],
+  "tries": [
+    {
+      "headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "kind": "news",
+      "official": false,
+      "outcome": "unverified",
+      "reason": "unverified claim [body]: OpenAI said Monday it closed its latest funding round with $122 billion in committed capital at a post-money valuation of $852 billion. The company said, “This funding gives us the resources to continue to lead at the scale this moment demands.”"
+    },
+    {
+      "headline": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "kind": "news",
+      "official": false,
+      "outcome": "unverified",
+      "reason": "article drifted from the surveyed headline onto an unrelated topic"
+    },
+    {
+      "headline": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "kind": "news",
+      "official": false,
+      "outcome": "failed",
+      "reason": "no_primary_source: skipping candidate before drafting"
+    },
+    {
+      "headline": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+      "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+      "kind": "news",
+      "official": false,
+      "outcome": "unverified",
+      "reason": "unverified claim [body]: OpenAI said the incident took place in its sandboxed research setup, where it restricts outbound internet traffic and unauthorized movement between systems while preserving the external connections needed to run and monitor experiments. In a separate security explanation, th"
+    },
+    {
+      "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "kind": "news",
+      "official": false,
+      "outcome": "failed",
+      "reason": "no_primary_source: skipping candidate before drafting"
+    },
+    {
+      "headline": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "kind": "news",
+      "official": false,
+      "outcome": "failed",
+      "reason": "no_primary_source: skipping candidate before drafting"
+    },
+    {
+      "headline": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "kind": "news",
+      "official": false,
+      "outcome": "failed",
+      "reason": "no_primary_source: skipping candidate before drafting"
+    },
+    {
+      "headline": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+      "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
+      "kind": "news",
+      "official": false,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "openai-says-gpt-6-cyber-found-new-firefox-flaws-and-helped-test-linux-exploits",
+    "live": true
+  }
+}
