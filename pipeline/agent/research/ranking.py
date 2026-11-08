@@ -20,10 +20,12 @@ from agent.research.discovery import Headline
 from agent.research.ranking_core import (
     LEGACY,
     NEWS_PROMPT,
+    PAPER_PROMPT,
     RankingConfig,
     average,
     cluster,
     grounded,
+    on_topic,
     opinion_prompt,
     parse_opinion_reply,
     parse_ranking_reply,
@@ -75,7 +77,7 @@ def rank_headlines(
     coverage: dict[str, int] = {}
     headlines = real_headlines
     event_of = {h.url: h.url for h in real_headlines}
-    if settings.cluster and template is NEWS_PROMPT:
+    if settings.cluster and template is not PAPER_PROMPT:
         groups = cluster(real_headlines)
         reps = representatives(groups, rules)
         headlines = [h for h, _ in reps]
@@ -102,6 +104,11 @@ def rank_headlines(
         )
         if proposed is not None:
             kept = grounded(proposed, headlines)
+            if template is not PAPER_PROMPT:
+                before = len(kept)
+                kept = on_topic(kept)
+                if len(kept) < before:
+                    log.info("dropped %s candidate(s) the model marked as not about AI", before - len(kept))
             if len(kept) != len(proposed):
                 log.info("ranking model proposed %s, %s grounded in real headlines", len(proposed), len(kept))
             replies.append(kept)

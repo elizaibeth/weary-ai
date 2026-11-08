@@ -152,3 +152,20 @@ def test_a_near_repeat_of_last_weeks_story_drops_below_a_fresh_one():
     assert fresh[0].headline.startswith("Google")
     repeat = ranking_core.to_candidates("d", proposals, RULES, config, recent_titles=["Google rolls out Gemini agents"])
     assert repeat[0].headline.startswith("EU")
+
+
+def test_only_stories_the_model_marks_as_not_about_ai_are_dropped():
+    proposed = [
+        {"url": "a", "ai_related": True},
+        {"url": "b", "ai_related": False},
+        {"url": "c"},  # an older reply without the field: the prompt rule alone applies
+        {"url": "d", "ai_related": "false"},  # only a real JSON true or a missing field keeps it
+    ]
+    assert [c["url"] for c in ranking_core.on_topic(proposed)] == ["a", "c"]
+
+
+def test_the_news_prompt_covers_ai_only_and_asks_for_the_flag():
+    prompt = " ".join(ranking_core.NEWS_PROMPT.split())
+    assert "with no AI angle do not qualify" in prompt
+    assert '"ai_related": true' in prompt
+    assert "ai_related" not in ranking_core.PAPER_PROMPT  # every paper is AI research

@@ -22,7 +22,7 @@ from pathlib import Path
 from agent.publishing.archive import stories_between
 from agent.research import ranking
 from agent.research.discovery import Headline
-from agent.research.ranking_core import LEGACY, RankingConfig, verify_rates
+from agent.research.ranking_core import LEGACY, NEWS_PROMPT, RankingConfig, verify_rates
 from evals.label import cached_complete, load_cases
 from evals.metrics import evaluate, mean, read_qrels, write_run
 
@@ -48,7 +48,9 @@ def recent_titles(day: str) -> list[str]:
     return [s["title"] for s in stories_between(POSTS, start, end)]
 
 
-def rank_case(case: dict, settings: RankingConfig, sample: int) -> tuple[list[tuple[str, float]], int]:
+def rank_case(
+    case: dict, settings: RankingConfig, sample: int, template: str = NEWS_PROMPT
+) -> tuple[list[tuple[str, float]], int]:
     """The ranked (url, key) list for one day, and how many model calls it needed."""
     calls = 0
 
@@ -58,7 +60,7 @@ def rank_case(case: dict, settings: RankingConfig, sample: int) -> tuple[list[tu
         return cached_complete(prompt, model, sample)
 
     headlines = [Headline(h["title"], h["url"]) for h in case["headlines"]]
-    raw = ranking.rank_headlines(case["day"], headlines, settings=settings, complete=complete)
+    raw = ranking.rank_headlines(case["day"], headlines, template, settings=settings, complete=complete)
     candidates = ranking.candidates_from_json(case["day"], raw, settings, recent_titles(case["day"]), rates=PRIOR_RATES)
     return [(c.urls[0], c.rank_key) for c in candidates], calls
 

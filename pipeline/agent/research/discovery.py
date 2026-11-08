@@ -51,8 +51,8 @@ _REPORTING_FEEDS = (
     "https://www.technologyreview.com/topic/artificial-intelligence/feed",
     "https://www.wired.com/feed/tag/ai/latest/rss",
     _BBC_TECH_FEED,
-    # Security outlets, unfiltered: a major incident can lead the day even
-    # without an AI angle (PHP2Shell, Oct 2026, was missed entirely).
+    # Security outlets, unfiltered: they carry AI-in-security stories (AI used
+    # in attacks, AI tools with flaws). Ranking drops items with no AI angle.
     "https://www.theregister.com/security/headlines.atom",
     "https://krebsonsecurity.com/feed/",
     "https://www.bleepingcomputer.com/feed/",

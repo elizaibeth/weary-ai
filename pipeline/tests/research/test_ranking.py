@@ -274,19 +274,6 @@ def test_survey_papers_returns_paper_candidates_with_full_text_links(monkeypatch
     assert "Research paper of the week" in prompts[0] and "[official source]" not in prompts[0]
 
 
-def test_ranking_prompt_admits_major_security_incidents(monkeypatch):
-    monkeypatch.setattr(
-        "agent.research.discovery.fetch_headlines",
-        lambda day: [Headline("PHP flaw exploited", "https://www.theregister.com/x")],
-    )
-    prompts = []
-    monkeypatch.setattr(
-        "agent.research.ranking.llm.complete", lambda prompt, model: prompts.append(prompt) or '{"candidates": []}'
-    )
-    _default_client("2026-10-27")
-    assert "major security incident with broad real-world impact" in " ".join(prompts[0].split())
-
-
 def test_survey_opinion_picks_listed_stories_and_links_weary_posts(monkeypatch, tmp_path):
     stories = [
         {
@@ -427,3 +414,46 @@ def test_survey_hands_discovered_headlines_and_pass_scores_to_the_run_log():
     assert candidate.headline == "A"
     assert [d["url"] for d in trace["discovered"]] == ["https://a.example/1", "https://b.example/2"]
     assert trace["passes"] == [{"https://a.example/1": 0.8}, {"https://a.example/1": 0.6}]
+
+
+def _rank_with_reply(monkeypatch, candidates):
+    headlines = [
+        Headline("CISA adds a CVE", "https://www.cisa.gov/a"),
+        Headline("OpenAI raises", "https://t.example/o"),
+    ]
+    monkeypatch.setattr("agent.research.discovery.fetch_headlines", lambda day: headlines)
+    monkeypatch.setattr(
+        "agent.research.ranking.llm.complete", lambda prompt, model: json.dumps({"candidates": candidates})
+    )
+    return json.loads(_default_client("2026-11-06"))["candidates"]
+
+
+def test_a_story_marked_not_about_ai_never_becomes_a_candidate(monkeypatch):
+    kept = _rank_with_reply(
+        monkeypatch,
+        [
+            {
+                "headline": "CISA adds a CVE",
+                "url": "https://www.cisa.gov/a",
+                "ai_related": False,
+                "importance_score": 0.9,
+            },
+            {"headline": "OpenAI raises", "url": "https://t.example/o", "ai_related": True, "importance_score": 0.6},
+        ],
+    )
+    assert [c["url"] for c in kept] == ["https://t.example/o"]
+
+
+def test_a_day_with_no_ai_story_has_no_candidates_rather_than_the_unranked_feed(monkeypatch):
+    kept = _rank_with_reply(
+        monkeypatch,
+        [
+            {
+                "headline": "CISA adds a CVE",
+                "url": "https://www.cisa.gov/a",
+                "ai_related": False,
+                "importance_score": 0.9,
+            }
+        ],
+    )
+    assert kept == []

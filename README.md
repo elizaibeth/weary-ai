@@ -38,7 +38,7 @@ flowchart LR
 ```
 
 1. **Find stories.** The pipeline reads about 40 feeds from AI labs, government sites and security advisories. Outlets such as TechCrunch and WIRED supply leads only (`research/discovery.py`).
-2. **Rank them.** Headlines about the same event are merged. A model scores them twice in different orders, to cancel position bias, and anything it makes up is thrown out. Stories are tried in order of `importance − cost / p(verifies)`, where `p` comes from past runs (`research/ranking.py`).
+2. **Rank them.** Headlines about the same event are merged. A model scores them twice in different orders, to cancel position bias, and anything it makes up is thrown out. Stories with no AI angle are dropped, by the prompt and again in code. Stories are tried in order of `importance − cost / p(verifies)`, where `p` comes from past runs (`research/ranking.py`).
 3. **Get evidence.** Only pages from the organisation that made the news count as evidence, such as the company, agency or court. A story without a primary source is skipped (`evidence/source_rules.toml`).
 4. **Write.** The model gets numbered passages and has to cite one for every paragraph (`writing/writer.py`).
 5. **Check.** TypeSafe, a separate fact-checking service, checks each paragraph against only the passages it cites (`checking/verifier.py`).
@@ -61,7 +61,7 @@ The tests in [`pipeline/tests/security/`](pipeline/tests/security/test_prompt_in
 
 ## Other decisions
 
-- **The ranking is measured.** It's scored against 19 past days with graded labels. The current version puts the best story first 63% of the time, up from 54%. You can rerun it without an API key ([`pipeline/evals/`](pipeline/evals/README.md)).
+- **The ranking is measured.** It's scored against 20 past days with graded labels. Making the prompt AI-only cut the days that led with an off-topic story from 58% to none, and raised the share that led with the best story from 22% to 50%. You can rerun it without an API key ([`pipeline/evals/`](pipeline/evals/README.md)).
 - **Failure is handled.** If no story can be verified, nothing is published and a Slack message explains why. Invalid keys or billing errors stop the run immediately.
 - **Costs are capped.** Images are generated only for the final article, search has per-run, per-day and per-month budgets, and each run posts its cost to Slack.
 - **Provider fallback.** Failed calls are retried, and if the main model is unavailable, the pipeline switches to a model from another provider.
