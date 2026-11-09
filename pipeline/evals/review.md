@@ -136,3 +136,36 @@ Edit `gold.qrels` to change a grade. Grade 3 = best lead.
 - **2** OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line <https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/>
 - **2** CEO-spoofing scammers used AI to help steal more than $100 million, feds say <https://therecord.media/ceo-spoofing-scammers-charged>
 - 53 more graded 0-1
+
+## 2026-10-24 (Weary published: Google Cloud is repackaging existing models as government readiness, not delivering a new public-sector breakthrough.)
+- **3** OpenAI will Spitzen - KI ohne Internet trainieren <https://orf.at/stories/3446018/>
+- **2** Microsoft geliştirdi . Doktor gibi teşhis koyan yapay zeka <https://www.ntv.com.tr/teknoloji/microsoft-gelistirdi-doktor-gibi-teshis-koyan-yapay-zeka-1747703>
+- **2** İsrail seçimlerinde yapay zeka seçmeni nasıl etkiliyor ? <https://www.dw.com/tr/deepfake-ve-botlar-yapay-zeka-i%CC%87srail-se%C3%A7imlerini-nas%C4%B1l-%C5%9Fekillendiriyor/a-79701967>
+- **2** Lažne žene  izvlače  novac od korisnika društvenih mreža u predizbornoj kampanji u Brazilu <https://www.blic.rs/bbc/lazne-zene-izvlace-novac-od-korisnika-drustvenih-mreza-u-predizbornoj-kampanji-u/gm7654s>
+- **2** Lažne žene  izvlače  novac od korisnika društvenih mreža u predizbornoj kampanji u Brazilu - BBC News na srpskom <https://www.danas.rs/bbc-news-serbian/lazne-zene-izvlace-novac-od-korisnika-drustvenih-mreza-u-predizbornoj-kampanji-u-brazilu/>
+- **2** Lažne žene  izvlače  novac od korisnika društvenih mreža u predizbornoj kampanji u Brazilu <https://www.021.rs/bbc/bbc/459057/lazne-zene-izvlace-novac-od-korisnika-drustvenih-mreza-u-predizbornoj-kampanji-u-brazilu>
+- **2** Microsofttan tıp tarihinde çığır açan araştırma : Yapay zeka teşhiste rekor kırdı <https://www.sabah.com.tr/teknokulis/haberler/2026/10/24/microsofttan-tip-tarihinde-cigir-acan-arastirma-yapay-zeka-teshiste-rekor-kirdi>
+- **2** Искусственный интеллект начали тестировать в судах более 20 регионов России <https://life.ru/p/iskusstvennyy-intellekt-nachali-testirovat-v-sudah-bolee-20-regionov-rossii>
+- **2** EU despliega un  muro inteligente  con inteligencia artificial en la frontera con México <https://www.excelsior.com.mx/internacional/eu-busca-expandir-muro-inteligente-con-ia-frontera-con-canada-y-costas-puerto-rico>
+- 31 more graded 0-1
+
+## 2026-11-05 (Weary published: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026)
+- **3** OpenAI released a new cybersecurity model. Is that enough? <https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/>
+- **3** OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement' <https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855>
+- **2** OpenAI president Greg Brockman says company could be IPO ready in 2027 <https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/>
+- **2** Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries <https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684>
+- **2** Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips <https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/>
+- **2** Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips <https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/>
+- **2** Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 <https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/>
+- **2** Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available <https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/>
+- **2** Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm <https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology>
+- 45 more graded 0-1
+
+## 2026-11-07 (Weary published: Google is calling access controls and exploit warnings safety, while leaving the real exposure unchanged.)
+- **3** The US let Nvidia sell chips to an empty office in China <https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government>
+- **2** Why a new report on Anthropic automating AI development is alarming researchers <https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development>
+- 11 more graded 0-1
+
+## 2026-11-08 (Weary published: Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems)
+- **3** Elvis and Eminem rights holders are suing Suno <https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit>
+- 5 more graded 0-1
