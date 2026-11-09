@@ -1,0 +1,1102 @@
+{
+  "day": "2026-11-09",
+  "mode": "live",
+  "started_at": "2026-11-09T22:58:01+00:00",
+  "discovered": [
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-09T22:46:09+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-09T22:23:42+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-09T20:09:06+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-09T19:24:51+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    },
+    {
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-09T18:09:52+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-09T18:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-09T16:56:54+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+    },
+    {
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-09T16:12:28+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"
+    },
+    {
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-09T14:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
+    },
+    {
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-09T19:09:58+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+    },
+    {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-09T19:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+    },
+    {
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-09T18:07:23+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+    },
+    {
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-09T17:36:08+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me"
+    },
+    {
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-09T15:50:38+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
+    },
+    {
+      "title": "Disney and Adobe are building generative AI tools together",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-09T15:38:56+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
+    },
+    {
+      "title": "Hold up — I had a great time talking to the RIAA guy",
+      "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-09T15:30:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music"
+    },
+    {
+      "title": "Jonathan Kanter is using AI to take on Big Tech",
+      "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-09T14:30:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "published": "2026-11-09T19:35:33+00:00",
+      "official": false,
+      "event": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "published": "2026-11-09T17:05:43+00:00",
+      "official": false,
+      "event": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "published": "2026-11-09T13:00:00+00:00",
+      "official": false,
+      "event": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+    },
+    {
+      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-09T14:30:56+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/"
+    },
+    {
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-09T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/"
+    },
+    {
+      "title": "France blames Iran for supermarket hack meltdowns",
+      "url": "https://www.theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-09T22:45:21+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591"
+    },
+    {
+      "title": "Attackers backdoor trusted AWS integrations to steal secrets",
+      "url": "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-09T19:59:50+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553"
+    },
+    {
+      "title": "Researchers pwn automakers’ Android apps to remotely unlock cars, honk horns",
+      "url": "https://www.theregister.com/security/2026/11/09/researchers-pwn-automakers-android-apps-to-remotely-unlock-cars-honk-horns/5308483",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-09T17:31:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/09/researchers-pwn-automakers-android-apps-to-remotely-unlock-cars-honk-horns/5308483"
+    },
+    {
+      "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session",
+      "url": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-09T15:02:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434"
+    },
+    {
+      "title": "Who Gives A Crap? Hackers, apparently, after toilet paper maker's customer data exposed",
+      "url": "https://www.theregister.com/security/2026/11/09/who-gives-a-crap-hackers-apparently-after-toilet-paper-makers-customer-data-exposed/5308419",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-09T14:30:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/09/who-gives-a-crap-hackers-apparently-after-toilet-paper-makers-customer-data-exposed/5308419"
+    },
+    {
+      "title": "Outlook.com bounces legit emails as Microsoft's authentication crackdown goes sideways",
+      "url": "https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-09T13:30:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428"
+    },
+    {
+      "title": "Japanese homeware giant pulls online store after cloud breach puts 7.7M records at risk",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/09/japanese-homeware-giant-pulls-online-store-after-cloud-breach-puts-77m-records-at-risk/5308377",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-09T12:47:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/cyber-crime/2026/11/09/japanese-homeware-giant-pulls-online-store-after-cloud-breach-puts-77m-records-at-risk/5308377"
+    },
+    {
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T22:09:33+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/"
+    },
+    {
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T21:26:25+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/"
+    },
+    {
+      "title": "York University breach exposed personal information dating to 2007",
+      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T21:22:31+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/"
+    },
+    {
+      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T18:32:42+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/"
+    },
+    {
+      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T17:50:32+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/"
+    },
+    {
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T16:12:39+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/"
+    },
+    {
+      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T16:04:57+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/"
+    },
+    {
+      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+      "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T15:05:15+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/"
+    },
+    {
+      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T14:34:03+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/"
+    },
+    {
+      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+      "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T13:28:56+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/"
+    },
+    {
+      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-09T12:16:13+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/"
+    },
+    {
+      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-09T21:38:20+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents"
+    },
+    {
+      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+      "url": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-09T21:12:24+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion"
+    },
+    {
+      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
+      "url": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-09T20:19:56+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut"
+    },
+    {
+      "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
+      "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-09T18:08:30+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux"
+    },
+    {
+      "title": "PwC's CISO on AI, Robots & What's Next for Security",
+      "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-09T17:17:23+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security"
+    },
+    {
+      "title": "NIST: Solo Shouldn't Mean Less Secure",
+      "url": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-09T15:46:10+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure"
+    },
+    {
+      "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+      "url": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-09T14:08:08+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/"
+    },
+    {
+      "title": "Plex2Shell Exploited Against QNAP NAS Users",
+      "url": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-09T13:13:28+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/"
+    },
+    {
+      "title": "Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers",
+      "url": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-09T12:41:27+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/"
+    },
+    {
+      "title": "Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web",
+      "url": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-09T12:22:12+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/"
+    },
+    {
+      "title": "Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH",
+      "url": "https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-09T12:13:32+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/"
+    },
+    {
+      "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
+      "url": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-09T11:20:09+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/"
+    },
+    {
+      "title": "Data breach at hearing aid giant Amplifon impacts thousands",
+      "url": "https://therecord.media/amplifon-hearing-aid-company-data-breach",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-09T20:44:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/amplifon-hearing-aid-company-data-breach"
+    },
+    {
+      "title": "France blames Iran for fridge cyberattacks, says some caused fires",
+      "url": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-09T18:45:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks"
+    },
+    {
+      "title": "Vanderbilt cybersecurity incident impacting campus devices and systems",
+      "url": "https://therecord.media/vanderbilt-cyberattack-ransomware-alert",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-09T18:30:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/vanderbilt-cyberattack-ransomware-alert"
+    },
+    {
+      "title": "Ukraine arrests four in $5 million crypto scam targeting Germans",
+      "url": "https://therecord.media/ukraine-arrests-scam-call-centers-germany",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-09T15:24:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/ukraine-arrests-scam-call-centers-germany"
+    },
+    {
+      "title": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
+      "url": "https://therecord.media/cyberattack-germany-ai-mittwald",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-09T14:15:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/cyberattack-germany-ai-mittwald"
+    },
+    {
+      "title": "Exploring the world's languages with Language Explorer",
+      "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+      "feed": "https://research.google/blog/rss/",
+      "published": "2026-11-09T20:29:39+00:00",
+      "official": true,
+      "event": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/"
+    },
+    {
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-09T14:00:01+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/"
+    },
+    {
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-09T08:00:53+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/"
+    },
+    {
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-09T05:00:40+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/"
+    },
+    {
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-09T05:00:39+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/"
+    },
+    {
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-09T05:00:04+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/"
+    },
+    {
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-09T05:00:00+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/"
+    },
+    {
+      "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-09T20:13:18+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/"
+    },
+    {
+      "title": "Introducing Claude Fable 5.2 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-09T20:04:37+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-09T20:01:20+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+      "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-09T19:05:54+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-09T18:55:43+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "Professional work deserves professional tools. Meet AWS Quick.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-09T18:43:30+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/"
+    },
+    {
+      "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+      "url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-09T19:09:32+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/"
+    },
+    {
+      "title": "New survey finds enterprises trapped between legacy software and AI modernization",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-09T17:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/"
+    },
+    {
+      "title": "Now generally available: GKE dynamic slicing for higher resilience, and efficiency for TPUs",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-09T13:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/"
+    },
+    {
+      "title": "BAIR at CoRL 2026",
+      "url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "feed": "https://bair.berkeley.edu/blog/feed.xml",
+      "published": "2026-11-09T09:00:00+00:00",
+      "official": true,
+      "event": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/"
+    },
+    {
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-09T05:00:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109"
+    },
+    {
+      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-09T05:00:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109"
+    },
+    {
+      "title": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
+      "feed": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22artificial+intelligence%22&conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PRORULE&conditions%5Btype%5D%5B%5D=PRESDOCU&order=newest",
+      "published": "2026-11-09T05:00:00+00:00",
+      "official": true,
+      "event": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+    },
+    {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "feed": "https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
+      "published": "2026-11-09T12:00:00+00:00",
+      "official": true,
+      "event": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/": 0.68,
+      "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/": 0.82,
+      "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/": 0.57,
+      "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/": 0.9,
+      "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/": 0.84,
+      "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/": 0.76,
+      "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/": 0.64,
+      "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/": 0.61,
+      "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro": 0.73,
+      "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2": 0.91,
+      "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters": 0.62,
+      "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me": 0.41,
+      "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai": 0.58,
+      "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership": 0.72,
+      "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech": 0.53,
+      "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/": 0.55,
+      "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/": 0.5,
+      "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/": 0.35,
+      "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/": 0.45,
+      "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/": 0.44,
+      "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/": 0.28,
+      "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/": 0.4,
+      "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/": 0.46,
+      "https://blogs.nvidia.com/blog/korean-startup-investments-msit/": 0.47,
+      "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/": 0.43,
+      "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/": 0.42,
+      "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/": 0.45,
+      "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/": 0.41,
+      "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/": 0.39,
+      "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/": 0.45,
+      "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/": 0.43,
+      "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/": 0.36,
+      "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/": 0.34,
+      "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/": 0.32,
+      "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/": 0.33,
+      "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/": 0.34,
+      "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/": 0.37,
+      "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109": 0.7,
+      "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109": 0.56
+    },
+    {
+      "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/": 0.76,
+      "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/": 0.62,
+      "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/": 0.69,
+      "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/": 0.61,
+      "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/": 0.68,
+      "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/": 0.47,
+      "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/": 0.42,
+      "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/": 0.58,
+      "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/": 0.45,
+      "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai": 0.34,
+      "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/": 0.73,
+      "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro": 0.66,
+      "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2": 0.75,
+      "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/": 0.43,
+      "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/": 0.44,
+      "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109": 0.64,
+      "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109": 0.52,
+      "https://blogs.nvidia.com/blog/korean-startup-investments-msit/": 0.41,
+      "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/": 0.57,
+      "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/": 0.46
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "kind": "news",
+      "importance": 0.67,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5571
+    },
+    {
+      "rank": 2,
+      "headline": "Introducing Claude Fable 5.2 on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+      "kind": "news",
+      "importance": 0.57,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4571
+    },
+    {
+      "rank": 3,
+      "headline": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "kind": "news",
+      "importance": 0.585,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4507
+    },
+    {
+      "rank": 4,
+      "headline": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "kind": "news",
+      "importance": 0.54,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4271
+    },
+    {
+      "rank": 5,
+      "headline": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "kind": "news",
+      "importance": 0.52,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.384
+    },
+    {
+      "rank": 6,
+      "headline": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "kind": "news",
+      "importance": 0.52,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3798
+    },
+    {
+      "rank": 7,
+      "headline": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "kind": "news",
+      "importance": 0.51,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3721
+    },
+    {
+      "rank": 8,
+      "headline": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+      "kind": "news",
+      "importance": 0.485,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3721
+    },
+    {
+      "rank": 9,
+      "headline": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "kind": "news",
+      "importance": 0.445,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3144
+    },
+    {
+      "rank": 10,
+      "headline": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "kind": "news",
+      "importance": 0.44,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3071
+    },
+    {
+      "rank": 11,
+      "headline": "Exploring the world's languages with Language Explorer",
+      "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+      "kind": "news",
+      "importance": 0.41,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2971
+    },
+    {
+      "rank": 12,
+      "headline": "New survey finds enterprises trapped between legacy software and AI modernization",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/",
+      "kind": "news",
+      "importance": 0.405,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2921
+    },
+    {
+      "rank": 13,
+      "headline": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/",
+      "kind": "news",
+      "importance": 0.4,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2871
+    },
+    {
+      "rank": 14,
+      "headline": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
+      "kind": "news",
+      "importance": 0.395,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2821
+    },
+    {
+      "rank": 15,
+      "headline": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "kind": "news",
+      "importance": 0.83,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1383
+    },
+    {
+      "rank": 16,
+      "headline": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "kind": "news",
+      "importance": 0.76,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0933
+    },
+    {
+      "rank": 17,
+      "headline": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "kind": "news",
+      "importance": 0.215,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0748
+    },
+    {
+      "rank": 18,
+      "headline": "BAIR at CoRL 2026",
+      "url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "kind": "news",
+      "importance": 0.185,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0721
+    },
+    {
+      "rank": 19,
+      "headline": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "kind": "news",
+      "importance": 0.745,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0569
+    },
+    {
+      "rank": 20,
+      "headline": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+      "url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
+      "kind": "news",
+      "importance": 0.165,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0271
+    },
+    {
+      "rank": 21,
+      "headline": "Professional work deserves professional tools. Meet AWS Quick.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
+      "kind": "news",
+      "importance": 0.16,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0257
+    },
+    {
+      "rank": 22,
+      "headline": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "kind": "news",
+      "importance": 0.695,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0083
+    },
+    {
+      "rank": 23,
+      "headline": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "kind": "news",
+      "importance": 0.55,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1167
+    },
+    {
+      "rank": 24,
+      "headline": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "kind": "news",
+      "importance": 0.46,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2067
+    },
+    {
+      "rank": 25,
+      "headline": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "kind": "news",
+      "importance": 0.45,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2381
+    },
+    {
+      "rank": 26,
+      "headline": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "kind": "news",
+      "importance": 0.41,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2942
+    },
+    {
+      "rank": 27,
+      "headline": "Disney and Adobe are building generative AI tools together",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "kind": "news",
+      "importance": 0.36,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3297
+    },
+    {
+      "rank": 28,
+      "headline": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "kind": "news",
+      "importance": 0.34,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3433
+    },
+    {
+      "rank": 29,
+      "headline": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "kind": "news",
+      "importance": 0.31,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3567
+    },
+    {
+      "rank": 30,
+      "headline": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "kind": "news",
+      "importance": 0.305,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3617
+    },
+    {
+      "rank": 31,
+      "headline": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "kind": "news",
+      "importance": 0.275,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3917
+    },
+    {
+      "rank": 32,
+      "headline": "Jonathan Kanter is using AI to take on Big Tech",
+      "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+      "kind": "news",
+      "importance": 0.265,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4017
+    },
+    {
+      "rank": 33,
+      "headline": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "kind": "news",
+      "importance": 0.285,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4031
+    },
+    {
+      "rank": 34,
+      "headline": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "kind": "news",
+      "importance": 0.25,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4167
+    },
+    {
+      "rank": 35,
+      "headline": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "kind": "news",
+      "importance": 0.225,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4417
+    },
+    {
+      "rank": 36,
+      "headline": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "kind": "news",
+      "importance": 0.205,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4617
+    },
+    {
+      "rank": 37,
+      "headline": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "kind": "news",
+      "importance": 0.22,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4681
+    },
+    {
+      "rank": 38,
+      "headline": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "kind": "news",
+      "importance": 0.175,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4917
+    },
+    {
+      "rank": 39,
+      "headline": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+      "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "kind": "news",
+      "importance": 0.14,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.5267
+    }
+  ],
+  "tries": [
+    {
+      "headline": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "mit-ubc-researchers-build-one-ai-model-for-many-physical-systems",
+    "live": true
+  }
+}
