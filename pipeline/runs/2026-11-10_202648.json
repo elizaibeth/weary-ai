@@ -1,0 +1,1224 @@
+{
+  "day": "2026-11-10",
+  "mode": "live",
+  "started_at": "2026-11-10T20:26:48+00:00",
+  "discovered": [
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T19:57:52+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+    },
+    {
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T19:23:34+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T19:03:52+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+    },
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T18:49:52+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+    },
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T17:30:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T17:04:19+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T15:54:08+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    },
+    {
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T15:29:30+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+    },
+    {
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T14:05:10+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    },
+    {
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T14:01:39+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+    },
+    {
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T14:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+    },
+    {
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T14:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
+    },
+    {
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T13:30:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
+    },
+    {
+      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-10T13:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+    },
+    {
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-10T19:04:05+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
+    },
+    {
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-10T18:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    },
+    {
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-10T17:32:47+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
+    },
+    {
+      "title": "Anthropic has its own AI-powered office suite now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-10T17:30:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+    },
+    {
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-10T16:20:30+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping"
+    },
+    {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-10T16:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+    },
+    {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-10T14:06:54+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+    },
+    {
+      "title": "Adobe is going all in on agentic AI",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-10T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
+    },
+    {
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-10T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
+    },
+    {
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-10T13:30:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+    },
+    {
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-10T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/"
+    },
+    {
+      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+      "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-10T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/"
+    },
+    {
+      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+      "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-10T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/"
+    },
+    {
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-10T17:56:12+00:00",
+      "official": false,
+      "event": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Barracuda’s email security gateways bitten by make-me-root vulns",
+      "url": "https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-10T18:51:35+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883"
+    },
+    {
+      "title": "Trump taps Palantir security chief to run battered US cyber defense agency",
+      "url": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-10T16:15:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763"
+    },
+    {
+      "title": "Fireworks AI gets burned twice as customer data exposure widens",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-10T15:28:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722"
+    },
+    {
+      "title": "Chrome zero-day whack-a-mole continues as 2026 tally hits 8",
+      "url": "https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-10T13:28:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732"
+    },
+    {
+      "title": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-10T13:00:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687"
+    },
+    {
+      "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-10T12:00:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T20:04:36+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/"
+    },
+    {
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T19:31:11+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/"
+    },
+    {
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T19:07:36+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+    },
+    {
+      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T18:33:26+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/"
+    },
+    {
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T16:17:16+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/"
+    },
+    {
+      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T15:59:19+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/"
+    },
+    {
+      "title": "Ransomware recovery is now a client retention metric",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T15:01:11+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/"
+    },
+    {
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T12:07:03+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/"
+    },
+    {
+      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T10:10:20+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/"
+    },
+    {
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T10:04:32+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/"
+    },
+    {
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-10T08:51:25+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/"
+    },
+    {
+      "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+      "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-10T18:46:22+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github"
+    },
+    {
+      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
+      "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-10T13:00:00+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps"
+    },
+    {
+      "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+      "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-10T19:19:46+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/"
+    },
+    {
+      "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
+      "url": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-10T18:11:54+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/"
+    },
+    {
+      "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
+      "url": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-10T16:45:00+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/"
+    },
+    {
+      "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
+      "url": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-10T16:42:02+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/"
+    },
+    {
+      "title": "Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders",
+      "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-10T15:00:00+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/"
+    },
+    {
+      "title": "WhiteMatter Raises $20 Million in Series A Funding",
+      "url": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-10T14:58:19+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/"
+    },
+    {
+      "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
+      "url": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-10T14:46:28+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/"
+    },
+    {
+      "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
+      "url": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-10T13:27:44+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/"
+    },
+    {
+      "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
+      "url": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-10T12:17:13+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/"
+    },
+    {
+      "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+      "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-10T09:56:28+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/"
+    },
+    {
+      "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
+      "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-10T16:08:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks"
+    },
+    {
+      "title": "Cybercriminals are increasingly infecting regular people with spyware",
+      "url": "https://therecord.media/spyware-cyber-crime-iverify",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-10T15:45:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/spyware-cyber-crime-iverify"
+    },
+    {
+      "title": "Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain",
+      "url": "https://therecord.media/michael-losapio-cisa-director-nomination",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-10T14:31:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/michael-losapio-cisa-director-nomination"
+    },
+    {
+      "title": "Russian hackers compromised government email servers to steal NATO, EU correspondence",
+      "url": "https://therecord.media/russia-hackers-espionage-romania-kazakhstan",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-10T13:00:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/russia-hackers-espionage-romania-kazakhstan"
+    },
+    {
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "feed": "https://www.anthropic.com/news",
+      "published": "2026-11-10T23:59:59+00:00",
+      "official": true,
+      "event": "https://www.anthropic.com/news/roadshow-launch"
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "feed": "https://blog.google/technology/ai/rss/",
+      "published": "2026-11-10T19:00:00+00:00",
+      "official": true,
+      "event": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+    },
+    {
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "feed": "https://blog.google/technology/ai/rss/",
+      "published": "2026-11-10T14:00:00+00:00",
+      "official": true,
+      "event": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    },
+    {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "feed": "https://blog.google/technology/ai/rss/",
+      "published": "2026-11-10T13:00:00+00:00",
+      "official": true,
+      "event": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "published": "2026-11-10T16:03:47+00:00",
+      "official": true,
+      "event": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "published": "2026-11-10T12:02:28+00:00",
+      "official": true,
+      "event": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "title": "Exploring the world's languages with Language Explorer",
+      "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+      "feed": "https://research.google/blog/rss/",
+      "published": "2026-11-09T20:29:39+00:00",
+      "official": true,
+      "event": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/"
+    },
+    {
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-10T16:00:03+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-10T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/hub-gcp-marketplace"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-10T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/decision"
+    },
+    {
+      "title": "Introducing GIFT-Eval-CTX: An Open-Source Benchmark for Contextual Forecasting",
+      "url": "https://www.salesforce.com/blog/gift-eval-ctx/",
+      "feed": "https://www.salesforce.com/blog/category/ai-research/feed/",
+      "published": "2026-11-09T23:47:30+00:00",
+      "official": true,
+      "event": "https://www.salesforce.com/blog/gift-eval-ctx/"
+    },
+    {
+      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-10T18:11:08+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/"
+    },
+    {
+      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-10T16:59:43+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "Amazon Bedrock tokenomics data lake",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-10T16:56:36+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/"
+    },
+    {
+      "title": "How skills and agents work in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-10T00:21:34+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/"
+    },
+    {
+      "title": "Mitra-v2: Scaling synthetic pretraining for tabular foundation models",
+      "url": "https://www.amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models",
+      "feed": "https://www.amazon.science/index.rss",
+      "published": "2026-11-10T15:37:39+00:00",
+      "official": true,
+      "event": "https://www.amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models"
+    },
+    {
+      "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+      "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-10T16:00:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/"
+    },
+    {
+      "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-10T15:00:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/"
+    },
+    {
+      "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+      "url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-10T15:00:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot/"
+    },
+    {
+      "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+      "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-10T15:00:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/"
+    },
+    {
+      "title": "Introducing Gemini for healthcare",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-10T12:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/"
+    },
+    {
+      "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+      "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-10T05:00:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/": 0.92,
+      "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/": 0.74,
+      "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/": 0.58,
+      "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/": 0.55,
+      "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/": 0.86,
+      "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/": 0.47,
+      "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/": 0.78,
+      "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/": 0.95,
+      "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/": 0.41,
+      "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/": 0.52,
+      "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy": 0.44,
+      "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub": 0.63,
+      "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now": 0.56,
+      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout": 0.9,
+      "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion": 0.93,
+      "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates": 0.73,
+      "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/": 0.25,
+      "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/": 0.38,
+      "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/": 0.34,
+      "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss": 0.91,
+      "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625": 0.31,
+      "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github": 0.8,
+      "https://www.darkreading.com/application-security/ai-reverse-engineering-apps": 0.66,
+      "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/": 0.8,
+      "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/": 0.62,
+      "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks": 0.57,
+      "https://www.anthropic.com/news/roadshow-launch": 0.88,
+      "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/": 0.7,
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/": 0.76,
+      "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": 0.87,
+      "https://deepmind.google/blog/introducing-alphaproof-code/": 0.74,
+      "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/": 0.69,
+      "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/": 0.77
+    },
+    {
+      "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping": 0.72,
+      "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/": 0.34,
+      "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/": 0.28,
+      "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/": 0.24,
+      "https://www.salesforce.com/blog/gift-eval-ctx/": 0.22,
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/": 0.71,
+      "https://deepmind.google/blog/introducing-alphaproof-code/": 0.63,
+      "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/": 0.31,
+      "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub": 0.67,
+      "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/": 0.56,
+      "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/": 0.52,
+      "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/": 0.7,
+      "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/": 0.3,
+      "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/": 0.18,
+      "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": 0.74,
+      "https://www.amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models": 0.25,
+      "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates": 0.68,
+      "https://huggingface.co/blog/hub-gcp-marketplace": 0.21,
+      "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/": 0.46,
+      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout": 0.78,
+      "https://www.anthropic.com/news/roadshow-launch": 0.86,
+      "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github": 0.84,
+      "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now": 0.55,
+      "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/": 0.95,
+      "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/": 0.2,
+      "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/": 0.42,
+      "https://huggingface.co/blog/decision": 0.18,
+      "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/": 0.53,
+      "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/": 0.2,
+      "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/": 0.39,
+      "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion": 0.94,
+      "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy": 0.27,
+      "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/": 0.29,
+      "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/": 0.76,
+      "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/": 0.33,
+      "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/": 0.69,
+      "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss": 0.9,
+      "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/": 0.3
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "kind": "news",
+      "importance": 0.87,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.7358
+    },
+    {
+      "rank": 2,
+      "headline": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "kind": "news",
+      "importance": 0.805,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.6666
+    },
+    {
+      "rank": 3,
+      "headline": "Introducing Gemini for healthcare",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
+      "kind": "news",
+      "importance": 0.735,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5939
+    },
+    {
+      "rank": 4,
+      "headline": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "kind": "news",
+      "importance": 0.685,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5739
+    },
+    {
+      "rank": 5,
+      "headline": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "kind": "news",
+      "importance": 0.735,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5693
+    },
+    {
+      "rank": 6,
+      "headline": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "kind": "news",
+      "importance": 0.61,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4716
+    },
+    {
+      "rank": 7,
+      "headline": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "kind": "news",
+      "importance": 0.51,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3758
+    },
+    {
+      "rank": 8,
+      "headline": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "kind": "news",
+      "importance": 0.95,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2667
+    },
+    {
+      "rank": 9,
+      "headline": "Anthropic targets $1.4 trillion IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "kind": "news",
+      "importance": 0.935,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2383
+    },
+    {
+      "rank": 10,
+      "headline": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "kind": "news",
+      "importance": 0.905,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2383
+    },
+    {
+      "rank": 11,
+      "headline": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+      "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+      "kind": "news",
+      "importance": 0.82,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1533
+    },
+    {
+      "rank": 12,
+      "headline": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "kind": "news",
+      "importance": 0.84,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1272
+    },
+    {
+      "rank": 13,
+      "headline": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "kind": "news",
+      "importance": 0.81,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1219
+    },
+    {
+      "rank": 14,
+      "headline": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "kind": "news",
+      "importance": 0.735,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0483
+    },
+    {
+      "rank": 15,
+      "headline": "Adobe is going all in on agentic AI",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "kind": "news",
+      "importance": 0.705,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0383
+    },
+    {
+      "rank": 16,
+      "headline": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+      "kind": "news",
+      "importance": 0.145,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0339
+    },
+    {
+      "rank": 17,
+      "headline": "Amazon Bedrock tokenomics data lake",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
+      "kind": "news",
+      "importance": 0.14,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0289
+    },
+    {
+      "rank": 18,
+      "headline": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+      "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
+      "kind": "news",
+      "importance": 0.15,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0139
+    },
+    {
+      "rank": 19,
+      "headline": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
+      "kind": "news",
+      "importance": 0.12,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0089
+    },
+    {
+      "rank": 20,
+      "headline": "Introducing GIFT-Eval-CTX: An Open-Source Benchmark for Contextual Forecasting",
+      "url": "https://www.salesforce.com/blog/gift-eval-ctx/",
+      "kind": "news",
+      "importance": 0.11,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0011
+    },
+    {
+      "rank": 21,
+      "headline": "Mitra-v2: Scaling synthetic pretraining for tabular foundation models",
+      "url": "https://www.amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models",
+      "kind": "news",
+      "importance": 0.125,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0049
+    },
+    {
+      "rank": 22,
+      "headline": "Exploring the world's languages with Language Explorer",
+      "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+      "kind": "news",
+      "importance": 0.1,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0111
+    },
+    {
+      "rank": 23,
+      "headline": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "kind": "news",
+      "importance": 0.65,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0167
+    },
+    {
+      "rank": 24,
+      "headline": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "kind": "news",
+      "importance": 0.65,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0167
+    },
+    {
+      "rank": 25,
+      "headline": "How skills and agents work in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+      "kind": "news",
+      "importance": 0.09,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0211
+    },
+    {
+      "rank": 26,
+      "headline": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "kind": "news",
+      "importance": 0.105,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0261
+    },
+    {
+      "rank": 27,
+      "headline": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+      "kind": "news",
+      "importance": 0.1,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0288
+    },
+    {
+      "rank": 28,
+      "headline": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "kind": "news",
+      "importance": 0.09,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0442
+    },
+    {
+      "rank": 29,
+      "headline": "Anthropic has its own AI-powered office suite now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "kind": "news",
+      "importance": 0.555,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1347
+    },
+    {
+      "rank": 30,
+      "headline": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "kind": "news",
+      "importance": 0.54,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1467
+    },
+    {
+      "rank": 31,
+      "headline": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
+      "url": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
+      "kind": "news",
+      "importance": 0.52,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1654
+    },
+    {
+      "rank": 32,
+      "headline": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "kind": "news",
+      "importance": 0.485,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1975
+    },
+    {
+      "rank": 33,
+      "headline": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "kind": "news",
+      "importance": 0.465,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2017
+    },
+    {
+      "rank": 34,
+      "headline": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "kind": "news",
+      "importance": 0.46,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2281
+    },
+    {
+      "rank": 35,
+      "headline": "eBay appears to have shut the door on third-party AI agents",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "kind": "news",
+      "importance": 0.36,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3067
+    },
+    {
+      "rank": 36,
+      "headline": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "kind": "news",
+      "importance": 0.355,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3117
+    },
+    {
+      "rank": 37,
+      "headline": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "kind": "news",
+      "importance": 0.355,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3117
+    },
+    {
+      "rank": 38,
+      "headline": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+      "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+      "kind": "news",
+      "importance": 0.34,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3267
+    },
+    {
+      "rank": 39,
+      "headline": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
+      "url": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
+      "kind": "news",
+      "importance": 0.4,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.331
+    },
+    {
+      "rank": 40,
+      "headline": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
+      "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
+      "kind": "news",
+      "importance": 0.33,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3597
+    },
+    {
+      "rank": 41,
+      "headline": "AI company Fireworks says hackers stole data, billing info during October breaches",
+      "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
+      "kind": "news",
+      "importance": 0.285,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4004
+    },
+    {
+      "rank": 42,
+      "headline": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "kind": "news",
+      "importance": 0.26,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4067
+    },
+    {
+      "rank": 43,
+      "headline": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+      "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+      "kind": "news",
+      "importance": 0.19,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4767
+    },
+    {
+      "rank": 44,
+      "headline": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "kind": "news",
+      "importance": 0.155,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.5117
+    },
+    {
+      "rank": 45,
+      "headline": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
+      "kind": "news",
+      "importance": 0.155,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.5293
+    },
+    {
+      "rank": 46,
+      "headline": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "kind": "news",
+      "importance": 0.125,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.5604
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "anthropic-launches-roadshow-for-proposed-initial-public-offering",
+    "live": true
+  }
+}
