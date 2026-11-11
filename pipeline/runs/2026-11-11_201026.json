@@ -1,0 +1,861 @@
+{
+  "day": "2026-11-11",
+  "mode": "live",
+  "started_at": "2026-11-11T20:10:26+00:00",
+  "discovered": [
+    {
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-11T20:02:14+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/"
+    },
+    {
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-11T19:54:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+    },
+    {
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-11T19:34:55+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-11T19:22:22+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+    },
+    {
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-11T16:16:07+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
+    },
+    {
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-11T16:14:44+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+    },
+    {
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-11T15:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-11T14:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+    },
+    {
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-11T16:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+    },
+    {
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-11T15:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+    },
+    {
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-11T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"
+    },
+    {
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-11T19:55:54+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/"
+    },
+    {
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-11T17:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/"
+    },
+    {
+      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-11T16:13:03+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/"
+    },
+    {
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-11T15:30:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/"
+    },
+    {
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-11T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
+    },
+    {
+      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-11T11:33:24+00:00",
+      "official": false,
+      "event": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Shipping giant Maersk probes 'IT security incident,' data theft",
+      "url": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-11T12:05:34+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096"
+    },
+    {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "feed": "https://krebsonsecurity.com/feed/",
+      "published": "2026-11-11T18:06:01+00:00",
+      "official": false,
+      "event": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/"
+    },
+    {
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-11T16:24:18+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/"
+    },
+    {
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-11T15:12:59+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/"
+    },
+    {
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-11T15:01:11+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/"
+    },
+    {
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-11T12:32:27+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/"
+    },
+    {
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-11T11:18:36+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/"
+    },
+    {
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-11T10:12:08+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/"
+    },
+    {
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-11T09:07:27+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/"
+    },
+    {
+      "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
+      "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-11T16:29:42+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/"
+    },
+    {
+      "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-11T15:42:47+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/"
+    },
+    {
+      "title": "Asus, Zoom Release Security Patches",
+      "url": "https://www.securityweek.com/asus-zoom-release-security-patches/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-11T13:58:38+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/asus-zoom-release-security-patches/"
+    },
+    {
+      "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+      "url": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-11T13:37:19+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/"
+    },
+    {
+      "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
+      "url": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-11T12:24:33+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/"
+    },
+    {
+      "title": "Fortinet Patches Nearly 100 Vulnerabilities",
+      "url": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-11T12:10:14+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/"
+    },
+    {
+      "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
+      "url": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-11T11:30:00+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/"
+    },
+    {
+      "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
+      "url": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-11T11:16:40+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/"
+    },
+    {
+      "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-11T10:35:15+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/"
+    },
+    {
+      "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+      "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-11T09:01:07+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/"
+    },
+    {
+      "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+      "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-11T16:57:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime"
+    },
+    {
+      "title": "Poland shuts down government services platform ePUAP following cyberattack",
+      "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-11T13:18:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack"
+    },
+    {
+      "title": "Britain, France set out first guidelines for commercial hacking firms",
+      "url": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-11T13:11:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms"
+    },
+    {
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "feed": "https://www.anthropic.com/news",
+      "published": "2026-11-10T23:59:59+00:00",
+      "official": true,
+      "event": "https://www.anthropic.com/news/roadshow-launch"
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "feed": "https://blog.google/technology/ai/rss/",
+      "published": "2026-11-11T18:00:00+00:00",
+      "official": true,
+      "event": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "feed": "https://blog.google/technology/ai/rss/",
+      "published": "2026-11-11T16:00:00+00:00",
+      "official": true,
+      "event": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+    },
+    {
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "feed": "https://blog.google/technology/ai/rss/",
+      "published": "2026-11-11T09:00:00+00:00",
+      "official": true,
+      "event": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+    },
+    {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "published": "2026-11-11T15:00:15+00:00",
+      "official": true,
+      "event": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
+    {
+      "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+      "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+      "feed": "https://research.google/blog/rss/",
+      "published": "2026-11-11T19:54:00+00:00",
+      "official": true,
+      "event": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/"
+    },
+    {
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "feed": "https://www.microsoft.com/en-us/research/feed/",
+      "published": "2026-11-10T20:52:56+00:00",
+      "official": true,
+      "event": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+    },
+    {
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-11T03:00:20+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/ai-recycling-startups/"
+    },
+    {
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-11T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/token-pooling"
+    },
+    {
+      "title": "Accelerating generative AI delivery with reusable assets",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T19:19:21+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/"
+    },
+    {
+      "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T16:05:33+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/"
+    },
+    {
+      "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T15:50:55+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/"
+    },
+    {
+      "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T15:10:23+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/"
+    },
+    {
+      "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T01:07:19+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/"
+    },
+    {
+      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-10T23:34:05+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/"
+    },
+    {
+      "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-10T22:35:03+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/"
+    },
+    {
+      "title": "Using mathematics to validate network configurations",
+      "url": "https://www.amazon.science/blog/using-mathematics-to-validate-network-configurations",
+      "feed": "https://www.amazon.science/index.rss",
+      "published": "2026-11-11T17:02:01+00:00",
+      "official": true,
+      "event": "https://www.amazon.science/blog/using-mathematics-to-validate-network-configurations"
+    },
+    {
+      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+      "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-11T17:00:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/"
+    },
+    {
+      "title": "Introducing new AI functions for AlloyDB: ai.classify and ai.extract",
+      "url": "https://cloud.google.com/blog/products/databases/ai-classify-and-ai-extract-functions-in-alloydb-ai/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-11T17:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/databases/ai-classify-and-ai-extract-functions-in-alloydb-ai/"
+    },
+    {
+      "title": "Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification",
+      "url": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-agentic-architect-certification-dont-just-prompt-ai-design-it/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-11T17:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-agentic-architect-certification-dont-just-prompt-ai-design-it/"
+    },
+    {
+      "title": "Sovereign AI and British Business Bank invest in British firm developing the next generation of AI hardware",
+      "url": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware",
+      "feed": "https://www.gov.uk/search/news-and-communications.atom?keywords=artificial+intelligence",
+      "published": "2026-11-11T13:00:03+00:00",
+      "official": true,
+      "event": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware"
+    },
+    {
+      "title": "NCSC scheme will help critical organisations test their cyber defences",
+      "url": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences",
+      "feed": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
+      "published": "2026-11-11T12:00:00+00:00",
+      "official": true,
+      "event": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/": 0.86,
+      "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/": 0.83,
+      "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/": 0.92,
+      "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/": 0.56,
+      "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/": 0.49,
+      "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability": 0.47,
+      "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model": 0.78,
+      "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai": 0.44,
+      "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/": 0.58,
+      "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/": 0.39,
+      "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/": 0.71,
+      "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss": 0.52,
+      "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/": 0.68,
+      "https://www.anthropic.com/news/roadshow-launch": 0.89,
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": 0.57,
+      "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/": 0.42,
+      "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/": 0.8,
+      "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/": 0.62,
+      "https://blogs.nvidia.com/blog/ai-recycling-startups/": 0.37,
+      "https://huggingface.co/blog/token-pooling": 0.34,
+      "https://cloud.google.com/blog/products/databases/ai-classify-and-ai-extract-functions-in-alloydb-ai/": 0.54,
+      "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware": 0.66
+    },
+    {
+      "https://www.amazon.science/blog/using-mathematics-to-validate-network-configurations": 0.42,
+      "https://huggingface.co/blog/token-pooling": 0.31,
+      "https://cloud.google.com/blog/products/databases/ai-classify-and-ai-extract-functions-in-alloydb-ai/": 0.56,
+      "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/": 0.58,
+      "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/": 0.34,
+      "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/": 0.79,
+      "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/": 0.67,
+      "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/": 0.22,
+      "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/": 0.19,
+      "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/": 0.57,
+      "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/": 0.17,
+      "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/": 0.18,
+      "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability": 0.24,
+      "https://www.anthropic.com/news/roadshow-launch": 0.76,
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": 0.38,
+      "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/": 0.33,
+      "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/": 0.82,
+      "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/": 0.21,
+      "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware": 0.64,
+      "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/": 0.14,
+      "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/": 0.74,
+      "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/": 0.23,
+      "https://blogs.nvidia.com/blog/ai-recycling-startups/": 0.16,
+      "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model": 0.48
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Sovereign AI and British Business Bank invest in British firm developing the next generation of AI hardware",
+      "url": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware",
+      "kind": "news",
+      "importance": 0.65,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5402
+    },
+    {
+      "rank": 2,
+      "headline": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "kind": "news",
+      "importance": 0.6,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4902
+    },
+    {
+      "rank": 3,
+      "headline": "Introducing new AI functions for AlloyDB: ai.classify and ai.extract",
+      "url": "https://cloud.google.com/blog/products/databases/ai-classify-and-ai-extract-functions-in-alloydb-ai/",
+      "kind": "news",
+      "importance": 0.55,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4402
+    },
+    {
+      "rank": 4,
+      "headline": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "kind": "news",
+      "importance": 0.475,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3652
+    },
+    {
+      "rank": 5,
+      "headline": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "kind": "news",
+      "importance": 0.4,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2902
+    },
+    {
+      "rank": 6,
+      "headline": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "kind": "news",
+      "importance": 0.325,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1976
+    },
+    {
+      "rank": 7,
+      "headline": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "kind": "news",
+      "importance": 0.87,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1857
+    },
+    {
+      "rank": 8,
+      "headline": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "kind": "news",
+      "importance": 0.265,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1552
+    },
+    {
+      "rank": 9,
+      "headline": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "kind": "news",
+      "importance": 0.21,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1002
+    },
+    {
+      "rank": 10,
+      "headline": "Using mathematics to validate network configurations",
+      "url": "https://www.amazon.science/blog/using-mathematics-to-validate-network-configurations",
+      "kind": "news",
+      "importance": 0.21,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1002
+    },
+    {
+      "rank": 11,
+      "headline": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "kind": "news",
+      "importance": 0.75,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0833
+    },
+    {
+      "rank": 12,
+      "headline": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "kind": "news",
+      "importance": 0.75,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0833
+    },
+    {
+      "rank": 13,
+      "headline": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
+      "kind": "news",
+      "importance": 0.17,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0602
+    },
+    {
+      "rank": 14,
+      "headline": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+      "kind": "news",
+      "importance": 0.165,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0552
+    },
+    {
+      "rank": 15,
+      "headline": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "kind": "news",
+      "importance": 0.715,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0483
+    },
+    {
+      "rank": 16,
+      "headline": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "kind": "news",
+      "importance": 0.71,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0433
+    },
+    {
+      "rank": 17,
+      "headline": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
+      "kind": "news",
+      "importance": 0.105,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0048
+    },
+    {
+      "rank": 18,
+      "headline": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+      "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+      "kind": "news",
+      "importance": 0.115,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0162
+    },
+    {
+      "rank": 19,
+      "headline": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
+      "kind": "news",
+      "importance": 0.09,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0198
+    },
+    {
+      "rank": 20,
+      "headline": "Accelerating generative AI delivery with reusable assets",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
+      "kind": "news",
+      "importance": 0.085,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0248
+    },
+    {
+      "rank": 21,
+      "headline": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "kind": "news",
+      "importance": 0.63,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0367
+    },
+    {
+      "rank": 22,
+      "headline": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+      "kind": "news",
+      "importance": 0.07,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0398
+    },
+    {
+      "rank": 23,
+      "headline": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "kind": "news",
+      "importance": 0.39,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2767
+    },
+    {
+      "rank": 24,
+      "headline": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "kind": "news",
+      "importance": 0.355,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3293
+    },
+    {
+      "rank": 25,
+      "headline": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "kind": "news",
+      "importance": 0.34,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3392
+    },
+    {
+      "rank": 26,
+      "headline": "A Startup Wants to Fight AI Bioweapons With AI",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "kind": "news",
+      "importance": 0.29,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3767
+    },
+    {
+      "rank": 27,
+      "headline": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "kind": "news",
+      "importance": 0.26,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4067
+    },
+    {
+      "rank": 28,
+      "headline": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "kind": "news",
+      "importance": 0.22,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4467
+    },
+    {
+      "rank": 29,
+      "headline": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "kind": "news",
+      "importance": 0.195,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4931
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Sovereign AI and British Business Bank invest in British firm developing the next generation of AI hardware",
+      "url": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware",
+      "kind": "news",
+      "official": true,
+      "outcome": "failed",
+      "reason": "why_today must be a plain 12-30 word sentence"
+    },
+    {
+      "headline": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "microsoft-researchers-describe-lazarus-method-that-can-turn-dormant-neurons-into-a-backdoor-in-ai-agents",
+    "live": true
+  }
+}
