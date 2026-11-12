@@ -1,0 +1,973 @@
+{
+  "day": "2026-11-12",
+  "mode": "live",
+  "started_at": "2026-11-12T20:46:30+00:00",
+  "discovered": [
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T20:26:47+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
+    },
+    {
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T19:27:45+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T19:11:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T18:39:23+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T17:36:40+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T17:17:58+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+    },
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T17:00:52+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T17:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
+    },
+    {
+      "title": "Jensen Huang agrees to testify before Congress",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T16:36:37+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+    },
+    {
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T16:32:33+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+    },
+    {
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T16:12:44+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+    },
+    {
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T15:37:29+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+    },
+    {
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T15:18:14+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+    },
+    {
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T15:02:28+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T14:30:01+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-12T13:26:25+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
+    },
+    {
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-12T19:42:40+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+    },
+    {
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-12T18:06:54+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video"
+    },
+    {
+      "title": "The Jensen Huang scandal is hardly over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-12T17:44:33+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-12T17:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+    },
+    {
+      "title": "More game developers are starting to use generative AI",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-12T17:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs"
+    },
+    {
+      "title": "Jensen Huang is out. What did China want from him?",
+      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-12T16:30:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump"
+    },
+    {
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-12T15:48:12+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-12T15:01:31+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    },
+    {
+      "title": "I reviewed the Apple HomeView, ask me anything",
+      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-12T14:10:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-12T13:53:16+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns"
+    },
+    {
+      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-12T20:35:11+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/"
+    },
+    {
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-12T18:59:58+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/"
+    },
+    {
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-12T18:05:41+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/"
+    },
+    {
+      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-12T17:59:15+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/"
+    },
+    {
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-12T14:14:33+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/"
+    },
+    {
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-12T13:58:06+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns"
+    },
+    {
+      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-12T10:30:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/"
+    },
+    {
+      "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-12T10:15:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/"
+    },
+    {
+      "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+      "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-12T16:43:36+00:00",
+      "official": false,
+      "event": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week",
+      "url": "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-12T20:08:08+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425"
+    },
+    {
+      "title": "Software Samaritan revamps borked Indian certs to block smart TV ads",
+      "url": "https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-12T18:02:55+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467"
+    },
+    {
+      "title": "Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era",
+      "url": "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-12T14:55:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401"
+    },
+    {
+      "title": "Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs",
+      "url": "https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-12T13:02:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361"
+    },
+    {
+      "title": "European tech buyers add digital sovereignty to cyber shopping list",
+      "url": "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-12T11:31:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216"
+    },
+    {
+      "title": "London hotel put admin login for booking website on whiteboard behind the front desk",
+      "url": "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-12T09:30:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889"
+    },
+    {
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-12T20:15:16+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+    },
+    {
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-12T19:51:16+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/"
+    },
+    {
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-12T19:12:55+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/"
+    },
+    {
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-12T16:04:00+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/"
+    },
+    {
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-12T15:07:20+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/"
+    },
+    {
+      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+      "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-12T15:00:10+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/"
+    },
+    {
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-12T14:36:47+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-12T12:11:11+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/"
+    },
+    {
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-12T10:24:07+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/"
+    },
+    {
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-12T09:38:00+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/"
+    },
+    {
+      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+      "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-12T20:09:41+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time"
+    },
+    {
+      "title": "Inside an AI Attack Against a US Retailer",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-12T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer"
+    },
+    {
+      "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
+      "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-12T15:38:31+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/"
+    },
+    {
+      "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-12T13:42:09+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/"
+    },
+    {
+      "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
+      "url": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-12T13:39:03+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/"
+    },
+    {
+      "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
+      "url": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-12T13:12:11+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/"
+    },
+    {
+      "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+      "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-12T11:08:52+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/"
+    },
+    {
+      "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+      "url": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-12T10:39:34+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/"
+    },
+    {
+      "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+      "url": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-12T09:39:55+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/"
+    },
+    {
+      "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+      "url": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-12T09:23:21+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/"
+    },
+    {
+      "title": "United to block customers from using AI agents, citing cyber threats",
+      "url": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-12T19:20:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents"
+    },
+    {
+      "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
+      "url": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-12T18:28:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system"
+    },
+    {
+      "title": "European authorities take down SteaIC malware servers for second time this year",
+      "url": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-12T16:21:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time"
+    },
+    {
+      "title": "ConnectWise investigates ScreenConnect breaches after reports of incidents at nearly 50 organizations",
+      "url": "https://therecord.media/connectwise-screenconnect-breaches-third-party-tool",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-12T16:16:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/connectwise-screenconnect-breaches-third-party-tool"
+    },
+    {
+      "title": "Hijacked email accounts complicate investigations into European bomb hoaxes",
+      "url": "https://therecord.media/europe-hoax-email-threats",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-12T14:45:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/europe-hoax-email-threats"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "feed": "https://blog.google/technology/ai/rss/",
+      "published": "2026-11-12T18:00:00+00:00",
+      "official": true,
+      "event": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "published": "2026-11-12T18:00:50+00:00",
+      "official": true,
+      "event": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "title": "From AI ambition to business impact",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "feed": "https://blogs.microsoft.com/feed/",
+      "published": "2026-11-12T17:00:03+00:00",
+      "official": true,
+      "event": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/"
+    },
+    {
+      "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+      "feed": "https://blogs.microsoft.com/feed/",
+      "published": "2026-11-12T16:00:02+00:00",
+      "official": true,
+      "event": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/"
+    },
+    {
+      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-12T14:00:59+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/"
+    },
+    {
+      "title": "Theoretical Limits of Language Model Alignment",
+      "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+      "feed": "https://machinelearning.apple.com/rss.xml",
+      "published": "2026-11-12T00:00:00+00:00",
+      "official": true,
+      "event": "https://machinelearning.apple.com/research/theoretical-limits-alignment"
+    },
+    {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-12T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/3d-lora-finetuning"
+    },
+    {
+      "title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-12T19:29:55+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/"
+    },
+    {
+      "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-12T18:43:19+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/"
+    },
+    {
+      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-12T18:41:12+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/"
+    },
+    {
+      "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-12T17:59:59+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/"
+    },
+    {
+      "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-12T16:16:45+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/"
+    },
+    {
+      "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-12T15:42:21+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/"
+    },
+    {
+      "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-12T15:40:24+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/"
+    },
+    {
+      "title": "From prototype to production: Engineering agents with Agent DLC",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-12T15:38:47+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/"
+    },
+    {
+      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-12T01:18:23+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/"
+    },
+    {
+      "title": "OpenAI Codex on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T23:35:47+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/"
+    },
+    {
+      "title": "Semantic diffing of formal policies with anti-unification",
+      "url": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T23:33:03+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/"
+    },
+    {
+      "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T23:30:03+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+      "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T23:13:16+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "ICYMI: What landed for AI builders in October 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T22:26:40+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/"
+    },
+    {
+      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T21:05:59+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/"
+    },
+    {
+      "title": "Automating AWS Agent Registry updates with push-based architecture",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-11T20:52:48+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/"
+    },
+    {
+      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-12T05:00:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"
+    },
+    {
+      "title": "United Kingdom-Norway Joint Statement of intent on Artificial Intelligence",
+      "url": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence",
+      "feed": "https://www.gov.uk/search/news-and-communications.atom?keywords=artificial+intelligence",
+      "published": "2026-11-12T16:16:04+00:00",
+      "official": true,
+      "event": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence"
+    }
+  ],
+  "passes": [
+    {
+      "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/": 0.95,
+      "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": 0.87,
+      "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/": 0.82,
+      "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer": 0.76,
+      "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/": 0.68,
+      "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112": 0.61,
+      "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence": 0.58,
+      "https://machinelearning.apple.com/research/theoretical-limits-alignment": 0.52,
+      "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/": 0.41
+    },
+    {
+      "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/": 0.74,
+      "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/": 0.61,
+      "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/": 0.45,
+      "https://machinelearning.apple.com/research/theoretical-limits-alignment": 0.56,
+      "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/": 0.66,
+      "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/": 0.83,
+      "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/": 0.34,
+      "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": 0.88,
+      "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/": 0.53,
+      "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations": 0.79,
+      "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer": 0.72,
+      "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/": 0.41,
+      "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/": 0.58,
+      "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112": 0.49,
+      "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence": 0.43,
+      "https://therecord.media/united-airlines-to-block-customers-using-ai-agents": 0.62,
+      "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/": 0.39
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "kind": "news",
+      "importance": 0.89,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.7704
+    },
+    {
+      "rank": 2,
+      "headline": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "kind": "news",
+      "importance": 0.875,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.7554
+    },
+    {
+      "rank": 3,
+      "headline": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+      "kind": "news",
+      "importance": 0.55,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4128
+    },
+    {
+      "rank": 4,
+      "headline": "Theoretical Limits of Language Model Alignment",
+      "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+      "kind": "news",
+      "importance": 0.54,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3974
+    },
+    {
+      "rank": 5,
+      "headline": "United Kingdom-Norway Joint Statement of intent on Artificial Intelligence",
+      "url": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence",
+      "kind": "news",
+      "importance": 0.505,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3854
+    },
+    {
+      "rank": 6,
+      "headline": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+      "kind": "news",
+      "importance": 0.37,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2338
+    },
+    {
+      "rank": 7,
+      "headline": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+      "kind": "news",
+      "importance": 0.33,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2104
+    },
+    {
+      "rank": 8,
+      "headline": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
+      "kind": "news",
+      "importance": 0.305,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1696
+    },
+    {
+      "rank": 9,
+      "headline": "OpenAI Codex on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+      "kind": "news",
+      "importance": 0.29,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1474
+    },
+    {
+      "rank": 10,
+      "headline": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+      "kind": "news",
+      "importance": 0.265,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.124
+    },
+    {
+      "rank": 11,
+      "headline": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
+      "kind": "news",
+      "importance": 0.225,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1054
+    },
+    {
+      "rank": 12,
+      "headline": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
+      "kind": "news",
+      "importance": 0.195,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0754
+    },
+    {
+      "rank": 13,
+      "headline": "Inside an AI Attack Against a US Retailer",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+      "kind": "news",
+      "importance": 0.74,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0733
+    },
+    {
+      "rank": 14,
+      "headline": "Scaling AI value without losing control: Lessons from Frontier Firms",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+      "kind": "news",
+      "importance": 0.17,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0504
+    },
+    {
+      "rank": 15,
+      "headline": "Daylight Lands $80 Million for AI-Powered Security Operations",
+      "url": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
+      "kind": "news",
+      "importance": 0.545,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1217
+    },
+    {
+      "rank": 16,
+      "headline": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "kind": "news",
+      "importance": 0.41,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2725
+    },
+    {
+      "rank": 17,
+      "headline": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "kind": "news",
+      "importance": 0.395,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2904
+    },
+    {
+      "rank": 18,
+      "headline": "United to block customers from using AI agents, citing cyber threats",
+      "url": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
+      "kind": "news",
+      "importance": 0.31,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3743
+    },
+    {
+      "rank": 19,
+      "headline": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "kind": "news",
+      "importance": 0.205,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4831
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "google-adds-gemini-4-hydrogen-to-search-worldwide",
+    "live": true
+  }
+}
