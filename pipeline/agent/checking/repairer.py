@@ -63,8 +63,17 @@ def repair_arguments(draft: Draft, issues: list[ClaimResult], client: Client = _
 
 
 def repair(
-    draft: Draft, issues: list[ClaimResult], evidence: EvidencePacket | None, client: Client = _default_client
+    draft: Draft,
+    issues: list[ClaimResult],
+    evidence: EvidencePacket | None,
+    client: Client = _default_client,
+    title_rule: str = "",
+    title_check: Callable[[str], str | None] | None = None,
 ) -> Draft:
+    """`title_rule` adds an edition's requirement to a title repair (an
+    outage story names what failed and the AI side); `title_check` says why
+    a repaired title breaks it. A breaking title gets one corrected retry,
+    then stands: a supported title beats losing the story."""
     failed = {(r.field, r.claim): r for r in issues if not r.verified}
     if not failed:
         return draft
@@ -78,7 +87,7 @@ def repair(
         issue = failed.get((field, paragraph.text))
         if not issue:
             continue
-        prompt = repair_prompt(draft, field, paragraph, issue, sources, aliases)
+        prompt = repair_prompt(draft, field, paragraph, issue, sources, aliases, title_rule)
         try:
             proposed, diagnoses = parse_repair_reply(client(prompt), field, paragraph, sources, aliases)
             # Reject an overlong summary before installing it or paying to
@@ -90,6 +99,17 @@ def repair(
                 proposed, diagnoses = parse_repair_reply(client(retry), field, paragraph, sources, aliases)
                 if length_problem(field, proposed):
                     raise ValueError(f"{field} length still wrong after bounded retry")
+            if field == "title" and title_check is not None and proposed is not None:
+                shape = title_check(proposed.text)
+                if shape:
+                    log.info("retrying repair [title]: %s", shape)
+                    retried, retried_diagnoses = parse_repair_reply(
+                        client(length_retry_prompt(prompt, proposed, shape)), field, paragraph, sources, aliases
+                    )
+                    if retried is not None and not length_problem(field, retried):
+                        proposed, diagnoses = retried, retried_diagnoses
+                    if title_check(proposed.text):
+                        log.info("repaired title still breaks the edition rule; keeping it: %r", proposed.text)
         except ValueError as error:
             log.warning("rejected repair [%s]: %s", field, error)
             continue

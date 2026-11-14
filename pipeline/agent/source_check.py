@@ -10,6 +10,7 @@ import tempfile
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+from agent.evidence import status_pages
 from agent.evidence.retrieval import DocumentFetcher, extract
 from agent.evidence.source_rules import eligible_rule, load_rules
 from agent.research import discovery
@@ -35,12 +36,27 @@ def check(feed: str, fetcher: DocumentFetcher) -> tuple[str, str]:
     return "OK", f"{len(headlines)} items; article read ({blocks} text blocks)"
 
 
+def check_status_feed(feed: str, fetcher: DocumentFetcher) -> tuple[str, str]:
+    """Returns (status, detail) for a status feed: OK or FAIL. A status feed
+    is evidence for outage stories, never a discovery source."""
+    try:
+        entries = status_pages.parse_feed(fetcher(feed).body)
+    except Exception as error:
+        return "FAIL", f"{type(error).__name__}: {str(error)[:60]}"
+    return "OK", f"{len(entries)} entries"
+
+
 def main() -> int:
     fetcher = DocumentFetcher(Path(tempfile.mkdtemp()), lambda url: True)
+    status_feeds = [feed for p in status_pages.load_config().providers for feed in p.feeds]
     with ThreadPoolExecutor(8) as pool:
         results = list(pool.map(lambda feed: check(feed, fetcher), discovery.FEEDS))
+        status_results = list(pool.map(lambda feed: check_status_feed(feed, fetcher), status_feeds))
     print("\nSource reachability:")
     for feed, (status, detail) in zip(discovery.FEEDS, results, strict=True):
+        print(f"  {status:4} {feed[:70]:70} {detail}")
+    print("\nStatus feeds (evidence for outage stories):")
+    for feed, (status, detail) in zip(status_feeds, status_results, strict=True):
         print(f"  {status:4} {feed[:70]:70} {detail}")
     return 0
 

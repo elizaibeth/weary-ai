@@ -173,10 +173,60 @@ Return strict JSON:
 "paragraphs": [{{"text": "...", "passage_ids": ["passage-id"]}}]}}"""
 
 
+# Appended for an outage story (see agent/evidence/status_pages.py): Weary
+# covers an outage only for its effect on AI.
+OUTAGE_FRAMING = """
+This is an outage story, and Weary reports it only for its effect on AI. Tell
+it in three parts: the outage, its impact, and what it has to do with AI.
+Title: name the service that failed ({providers}) and the AI companies or
+products that reported problems, in plain words. Name them as the passages
+do (OpenAI, Anthropic, Claude), not by a category such as "AI assistants" or
+"AI tools", which the passages do not state. Put the two side by side in
+time, and name the problem as the passages do, for example "During cloud
+outage, Perplexity and Cursor report API errors". Do not say the outage disrupted, caused, hit or broke an AI
+product unless that company's own passage says its problem came from the
+outage: a status entry that only names a connector or integration does not
+say what caused it. The same applies to the description and image_caption.
+The title makes two claims, so its claim_passages must list a passage from
+the failed provider's own status page and one of passages {ai_aliases}; do
+the same for the description and image_caption. Keep verbs as strong as the
+passages: "elevated errors" is "errors", not "cut off" or "down". Do not
+describe the outage's length or size ("briefly", "massive", "day-long")
+unless the passages state it, and do not copy a status page's heading as the
+title.
+First paragraph: the outage and what it did to AI products or AI companies,
+citing at least one of passages {ai_aliases}.
+Then: what failed and for how long, from the provider's own status passages,
+with times as the passages state them; then each AI company's own report.
+Attribute every status passage to the company that posted it: "Anthropic
+said", not "Claude said"; "OpenAI said", not "ChatGPT said".
+Report a cause only if a passage states it. Never suggest that AI caused the
+outage, and never present two incidents as cause and effect unless a passage
+says so: incidents in the same hours are reported side by side."""
+
+
+# Added to a title repair in an outage story: repair once kept only what the
+# verifier accepted and dropped the AI side ("Elevated errors affecting the
+# Microsoft 365 connector before recovery").
+OUTAGE_REPAIR_TITLE = """This is an outage story: the title must still name the
+service that failed ({providers}) and the AI companies or products that
+reported problems, as the passages name them, and cite a passage for each.
+Put them side by side in time ("During X outage, Y reports errors") rather
+than saying the outage caused Y's problems, unless Y's own passage says so.
+Fix only the wording the passages do not support."""
+
+
 def build_prompt(
-    candidate: Candidate, catalog: dict, existing_tags: tuple[str, ...] = ()
+    candidate: Candidate,
+    catalog: dict,
+    existing_tags: tuple[str, ...] = (),
+    ai_passages: set[str] | None = None,
+    outage_of: tuple[str, ...] = (),
 ) -> tuple[str, dict[str, str]]:
-    """The writer prompt for `candidate`, and the passage aliases it lists."""
+    """The writer prompt for `candidate`, and the passage aliases it lists.
+    `ai_passages`, for an outage story, are the passage IDs that show an
+    effect on AI; the article has to lead with them. `outage_of` names the
+    providers whose service failed."""
     aliases = {f"P{i}": pid for i, pid in enumerate(catalog, 1)}
     numbered_evidence = "\n\n".join(
         f"Passage {alias} | source {sid} ({source.url}) | {source.provenance or 'primary'} | page {passage.page or 'HTML'}\n"
@@ -193,6 +243,11 @@ def build_prompt(
         slop_phrases=", ".join(SLOP_PHRASES),
         existing_tags=", ".join(existing_tags) if existing_tags else "(none yet)",
     )
+    if ai_passages:
+        named = [alias for alias, pid in aliases.items() if pid in ai_passages]
+        prompt += "\n" + OUTAGE_FRAMING.format(
+            ai_aliases=", ".join(named), providers=", ".join(outage_of) or "the provider"
+        )
     if candidate.kind == "paper":
         prompt += "\n" + PAPER_FRAMING
     elif candidate.kind == "opinion":

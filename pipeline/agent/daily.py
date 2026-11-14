@@ -155,9 +155,11 @@ def _drop_failed_arguments(draft, results):
     )
 
 
-def _verify_and_repair(draft, evidence_packet, deps: Deps, opinion: bool):
+def _verify_and_repair(draft, evidence_packet, deps: Deps, opinion: bool, title_rule=None):
     """Verify every claim, then repair and re-verify until the draft passes or
-    stops improving. Returns (draft, results, repaired)."""
+    stops improving. Returns (draft, results, repaired). `title_rule` is an
+    outage story's (requirement, check) for repaired titles."""
+    title_overrides = {"title_rule": title_rule[0], "title_check": title_rule[1]} if title_rule else {}
     # Reuse successful checks only for identical fields, text and evidence in
     # this candidate. A repaired claim or changed citation always gets checked.
     supported_cache: dict[tuple[str, str, str], verifier.ClaimResult] = {}
@@ -203,7 +205,9 @@ def _verify_and_repair(draft, evidence_packet, deps: Deps, opinion: bool):
             attempts + 1,
             repairer.MAX_ATTEMPTS,
         )
-        repaired = repairer.repair(draft, results, evidence_packet, **_given(client=deps.repairer_client))
+        repaired = repairer.repair(
+            draft, results, evidence_packet, **_given(client=deps.repairer_client), **title_overrides
+        )
         if repaired == draft:
             log.info("stopping repair: no valid change and no new evidence")
             break
@@ -262,7 +266,13 @@ def _write_and_verify(candidate, deps: Deps, existing_tags: tuple[str, ...] = ()
         return draft, False, issues
 
     log.info("verifying claims...")
-    draft, results, repaired = _verify_and_repair(draft, evidence_packet, deps, opinion=candidate.kind == "opinion")
+    draft, results, repaired = _verify_and_repair(
+        draft,
+        evidence_packet,
+        deps,
+        opinion=candidate.kind == "opinion",
+        title_rule=writer.repair_title_rule(candidate),
+    )
 
     # A repair can remove the actual news and leave only supported background.
     # Do not let a matching title alone keep such an article eligible for live publication.
@@ -275,6 +285,11 @@ def _write_and_verify(candidate, deps: Deps, existing_tags: tuple[str, ...] = ()
     # draft here: a claim-verified but deterministically-flawed draft must
     # still never count as verified (never publish live).
     deterministic = house_style.deterministic_issues(draft)
+    # A repair can also rewrite or drop an outage story's AI lead.
+    ai_ids = writer.ai_lead_passages(candidate, evidence_packet)
+    lead = writer.lead_issue(draft, ai_ids) if ai_ids is not None else None
+    if lead:
+        deterministic = [*deterministic, lead]
     verified = bool(draft.paragraphs) and verifier.passed(results) and not deterministic and relevant
     log.info("verified=%s%s", verified, f" (deterministic issues: {deterministic})" if deterministic else "")
 

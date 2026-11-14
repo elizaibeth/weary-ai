@@ -14,6 +14,7 @@ from dataclasses import dataclass
 from urllib.parse import urlsplit
 
 from agent.evidence.source_rules import SourceRule, eligible_rule
+from agent.evidence.status_pages import NO_STATUS, StatusConfig, outage_providers
 from agent.research.candidate import Candidate
 from agent.research.discovery import Headline
 
@@ -105,31 +106,44 @@ def prompt_title(title: str) -> str:
     return " ".join(title.split()).replace("[", "(").replace("]", ")")
 
 
+# Added to a news ranking prompt only when the second look found AI angles,
+# so the prompt (and the eval's saved replies) is unchanged on other days.
+ANGLE_NOTE = """
+Items marked [AI angle: ...] were read in full: the article reports the AI
+effect described, though the headline does not mention AI. Judge them on
+that effect, against the other items."""
+
+
 def ranking_prompt(
     day_label: str,
     headlines: list[Headline],
     rules: tuple[SourceRule, ...],
     template: str,
     coverage: dict[str, int] | None = None,
+    angles: Mapping[str, str] | None = None,
 ) -> str:
     """The ranking request for these real headlines. News items on the
     allowlist are marked official; every paper is on arXiv, so papers are not.
     Any template other than PAPER_PROMPT is a news prompt, so the eval can try
-    rewordings of it. `coverage` notes how many outlets reported each event."""
+    rewordings of it. `coverage` notes how many outlets reported each event;
+    `angles` are the second look's AI angles, by URL."""
     mark_official = template is not PAPER_PROMPT
     coverage = coverage or {}
+    angles = angles or {}
     listing = "\n".join(
         f"- {prompt_title(h.title)} ({h.url})"
         + (" [official source]" if mark_official and eligible_rule(h.url, rules) else "")
         + (f" [reported by {coverage[h.url]} outlets]" if coverage.get(h.url, 1) > 1 else "")
+        + (f" [AI angle: {prompt_title(angles[h.url])}]" if h.url in angles else "")
         for h in headlines
     )
-    return template.format(
+    prompt = template.format(
         day=day_label,
         count=len(headlines),
         settle_instruction="Do not settle on the first one." if len(headlines) > 1 else "",
         headlines=listing,
     )
+    return prompt.replace("\nHeadlines:\n", ANGLE_NOTE + "\n\nHeadlines:\n", 1) if angles else prompt
 
 
 def parse_ranking_reply(raw: str) -> list[dict]:
@@ -281,14 +295,17 @@ def to_candidates(
     config: RankingConfig = LEGACY,
     rates: Mapping[str, float] | None = None,
     recent_titles: Iterable[str] = (),
+    status: StatusConfig = NO_STATUS,
 ) -> list[Candidate]:
-    """Candidates in the order to try them."""
+    """Candidates in the order to try them. An outage of a provider in
+    `status` counts as official: its evidence is the provider's and the AI
+    companies' own status pages, not the outlet's report."""
     rates = rates or PRIOR_VERIFY_RATE
     recent = [content_words(t) for t in recent_titles]
     candidates = []
     for i, c in enumerate(proposals):
         importance = float(c["importance_score"])
-        official = eligible_rule(c["url"], rules) is not None
+        official = eligible_rule(c["url"], rules) is not None or bool(outage_providers(c["headline"], status))
         if config.order == "threshold":
             key = (1.0 if official and importance >= PRIMARY_FIRST_MIN_IMPORTANCE else 0.0) + importance
         else:

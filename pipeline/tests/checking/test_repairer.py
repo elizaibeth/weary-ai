@@ -425,3 +425,49 @@ def test_argument_rewrite_keeps_the_original_when_the_reply_is_unusable():
     assert "adds a purchase" in prompts[0] and "Stated facts: A fact." in prompts[0]
     rewritten = repairer.repair_arguments(column, issues, lambda p: json.dumps({"argument": "That looks like a bet."}))
     assert rewritten.paragraphs[0].argument == "That looks like a bet."
+
+
+def _title_repair(replies: list[str], title_check):
+    """Repair a rejected title with these replacement titles, in turn."""
+    from dataclasses import replace
+
+    pid = source_passages(_evidence().sources[0])[0].id
+    prompts: list[str] = []
+
+    def client(prompt):
+        prompts.append(prompt)
+        title = replies[min(len(prompts), len(replies)) - 1]
+        diagnosis = [{"assertion_ids": [1], "reason": "The passages say errors, not that service was cut off."}]
+        return json.dumps({"unsupported_assertions": diagnosis, "replacement": title, "passage_ids": [pid]})
+
+    draft = replace(_draft(), title="Microsoft outage cut off OpenAI", claim_passages=(("title", (pid,)),))
+    issues = [ClaimResult("Microsoft outage cut off OpenAI", False, 0, field="title")]
+    repaired = repairer.repair(
+        draft, issues, _evidence(), client, title_rule="Name what failed.", title_check=title_check
+    )
+    return repaired, prompts
+
+
+def _names_openai(title):
+    return None if "OpenAI" in title else "the title must name the AI companies"
+
+
+def test_an_outage_title_repair_gets_the_rule_and_a_retry_when_it_drops_the_ai_side():
+    # 13 Nov replay: the repair kept only what verified and dropped the AI side.
+    repaired, prompts = _title_repair(
+        ["Elevated errors affecting the connector", "Microsoft outage disrupted OpenAI"], _names_openai
+    )
+    assert "Name what failed." in prompts[0]
+    assert len(prompts) == 2 and "the title must name the AI companies" in prompts[1]
+    assert repaired.title == "Microsoft outage disrupted OpenAI"
+
+
+def test_a_title_that_still_breaks_the_rule_after_one_retry_stands():
+    repaired, prompts = _title_repair(["Elevated errors affecting the connector"], _names_openai)
+    assert len(prompts) == 2
+    assert repaired.title == "Elevated errors affecting the connector"
+
+
+def test_a_title_that_follows_the_rule_needs_no_retry():
+    repaired, prompts = _title_repair(["Microsoft outage disrupted OpenAI"], _names_openai)
+    assert len(prompts) == 1 and repaired.title == "Microsoft outage disrupted OpenAI"

@@ -14,14 +14,16 @@ import logging
 import os
 from collections.abc import Callable
 from dataclasses import replace
+from functools import partial
 
-from agent.evidence.packet import EvidencePacket, passage_catalog
+from agent.evidence import status_pages
+from agent.evidence.packet import EvidencePacket, ai_passage_ids, passage_catalog
 from agent.research.candidate import Candidate
 from agent.services import llm
 from agent.writing.article import Draft
 from agent.writing.draft_parser import parse_draft
 from agent.writing.house_style import opinion_shape_issue
-from agent.writing.prompts import build_prompt
+from agent.writing.prompts import OUTAGE_REPAIR_TITLE, build_prompt
 
 log = logging.getLogger(__name__)
 
@@ -52,21 +54,90 @@ def draft(
         raise ValueError(
             f"{evidence.outcome if evidence.outcome != 'ready' else 'no_primary_source'}: no usable primary passages"
         )
-    prompt, aliases = build_prompt(candidate, catalog, existing_tags)
+    ai_ids = ai_lead_passages(candidate, evidence)
+    failed = _failed_providers(candidate)
+    prompt, aliases = build_prompt(
+        candidate, catalog, existing_tags, ai_passages=ai_ids, outage_of=tuple(p.name for p in failed)
+    )
     opinion = candidate.kind == "opinion"
     if opinion and client is _default_client:
         client = _opinion_client
+    check: Callable[[Draft], str | None] | None = opinion_shape_issue if opinion else None
+    if ai_ids is not None:
+        check = partial(outage_issue, ai_ids=ai_ids, aliases=aliases, failed=failed)
     # Columns are more complex, so they get one more corrected retry.
     result = _draft_with_retry(
         prompt,
         client,
         lambda raw: parse_draft(raw, evidence, catalog, aliases),
         retries=2 if opinion else 1,
-        check=opinion_shape_issue if opinion else None,
+        check=check,
     )
     # Each series lives in its own category whatever the model chose.
     category = {"paper": "Research", "opinion": "Opinion"}.get(candidate.kind)
     return replace(result, category=category) if category else result
+
+
+def _failed_providers(candidate: Candidate) -> tuple[status_pages.StatusProvider, ...]:
+    """The providers whose outage this news story reports; empty otherwise."""
+    if candidate.kind != "news":
+        return ()
+    return status_pages.outage_providers(candidate.headline, status_pages.load_config())
+
+
+def ai_lead_passages(candidate: Candidate, evidence: EvidencePacket) -> set[str] | None:
+    """For an outage story, the passage IDs that show an effect on AI (the
+    article must lead with one); None for any other story."""
+    if not _failed_providers(candidate):
+        return None
+    return ai_passage_ids(evidence.sources, status_pages.load_config())
+
+
+def title_issue(title: str, failed: tuple[status_pages.StatusProvider, ...]) -> str | None:
+    """Why an outage story's title fails to say what failed and how it touched
+    AI, or None. Checked at drafting only: a repair may rename a title the
+    verifier rejects, and the verified text then wins."""
+    status = status_pages.load_config()
+    names_failure = any(p.named_in(title) for p in failed)
+    names_ai = status.mentions_ai(title) or any(p.ai and p.named_in(title) for p in status.providers)
+    if names_failure and names_ai:
+        return None
+    missing = [
+        part
+        for part, present in (("the service that failed", names_failure), ("the AI products or companies", names_ai))
+        if not present
+    ]
+    return f"the title of this outage story must name {' and '.join(missing)}"
+
+
+def repair_title_rule(candidate: Candidate) -> tuple[str, Callable[[str], str | None]] | None:
+    """For an outage story, the title requirement and check for the repairer."""
+    failed = _failed_providers(candidate)
+    if not failed:
+        return None
+    rule = OUTAGE_REPAIR_TITLE.format(providers=", ".join(p.name for p in failed))
+    return " ".join(rule.split()), partial(title_issue, failed=failed)
+
+
+def outage_issue(
+    draft: Draft,
+    ai_ids: set[str],
+    aliases: dict[str, str] | None = None,
+    failed: tuple[status_pages.StatusProvider, ...] = (),
+) -> str | None:
+    """The first problem with an outage story's shape: its lead, then its title."""
+    return lead_issue(draft, ai_ids, aliases) or (title_issue(draft.title, failed) if failed else None)
+
+
+def lead_issue(draft: Draft, ai_ids: set[str], aliases: dict[str, str] | None = None) -> str | None:
+    """Why an outage story's lead fails to report the AI effect, or None.
+    `aliases` (P1 -> passage ID) names the passages the way the writer saw them."""
+    if not draft.paragraphs or set(draft.paragraphs[0].passage_ids) & ai_ids:
+        return None
+    names = [alias for alias, pid in (aliases or {}).items() if pid in ai_ids] or sorted(ai_ids)
+    return "this outage story must lead with its effect on AI: the first paragraph has to report it and cite " + (
+        f"at least one of {', '.join(names)}" if names else "a passage that shows it"
+    )
 
 
 def _draft_with_retry(

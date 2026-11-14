@@ -102,8 +102,10 @@ def repair_prompt(
     issue: ClaimResult,
     sources: dict[int, PrimarySource],
     aliases: dict[str, str],
+    title_rule: str = "",
 ) -> str:
-    """Ask for one rejected field to be rewritten from existing passages only."""
+    """Ask for one rejected field to be rewritten from existing passages only.
+    `title_rule` is an edition's extra requirement for a repaired title."""
     display_ids = {pid: alias for alias, pid in aliases.items()}
     spans = assertion_spans(paragraph.text)
     if field in SUMMARY_WORD_LIMITS:
@@ -122,6 +124,8 @@ def repair_prompt(
             "a neutral news summary. "
             + ("A title stays a bold claim of at most 10 words. " if field == "title" else "")
         )
+    if field == "title" and title_rule:
+        requirement += title_rule.strip() + " "
     return (
         f"Repair ONLY the {field} field. "
         + requirement

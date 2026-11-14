@@ -2,7 +2,7 @@ import json
 
 import pytest
 
-from agent.evidence.packet import EvidencePacket, Source, source_passages
+from agent.evidence.packet import EvidencePacket, Passage, Source, source_passages
 from agent.research.candidate import Candidate
 from agent.writing import prompts as writer_prompts
 from agent.writing import writer
@@ -540,3 +540,107 @@ def test_passage_markers_are_removed_from_every_published_field():
     d = writer.draft(CANDIDATE, EVIDENCE, client=_client(payload))
     published = [d.title, d.image_alt, d.image_caption, d.paragraphs[0].text]
     assert not any("P1" in text or "P2" in text for text in published), published
+
+
+# Outage stories (see agent/evidence/status_pages.py): Weary reports them only
+# for their effect on AI, so the first paragraph must cite an AI passage.
+OUTAGE = Candidate("id-2", "Microsoft 365 Crawls Back to Life After a 24-Hour Outage", ("https://wired.com/x",), 0.8)
+MICROSOFT_PASSAGE = Passage("ms:p0:b1", "Microsoft 365: Users may be unable to access several services.", "ctx")
+OPENAI_PASSAGE = Passage("oa:p0:b1", "Elevated errors affecting the Microsoft 365 connector (2026-11-13).", "ctx")
+OUTAGE_EVIDENCE = EvidencePacket(
+    sources=(
+        Source(
+            "https://status.cloud.microsoft/api/posts/m365Consumer",
+            "primary",
+            MICROSOFT_PASSAGE.text,
+            passages=(MICROSOFT_PASSAGE,),
+            provenance="status_page",
+        ),
+        Source(
+            "https://status.openai.com/history.rss",
+            "primary",
+            OPENAI_PASSAGE.text,
+            passages=(OPENAI_PASSAGE,),
+            provenance="status_page",
+        ),
+    ),
+    fact_ledger=(),
+)
+
+
+def _outage_payload(lead_passage: str, title="Microsoft 365 outage cuts off OpenAI's connector"):
+    payload = _valid_payload(title=title)
+    payload["claim_passages"] = {f: [lead_passage] for f in ("title", "description", "why_today", "image_caption")}
+    payload["paragraphs"] = [dict(payload["paragraphs"][0], passage_ids=[lead_passage])]
+    return payload
+
+
+def test_an_outage_story_must_lead_with_the_ai_effect():
+    prompts = []
+
+    def client(prompt):
+        prompts.append(prompt)
+        # The first draft leads with Microsoft's own entry, the retry with OpenAI's.
+        return json.dumps(_outage_payload("P1" if len(prompts) == 1 else "P2"))
+
+    draft = writer.draft(OUTAGE, OUTAGE_EVIDENCE, client=client)
+    first = " ".join(prompts[0].split())
+    assert "This is an outage story" in first and "citing at least one of passages P2" in first
+    assert "must lead with its effect on AI" in prompts[1] and "at least one of P2" in prompts[1]
+    assert draft.paragraphs[0].passage_ids == ("oa:p0:b1",)
+
+
+def test_an_outage_story_that_never_leads_with_ai_is_rejected():
+    with pytest.raises(ValueError, match="must lead with its effect on AI"):
+        writer.draft(OUTAGE, OUTAGE_EVIDENCE, client=_client(_outage_payload("P1")))
+
+
+def test_other_stories_get_no_outage_framing_or_lead_rule():
+    prompts = []
+
+    def client(prompt):
+        prompts.append(prompt)
+        return json.dumps(_valid_payload())
+
+    writer.draft(CANDIDATE, EVIDENCE, client=client)
+    assert "This is an outage story" not in prompts[0]
+    assert writer.ai_lead_passages(CANDIDATE, EVIDENCE) is None
+
+
+@pytest.mark.parametrize(
+    ("title", "problem"),
+    [
+        ("Microsoft 365 outage cuts off OpenAI's connector", None),
+        ("Microsoft outage disrupts AI assistants' access to email", None),
+        # The repair's copy of a status heading, from the 13 November replay.
+        ("Elevated errors affecting the Microsoft 365 connector before recovery", "AI products or companies"),
+        ("OpenAI connector errors resolved", "the service that failed"),
+        ("Errors resolved after an incident", "the service that failed and the AI products"),
+    ],
+)
+def test_an_outage_title_names_what_failed_and_the_ai_side(title, problem):
+    from agent.evidence import status_pages
+
+    failed = status_pages.outage_providers(OUTAGE.headline, status_pages.load_config())
+    issue = writer.title_issue(title, failed)
+    assert (issue is None) if problem is None else (problem in issue)
+
+
+def test_a_weak_outage_title_gets_a_corrected_retry():
+    prompts = []
+
+    def client(prompt):
+        prompts.append(prompt)
+        title = (
+            "Elevated errors before recovery"
+            if len(prompts) == 1
+            else "Microsoft 365 outage cuts off OpenAI's connector"
+        )
+        return json.dumps(_outage_payload("P2", title=title))
+
+    draft = writer.draft(OUTAGE, OUTAGE_EVIDENCE, client=client)
+    assert "the title of this outage story must name" in prompts[1]
+    assert draft.title == "Microsoft 365 outage cuts off OpenAI's connector"
+    first = " ".join(prompts[0].split())
+    assert "name the service that failed (Microsoft)" in first
+    assert '"Anthropic said", not "Claude said"' in first

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>OpenAI status</title>
+        <link>https://status.openai.com/</link>
+        <description>OpenAI status page updates</description>
+        <lastBuildDate>Sat, 14 Nov 2026 09:53:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>incident.io</generator>
+        <item>
+            <title><![CDATA[Elevated errors affecting the Microsoft 365 connector]]></title>
+            <link>https://status.openai.com//incidents/01M78GAT3AK9P9W8Z230KHFVE8</link>
+            <guid>https://status.openai.com//incidents/01M78GAT3AK9P9W8Z230KHFVE8</guid>
+            <pubDate>Sat, 14 Nov 2026 00:18:13 GMT</pubDate>
+            <description><![CDATA[<b>Status: Resolved</b><br/><br/>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br/><br/><b>Affected components</b>
+          <ul>
+          <li>Connectors/Apps (Operational)</li>
+          </ul>]]></description>
+            <content:encoded><![CDATA[<b>Status: Resolved</b><br/><br/>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br/><br/><b>Affected components</b>
+          <ul>
+          <li>Connectors/Apps (Operational)</li>
+          </ul>]]></content:encoded>
+        </item>
+<item>
+            <title><![CDATA[Sites: Publishing failing]]></title>
+            <link>https://status.openai.com//incidents/01M79GYA0GA772Y6D089AH5478</link>
+            <guid>https://status.openai.com//incidents/01M79GYA0GA772Y6D089AH5478</guid>
+            <pubDate>Fri, 13 Nov 2026 05:55:44 GMT</pubDate>
+            <description><![CDATA[<b>Status: Resolved</b><br/><br/>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br/><br/><b>Affected components</b>
+          <ul>
+          <li>Sites (Operational)</li>
+          </ul>]]></description>
+            <content:encoded><![CDATA[<b>Status: Resolved</b><br/><br/>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br/><br/><b>Affected components</b>
+          <ul>
+          <li>Sites (Operational)</li>
+          </ul>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
