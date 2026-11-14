@@ -75,7 +75,11 @@ class DocumentFetcher:
                 pass
         opener = request.build_opener(_CheckedRedirect(self.allowed))
         req = request.Request(
-            url, headers={"User-Agent": "weary-news/0.1", "Accept": "text/html,application/pdf,text/plain"}
+            url,
+            headers={
+                "User-Agent": "weary-news/0.1",
+                "Accept": "text/html,application/pdf,text/plain,application/rss+xml,application/atom+xml,application/xml,application/json",
+            },
         )
         with opener.open(req, timeout=20) as response:
             final_url = canonical_url(response.url)

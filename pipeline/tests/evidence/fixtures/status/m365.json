@@ -1,0 +1,24 @@
+[
+ {
+  "ServiceDisplayName": "Microsoft 365 (Consumer)",
+  "ServiceWorkloadName": "M365Consumer",
+  "Id": null,
+  "AuthoredDateTime": "0001-01-01T00:00:00+00:00",
+  "InternalDateTime": "0001-01-01T00:00:00+00:00",
+  "LastUpdatedTime": "2026-11-14T03:51:29.3+00:00",
+  "Title": "Users may be unable to access or perform several actions in Microsoft 365 services",
+  "Message": "User impact: Users may have been unable to access or perform several actions in Microsoft 365 services.\r\n\r\nFinal status: We've confirmed that the services across the previously affected environments have fully recovered and the backlog of email messages has been processed, thus this issue is remediated.\r\n\r\nStart time: Thursday, November 12, 2026, at 10:05 AM UTC\r\n\r\nEnd time: Friday, November 13, 2026, at 4:10 PM UTC\r\n\r\nThis is the final update for the event.",
+  "Status": "Service restored"
+ },
+ {
+  "ServiceDisplayName": "Microsoft Copilot",
+  "ServiceWorkloadName": "CopilotConsumer",
+  "Id": null,
+  "AuthoredDateTime": "0001-01-01T00:00:00+00:00",
+  "InternalDateTime": "0001-01-01T00:00:00+00:00",
+  "LastUpdatedTime": "2026-11-14T09:57:00.3744187+00:00",
+  "Title": "",
+  "Message": "",
+  "Status": "Operational"
+ }
+]

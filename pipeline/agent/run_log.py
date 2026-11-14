@@ -20,6 +20,7 @@ def new_record(day: str, mode: str) -> dict:
         "started_at": datetime.now(UTC).isoformat(timespec="seconds"),
         "discovered": [],  # every headline discovery found, ranked or not
         "passes": [],  # each ranking pass's scores, by URL
+        "second_look": [],  # left-out stories read again for an AI angle
         "ranking": [],  # the candidates in the order they were tried
         "tries": [],
     }

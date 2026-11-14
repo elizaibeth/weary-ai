@@ -1,0 +1,108 @@
+# Which status feeds to read for an outage story, and what counts as an AI
+# effect. Read by agent/evidence/status.py; every feed must also match a
+# status_page rule in source_rules.toml, or it is never fetched.
+#
+# provider: the company, as the article would name it.
+# aliases: names in a headline that point at this provider (case-sensitive).
+# feeds: machine-readable status feeds (RSS, Atom, or Microsoft's JSON).
+# ai: true when every incident on these feeds is about an AI product, so any
+#     entry on them shows an AI effect.
+# page: the human-readable status page, cited for entries that link nowhere
+#     better (an entry's own incident page is preferred).
+
+[ai]
+# A status entry or passage that names one of these shows an effect on AI.
+# Case-sensitive, whole words.
+terms = [
+  "AI", "Copilot", "ChatGPT", "OpenAI", "Claude", "Anthropic", "Gemini", "Bedrock",
+  "Vertex AI", "SageMaker", "Azure OpenAI", "AI Foundry", "Workers AI", "Codex",
+  "Sora", "LLM", "LLMs", "Perplexity", "OpenRouter", "Cursor", "Grok", "xAI",
+]
+
+[[providers]]
+provider = "Microsoft"
+# Not "Copilot" (GitHub has one) or "Teams" (a common word): "Microsoft" covers them.
+aliases = ["Microsoft", "M365", "Office 365", "Outlook", "Exchange Online", "SharePoint", "OneDrive", "Azure"]
+feeds = ["https://status.cloud.microsoft/api/posts/m365Consumer", "https://rssfeed.azure.status.microsoft/en-us/status/feed/"]
+ai = false
+page = "https://status.cloud.microsoft/m365consumer"
+
+[[providers]]
+provider = "Amazon Web Services"
+aliases = ["AWS", "Amazon Web Services", "Bedrock"]
+feeds = ["https://status.aws.amazon.com/rss/all.rss"]
+ai = false
+page = "https://health.aws.amazon.com/health/status"
+
+[[providers]]
+provider = "Google Cloud"
+aliases = ["Google Cloud", "GCP", "Vertex AI"]
+feeds = ["https://status.cloud.google.com/en/feed.atom"]
+ai = false
+
+[[providers]]
+provider = "Google Workspace"
+aliases = ["Google Workspace", "Gmail", "Google Docs", "Google Drive", "Google Meet"]
+feeds = ["https://www.google.com/appsstatus/dashboard/en/feed.atom"]
+ai = false
+
+[[providers]]
+provider = "Cloudflare"
+aliases = ["Cloudflare"]
+feeds = ["https://www.cloudflarestatus.com/history.rss"]
+ai = false
+
+[[providers]]
+provider = "Akamai"
+aliases = ["Akamai"]
+feeds = ["https://www.akamaistatus.com/history.rss"]
+ai = false
+
+[[providers]]
+provider = "GitHub"
+aliases = ["GitHub"]
+feeds = ["https://www.githubstatus.com/history.rss"]
+ai = false
+
+[[providers]]
+provider = "Vercel"
+aliases = ["Vercel"]
+feeds = ["https://www.vercel-status.com/history.rss"]
+ai = false
+
+[[providers]]
+provider = "DigitalOcean"
+aliases = ["DigitalOcean"]
+feeds = ["https://status.digitalocean.com/history.rss"]
+ai = false
+
+[[providers]]
+provider = "OpenAI"
+aliases = ["OpenAI", "ChatGPT", "Codex", "Sora"]
+feeds = ["https://status.openai.com/history.rss"]
+ai = true
+
+[[providers]]
+provider = "Anthropic"
+aliases = ["Anthropic", "Claude"]
+feeds = ["https://status.claude.com/history.rss"]
+ai = true
+
+[[providers]]
+provider = "Perplexity"
+aliases = ["Perplexity"]
+feeds = ["https://status.perplexity.com/history.rss"]
+ai = true
+
+[[providers]]
+# status.cursor.com redirects here; its entries are tagged "[cursor.com]".
+provider = "xAI"
+aliases = ["xAI", "Grok", "Cursor"]
+feeds = ["https://status.x.ai/feed.xml"]
+ai = true
+
+[[providers]]
+provider = "OpenRouter"
+aliases = ["OpenRouter"]
+feeds = ["https://status.openrouter.ai/history.rss"]
+ai = true

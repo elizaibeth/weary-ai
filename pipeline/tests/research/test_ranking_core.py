@@ -4,7 +4,7 @@ import json
 
 import pytest
 
-from agent.evidence.source_rules import load_rules
+from agent.evidence.source_rules import SourceRule, load_rules
 from agent.research import ranking_core
 from agent.research.discovery import Headline
 
@@ -169,3 +169,31 @@ def test_the_news_prompt_covers_ai_only_and_asks_for_the_flag():
     assert "with no AI angle do not qualify" in prompt
     assert '"ai_related": true' in prompt
     assert "ai_related" not in ranking_core.PAPER_PROMPT  # every paper is AI research
+
+
+def test_an_outage_of_a_status_listed_provider_is_tried_as_an_official_candidate():
+    """On 13 November 2026 the Microsoft outage (importance 0.82) was tried
+    6th, behind an official story at 0.47: as a reporting candidate it paid
+    the low reporting pass rate, though its evidence is official status pages."""
+    from agent.evidence.status_pages import load_config
+
+    proposals = [
+        {
+            "headline": "New AI copilot helps engineers design better structures",
+            "url": "https://news.mit.edu/2026/copilot",
+            "importance_score": 0.47,
+        },
+        {
+            "headline": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+            "url": "https://www.securityweek.com/outage",
+            "importance_score": 0.82,
+        },
+    ]
+    rates = {"official": 0.8, "reporting": 0.15}
+    rules = (SourceRule("news.mit.edu", ("/20*",), "company_statement"),)
+    config = ranking_core.RankingConfig(novelty_penalty=0.0)
+    without = ranking_core.to_candidates("d", proposals, rules, config, rates)
+    assert [c.urls[0] for c in without][0] == "https://news.mit.edu/2026/copilot"
+    with_status = ranking_core.to_candidates("d", proposals, rules, config, rates, status=load_config())
+    assert with_status[0].urls == ("https://www.securityweek.com/outage",)
+    assert with_status[0].official is True

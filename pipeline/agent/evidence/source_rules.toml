@@ -1,6 +1,75 @@
 # Eligible origins, not a guarantee that a page supports a particular claim.
 # Domains include their subdomains; paths use shell-style wildcards.
 # Unknown origins are not primary sources. Add narrow rules as coverage grows.
+# Status pages (added 2026-11-14 after the Microsoft 365 outage was missed).
+# They come first, so a status URL is classified as a status page even on a
+# host that also has a newsroom rule (status.openai.com is under openai.com).
+# They only ever back up a story that outlets already report: they are never
+# discovery sources (docs/adr/0005-status-pages-confirm-outages.md).
+[[sources]]
+domain = "status.cloud.microsoft"
+paths = ["/api/posts/*", "/m365consumer"]
+kind = "status_page"
+[[sources]]
+domain = "azure.status.microsoft"
+paths = ["/en-us/status/*"]
+kind = "status_page"
+[[sources]]
+domain = "status.aws.amazon.com"
+paths = ["/rss/*"]
+kind = "status_page"
+[[sources]]
+domain = "health.aws.amazon.com"
+paths = ["/health/status"]
+kind = "status_page"
+[[sources]]
+domain = "status.cloud.google.com"
+paths = ["/en/feed.atom", "/incidents/*"]
+kind = "status_page"
+[[sources]]
+domain = "google.com"
+paths = ["/appsstatus/dashboard/*"]
+kind = "status_page"
+[[sources]]
+domain = "cloudflarestatus.com"
+paths = ["/history.rss", "/incidents/*"]
+kind = "status_page"
+[[sources]]
+domain = "akamaistatus.com"
+paths = ["/history.rss", "/incidents/*"]
+kind = "status_page"
+[[sources]]
+domain = "githubstatus.com"
+paths = ["/history.rss", "/incidents/*"]
+kind = "status_page"
+[[sources]]
+domain = "vercel-status.com"
+paths = ["/history.rss", "/incidents/*"]
+kind = "status_page"
+[[sources]]
+domain = "status.digitalocean.com"
+paths = ["/history.rss", "/incidents/*"]
+kind = "status_page"
+[[sources]]
+domain = "status.openai.com"
+paths = ["/history.rss", "/incidents/*"]
+kind = "status_page"
+[[sources]]
+domain = "status.claude.com"
+paths = ["/history.rss", "/incidents/*"]
+kind = "status_page"
+[[sources]]
+domain = "status.perplexity.com"
+paths = ["/history.rss", "/incidents/*"]
+kind = "status_page"
+[[sources]]
+domain = "status.x.ai"
+paths = ["/feed.xml", "/*/ps_*"]
+kind = "status_page"
+[[sources]]
+domain = "status.openrouter.ai"
+paths = ["/history.rss", "/incidents/*", "/maintenances/*"]
+kind = "status_page"
 [[sources]]
 domain = "openai.com"
 paths = ["/index/*", "/blog/*", "/research/*", "/misalignment-reports/*", "/*incident*", "/policies/*"]

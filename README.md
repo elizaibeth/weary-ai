@@ -38,8 +38,8 @@ flowchart LR
 ```
 
 1. **Find stories.** The pipeline reads about 40 feeds from AI labs, government sites and security advisories. Outlets such as TechCrunch and WIRED supply leads only (`research/discovery.py`).
-2. **Rank them.** Headlines about the same event are merged. A model scores them twice in different orders, to cancel position bias, and anything it makes up is thrown out. Stories with no AI angle are dropped, by the prompt and again in code. Stories are tried in order of `importance − cost / p(verifies)`, where `p` comes from past runs (`research/ranking.py`).
-3. **Get evidence.** Only pages from the organisation that made the news count as evidence, such as the company, agency or court. A story without a primary source is skipped (`evidence/source_rules.toml`).
+2. **Rank them.** Headlines about the same event are merged. A model scores them twice in different orders, to cancel position bias, and anything it makes up is thrown out. Stories with no AI angle are dropped, by the prompt and again in code. The ranking sees headlines only, so for a few stories it left out, such as an outage, a model reads the article for an AI effect the headline hides. Stories are tried in order of `importance − cost / p(verifies)`, where `p` comes from past runs (`research/ranking.py`).
+3. **Get evidence.** Only pages from the organisation that made the news count as evidence, such as the company, agency or court. A story without a primary source is skipped (`evidence/source_rules.toml`). An outage is backed by status pages: the provider's for what broke, and an AI company's for the effect on AI, which the article must lead with (`evidence/status_pages.toml`).
 4. **Write.** The model gets numbered passages and has to cite one for every paragraph (`writing/writer.py`).
 5. **Check.** TypeSafe, a separate fact-checking service, checks each paragraph against only the passages it cites (`checking/verifier.py`).
 6. **Fix or move on.** Failing paragraphs are rewritten or cut and checked again. If it still fails, the next story is tried (`checking/repairer.py`).

@@ -1,5 +1,6 @@
 import json
 import re
+from pathlib import Path
 
 import pytest
 
@@ -986,3 +987,79 @@ def test_a_failed_run_still_logs_why(tmp_path, monkeypatch):
     [path] = (tmp_path / "pipeline" / "runs").glob("*.json")
     record = json.loads(path.read_text())
     assert {t["outcome"] for t in record["tries"]} == {"failed"} and "could be drafted" in record["outcome"]["error"]
+
+
+# The 13 November 2026 Microsoft 365 outage, the edition the pipeline missed:
+# with status pages, it publishes from the AI side.
+_STATUS_FIXTURES = Path(__file__).parent / "evidence" / "fixtures" / "status"
+_OUTAGE_URL = "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/"
+_OUTAGE_HEADLINE = "Microsoft 365 Crawls Back to Life After a 24-Hour Outage"
+
+
+def _outage_fetch(url):
+    feeds = {
+        "https://status.cloud.microsoft/api/posts/m365Consumer": "m365.json",
+        "https://status.openai.com/history.rss": "openai.rss",
+        "https://status.claude.com/history.rss": "claude.rss",
+    }
+    if url in feeds:
+        return (_STATUS_FIXTURES / feeds[url]).read_text()
+    if url == _OUTAGE_URL:
+        return "<article><p>Microsoft 365 is recovering after a 24-hour outage.</p></article>"
+    return '<?xml version="1.0"?><rss version="2.0"><channel><title>Status</title></channel></rss>'
+
+
+def _outage_research(day):
+    return json.dumps(
+        {
+            "candidates": [
+                {
+                    "headline": _OUTAGE_HEADLINE,
+                    "url": _OUTAGE_URL,
+                    "ai_related": True,
+                    "evidence_summary": "OpenAI and Anthropic reported errors in their Microsoft 365 connectors.",
+                    "importance_score": 0.7,
+                }
+            ]
+        }
+    )
+
+
+def _ai_lead_writer(prompt):
+    """Cites the first passage the outage framing names as showing the AI effect."""
+    ai_alias = re.search(r"citing at least one of passages (P\d+)", " ".join(prompt.split())).group(1)
+    first = re.search(r"Passage (\S+) \|", prompt).group(1)
+    draft = json.loads(_writer_client(prompt).replace(f'"{first}"', f'"{ai_alias}"'))
+    return json.dumps(dict(draft, title="Microsoft 365 outage cuts off OpenAI and Anthropic connectors"))
+
+
+def _outage_deps(**overrides):
+    return _base_deps(
+        research_client=_outage_research, evidence_fetch=_outage_fetch, writer_client=_ai_lead_writer, **overrides
+    )
+
+
+def test_13_november_outage_publishes_live_led_by_the_ai_effect(tmp_path):
+    bundle = run(tmp_path, "2026-11-13", live=True, deps=_outage_deps())
+    front_matter = (bundle / "index.md").read_text()
+    assert "draft: false" in front_matter
+    assert "status.openai.com" in front_matter or "status.claude.com" in front_matter
+
+
+def test_a_repair_that_moves_the_lead_off_the_ai_effect_is_never_live(tmp_path, monkeypatch, caplog):
+    from dataclasses import replace
+
+    from agent import daily
+    from agent.checking.verify_core import ClaimResult
+
+    def repair_drops_the_ai_lead(draft, evidence_packet, deps, opinion, title_rule=None):
+        # Every claim verifies, but the repaired lead cites only Microsoft's entry.
+        microsoft = next(p.id for s in evidence_packet.sources if "status.cloud.microsoft" in s.url for p in s.passages)
+        lead = replace(draft.paragraphs[0], passage_ids=(microsoft,))
+        return replace(draft, paragraphs=(lead, *draft.paragraphs[1:])), [ClaimResult(lead.text, True, 0.99)], True
+
+    monkeypatch.setattr(daily, "_verify_and_repair", repair_drops_the_ai_lead)
+    with caplog.at_level("INFO"):
+        bundle = run(tmp_path, "2026-11-13", live=True, deps=_outage_deps())
+    assert "draft: true" in (bundle / "index.md").read_text()
+    assert "must lead with its effect on AI" in caplog.text

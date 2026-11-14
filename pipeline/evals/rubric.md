@@ -5,7 +5,8 @@ Weary's edition that day?** Weary covers the single most important AI story of
 the day. A story is in scope only when AI is central to it: AI models,
 products, companies, chips and compute, research, AI policy and law, or AI
 used in an attack. A security incident, crime, court case or outage with no AI
-angle is off topic, however serious.
+angle is off topic, however serious. An outage that the headline or article shows
+disrupted AI products or AI companies is in scope.
 
 | Grade | Meaning |
 |---|---|

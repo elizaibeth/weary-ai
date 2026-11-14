@@ -10,3 +10,4 @@ marked superseded, not deleted.
 | [0002](0002-independent-verifier.md) | An independent verifier gates every published claim |
 | [0003](0003-expected-value-candidate-order.md) | Try candidates in expected-value order |
 | [0004](0004-free-discovery-sources.md) | Discovery uses free, public sources only |
+| [0005](0005-status-pages-confirm-outages.md) | Status pages confirm outages; outages are told from the AI side |

@@ -14,7 +14,10 @@ import os
 from collections.abc import Callable, Iterable, Mapping
 from pathlib import Path
 
+from agent.evidence import status_pages
+from agent.evidence.packet import read_article as _read_article
 from agent.evidence.source_rules import eligible_rule, load_rules
+from agent.research import second_look
 from agent.research.candidate import Candidate
 from agent.research.discovery import Headline, likely_ai
 from agent.research.ranking_core import (
@@ -67,8 +70,11 @@ def rank_headlines(
     template: str = NEWS_PROMPT,
     settings: RankingConfig | None = None,
     complete: Complete | None = None,
+    read_article: Callable[[str], str] | None = None,
 ) -> str:
-    """Ranked candidates for these real headlines, as JSON for `candidates_from_json`."""
+    """Ranked candidates for these real headlines, as JSON for `candidates_from_json`.
+    News gets a second look at a few left-out stories (see `second_look`):
+    with `read_article` when given, and always in a real run (no `complete`)."""
     settings = settings or config()
     news = template is not PAPER_PROMPT
     if not real_headlines:
@@ -96,23 +102,27 @@ def rank_headlines(
         }
         for h in real_headlines
     ]
-    replies = []
-    for k in range(max(1, settings.permutations)):
-        # The first prompt keeps feed order; later ones shuffle it to cancel position bias.
-        order = headlines if k == 0 else shuffled(headlines, f"{day_label}-{k}")
-        proposed = _ask(
-            ranking_prompt(day_label, order, rules, template, coverage), parse_ranking_reply, "ranking", complete
-        )
-        if proposed is not None:
-            kept = grounded(proposed, headlines)
-            if news:
-                before = len(kept)
-                kept = on_topic(kept)
-                if len(kept) < before:
-                    log.info("dropped %s candidate(s) the model marked as not about AI", before - len(kept))
-            if len(kept) != len(proposed):
-                log.info("ranking model proposed %s, %s grounded in real headlines", len(proposed), len(kept))
-            replies.append(kept)
+
+    def rank(angles: Mapping[str, str] | None = None) -> list[list[dict]]:
+        replies = []
+        for k in range(max(1, settings.permutations)):
+            # The first prompt keeps feed order; later ones shuffle it to cancel position bias.
+            order = headlines if k == 0 else shuffled(headlines, f"{day_label}-{k}")
+            prompt = ranking_prompt(day_label, order, rules, template, coverage, angles)
+            proposed = _ask(prompt, parse_ranking_reply, "ranking", complete)
+            if proposed is not None:
+                kept = grounded(proposed, headlines)
+                if news:
+                    before = len(kept)
+                    kept = on_topic(kept)
+                    if len(kept) < before:
+                        log.info("dropped %s candidate(s) the model marked as not about AI", before - len(kept))
+                if len(kept) != len(proposed):
+                    log.info("ranking model proposed %s, %s grounded in real headlines", len(proposed), len(kept))
+                replies.append(kept)
+        return replies
+
+    replies = rank()
     passes = [{c["url"]: c.get("importance_score") for c in reply} for reply in replies]
     if not replies:
         # Real headlines are still real: an unranked list beats losing the day.
@@ -131,9 +141,85 @@ def rank_headlines(
         return json.dumps({"candidates": unranked(fallback), "discovered": discovered, "passes": passes})
     merged = average(replies) if len(replies) > 1 else replies[0]
     candidates = [dict(c, coverage=coverage.get(c["url"], 1)) for c in merged]
-    # `discovered` and `passes` are for the run log: everything ranking could
-    # have chosen from, and each ranking pass's own scores.
-    return json.dumps({"candidates": candidates, "discovered": discovered, "passes": passes})
+    looked: list[dict] = []
+    reader = read_article or (_read_article if complete is None else None)
+    if news and reader is not None:
+        kept, looked = _second_look(headlines, merged, coverage, reader, complete)
+        if kept:
+            candidates = _rerank_with_angles(kept, rank, coverage, passes) or candidates + kept
+    # `discovered`, `passes` and `second_look` are for the run log: everything
+    # ranking could have chosen from, each pass's own scores, and what the
+    # second look read and decided.
+    return json.dumps({"candidates": candidates, "discovered": discovered, "passes": passes, "second_look": looked})
+
+
+def _rerank_with_angles(
+    kept: list[dict],
+    rank: Callable[[Mapping[str, str] | None], list[list[dict]]],
+    coverage: Mapping[str, int],
+    passes: list[dict],
+) -> list[dict]:
+    """Rank the day again with the second look's AI angles shown, so a kept
+    story is scored against the other stories rather than on its own (its
+    standalone score swung from 0.44 to 0.82 between runs of one day). A kept
+    story keeps its angle as the summary: evidence and writing frame by it.
+    Empty if the new ranking failed, so the caller keeps the first one."""
+    angles = {c["url"]: c["evidence_summary"] for c in kept}
+    replies = rank(angles)
+    if not replies:
+        return []
+    passes.extend({c["url"]: c.get("importance_score") for c in reply} for reply in replies)
+    merged = average(replies) if len(replies) > 1 else replies[0]
+    by_url = {c["url"]: c for c in kept}
+    ranked = [
+        dict(c, coverage=coverage.get(c["url"], 1))
+        | (
+            {"evidence_summary": by_url[c["url"]]["evidence_summary"], "ai_related": True, "second_look": True}
+            if c["url"] in by_url
+            else {}
+        )
+        for c in merged
+    ]
+    # A kept story the new ranking still left out keeps its standalone score.
+    ranked += [c for c in kept if c["url"] not in {r["url"] for r in ranked}]
+    log.info("ranked again with %s AI angle(s) from the second look", len(angles))
+    return ranked
+
+
+def _second_look(
+    headlines: list[Headline],
+    proposed: list[dict],
+    coverage: Mapping[str, int],
+    read: Callable[[str], str],
+    complete: Complete | None,
+) -> tuple[list[dict], list[dict]]:
+    """Candidates for left-out stories whose article shows an AI effect, and
+    a log entry for every story looked at."""
+    status = status_pages.load_config()
+    kept: list[dict] = []
+    trace: list[dict] = []
+    for h in second_look.overlooked(headlines, (c["url"] for c in proposed), coverage, status):
+        entry = {"headline": h.title, "url": h.url}
+        try:
+            article = read(h.url)
+        except Exception as error:
+            trace.append({**entry, "outcome": f"unreadable: {type(error).__name__}: {error}"[:200]})
+            continue
+
+        def parse(raw: str, article: str = article) -> dict:
+            # {} is a usable reply with no AI effect; _ask's None is no usable reply.
+            return second_look.parse_angle_reply(raw, article, status) or {}
+
+        angle = _ask(second_look.angle_prompt(h.title, article), parse, "second look", complete)
+        if angle is None:
+            trace.append({**entry, "outcome": "no usable reply"})
+        elif not angle:
+            trace.append({**entry, "outcome": "no AI effect"})
+        else:
+            kept.append(second_look.rescued(h, angle, coverage.get(h.url, 1)))
+            trace.append({**entry, "outcome": "kept", "angle": angle["angle"], "quote": angle["quote"]})
+            log.info("second look kept %r: %s", h.title, angle["angle"])
+    return kept, trace
 
 
 def observed_attempts(runs_dir: Path | None = None) -> list[tuple[bool, bool]]:
@@ -166,7 +252,10 @@ def candidates_from_json(
         rates = None
     elif rates is None:
         rates = verify_rates(observed_attempts())
-    return to_candidates(id_prefix, json.loads(raw).get("candidates", []), load_rules(), settings, rates, recent_titles)
+    proposals = json.loads(raw).get("candidates", [])
+    return to_candidates(
+        id_prefix, proposals, load_rules(), settings, rates, recent_titles, status=status_pages.load_config()
+    )
 
 
 def choose_opinion(day: str, stories: list[dict], base_url: str = "https://weary.ai/") -> list[Candidate]:

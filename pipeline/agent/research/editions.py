@@ -71,6 +71,7 @@ def _copy_trace(raw: str, trace: dict | None) -> None:
         data = json.loads(raw)
         trace["discovered"] = data.get("discovered", [])
         trace["passes"] = data.get("passes", [])
+        trace["second_look"] = data.get("second_look", [])
 
 
 def survey_papers(day: str, fetch: discovery.Fetch = discovery.default_fetch) -> list[Candidate]:
