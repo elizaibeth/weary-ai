@@ -1,0 +1,388 @@
+{
+  "day": "2026-11-14",
+  "mode": "live",
+  "started_at": "2026-11-14T18:43:51+00:00",
+  "discovered": [
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-14T17:30:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-14T16:34:15+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-14T15:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-14T12:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-14T13:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
+    },
+    {
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-14T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
+    },
+    {
+      "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
+      "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-14T08:18:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302"
+    },
+    {
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-14T17:27:25+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
+    },
+    {
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-14T15:15:49+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
+    },
+    {
+      "title": "Is AI Making Us Worse at Cybersecurity?",
+      "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-14T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/"
+    },
+    {
+      "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+      "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-14T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/"
+    },
+    {
+      "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+      "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-14T08:40:22+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/"
+    },
+    {
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "feed": "https://research.google/blog/rss/",
+      "published": "2026-11-13T20:47:18+00:00",
+      "official": true,
+      "event": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
+    },
+    {
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-13T23:22:09+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/"
+    },
+    {
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-13T22:30:12+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/"
+    },
+    {
+      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-13T22:02:39+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/"
+    },
+    {
+      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-13T21:53:40+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/"
+    },
+    {
+      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-13T19:35:35+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/"
+    },
+    {
+      "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-13T18:44:02+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/"
+    },
+    {
+      "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+      "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-13T22:13:51+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"
+    },
+    {
+      "title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
+      "url": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-13T21:17:17+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/"
+    },
+    {
+      "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+      "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-13T18:57:10+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": 0.71,
+      "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview": 0.48,
+      "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/": 0.74,
+      "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/": 0.43,
+      "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/": 0.36,
+      "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/": 0.24,
+      "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/": 0.27,
+      "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/": 0.19,
+      "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/": 0.29,
+      "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/": 0.16,
+      "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/": 0.22,
+      "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/": 0.31,
+      "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/": 0.18,
+      "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/": 0.33
+    },
+    {
+      "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/": 0.64,
+      "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/": 0.33,
+      "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": 0.41,
+      "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/": 0.36,
+      "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/": 0.3,
+      "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/": 0.34,
+      "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview": 0.28,
+      "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/": 0.6,
+      "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/": 0.27,
+      "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/": 0.23
+    }
+  ],
+  "second_look": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Anthropic is selling growth before proving it can stand on its own",
+      "url": "https://weary.ai/posts/anthropic-launches-roadshow-for-proposed-initial-public-offering/",
+      "kind": "opinion",
+      "importance": 1.0,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0
+    },
+    {
+      "rank": 2,
+      "headline": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+      "kind": "news",
+      "importance": 0.465,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3489
+    },
+    {
+      "rank": 3,
+      "headline": "Advancing science & engineering with Antigravity’s /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "kind": "news",
+      "importance": 0.315,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1989
+    },
+    {
+      "rank": 4,
+      "headline": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+      "kind": "news",
+      "importance": 0.315,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1831
+    },
+    {
+      "rank": 5,
+      "headline": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+      "kind": "news",
+      "importance": 0.28,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1463
+    },
+    {
+      "rank": 6,
+      "headline": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+      "kind": "news",
+      "importance": 0.26,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1439
+    },
+    {
+      "rank": 7,
+      "headline": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+      "kind": "news",
+      "importance": 0.235,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1189
+    },
+    {
+      "rank": 8,
+      "headline": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
+      "kind": "news",
+      "importance": 0.23,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1139
+    },
+    {
+      "rank": 9,
+      "headline": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+      "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
+      "kind": "news",
+      "importance": 0.165,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0489
+    },
+    {
+      "rank": 10,
+      "headline": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+      "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/",
+      "kind": "news",
+      "importance": 0.155,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0389
+    },
+    {
+      "rank": 11,
+      "headline": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "kind": "news",
+      "importance": 0.67,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0033
+    },
+    {
+      "rank": 12,
+      "headline": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
+      "url": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/",
+      "kind": "news",
+      "importance": 0.09,
+      "official": true,
+      "coverage": 1,
+      "rank_key": -0.0261
+    },
+    {
+      "rank": 13,
+      "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "kind": "news",
+      "importance": 0.56,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1067
+    },
+    {
+      "rank": 14,
+      "headline": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "kind": "news",
+      "importance": 0.38,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3043
+    },
+    {
+      "rank": 15,
+      "headline": "Is AI Making Us Worse at Cybersecurity?",
+      "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+      "kind": "news",
+      "importance": 0.215,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4517
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Anthropic is selling growth before proving it can stand on its own",
+      "url": "https://weary.ai/posts/anthropic-launches-roadshow-for-proposed-initial-public-offering/",
+      "kind": "opinion",
+      "official": false,
+      "outcome": "unverified",
+      "reason": "unverified claim [body]: On November 13, Anthropic resolved an incident affecting claude.ai, the Claude API, Claude Code, connectors, Claude Security, Claude Managed Agents and Claude Meetings.; unverified claim [description]: Anthropic launched an IPO roadshow while Claude and its Microsoft 365 con"
+    },
+    {
+      "headline": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "aws-adds-openfold3-preview-to-sagemaker-jumpstart",
+    "live": true
+  }
+}
