@@ -1,7 +1,7 @@
 [project]
 name = "weary-news-two"
 version = "0.1.0"
-requires-python = ">=3.11"
+requires-python = ">=3.11.5"  # soupsieve 4 (CVE fixes) needs 3.11.5+
 dependencies = [
     "beautifulsoup4>=4.15.0",
     "pillow>=13.0.0",
