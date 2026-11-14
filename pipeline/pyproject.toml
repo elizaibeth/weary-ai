@@ -5,7 +5,7 @@ requires-python = ">=3.11.5"  # soupsieve 4 (CVE fixes) needs 3.11.5+
 dependencies = [
     "beautifulsoup4>=4.15.0",
     "pillow>=13.0.0",
-    "pypdf>=6.21.4",
+    "pypdf>=7.0.1",
     "slack-sdk>=3.46.0",
     "typesafe-sdk>=0.7.5",
 ]
@@ -16,7 +16,7 @@ dev = [
     "pip-audit>=2.10.1",
     "pytest>=9.2.0",
     "pytest-cov>=7.1.0",
-    "ruff>=0.17.3",
+    "ruff>=0.17.4",
 ]
 
 [tool.pytest.ini_options]
