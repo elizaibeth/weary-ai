@@ -1,0 +1,193 @@
+{
+  "day": "2026-11-15",
+  "mode": "live",
+  "started_at": "2026-11-15T19:21:34+00:00",
+  "discovered": [
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-15T19:15:43+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    },
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-15T13:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+    },
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-15T12:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/"
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-15T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+    },
+    {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-15T18:29:53+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
+    },
+    {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-15T15:23:48+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/"
+    },
+    {
+      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+      "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-15T12:51:33+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/"
+    }
+  ],
+  "passes": [
+    {
+      "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china": 0.89,
+      "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/": 0.92,
+      "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/": 0.44
+    },
+    {
+      "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/": 0.95,
+      "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/": 0.64,
+      "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china": 0.9,
+      "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation": 0.08
+    }
+  ],
+  "second_look": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+      "url": "https://arxiv.org/abs/2610.40394",
+      "kind": "paper",
+      "importance": 0.84,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.7252
+    },
+    {
+      "rank": 2,
+      "headline": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+      "url": "https://arxiv.org/abs/2611.14320",
+      "kind": "paper",
+      "importance": 0.825,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.7102
+    },
+    {
+      "rank": 3,
+      "headline": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+      "url": "https://arxiv.org/abs/2611.06043",
+      "kind": "paper",
+      "importance": 0.76,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.6452
+    },
+    {
+      "rank": 4,
+      "headline": "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
+      "url": "https://arxiv.org/abs/2611.11995",
+      "kind": "paper",
+      "importance": 0.7,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5852
+    },
+    {
+      "rank": 5,
+      "headline": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+      "url": "https://arxiv.org/abs/2611.15777",
+      "kind": "paper",
+      "importance": 0.345,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2302
+    },
+    {
+      "rank": 6,
+      "headline": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+      "url": "https://arxiv.org/abs/2611.14815",
+      "kind": "paper",
+      "importance": 0.33,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2152
+    },
+    {
+      "rank": 7,
+      "headline": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "kind": "news",
+      "importance": 0.935,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2683
+    },
+    {
+      "rank": 8,
+      "headline": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "kind": "news",
+      "importance": 0.895,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2283
+    },
+    {
+      "rank": 9,
+      "headline": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+      "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "kind": "news",
+      "importance": 0.54,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1267
+    },
+    {
+      "rank": 10,
+      "headline": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "kind": "news",
+      "importance": 0.04,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.6267
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+      "url": "https://arxiv.org/abs/2610.40394",
+      "kind": "paper",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "researchers-build-380-000-proof-supervision-records-from-mathematics-textbooks",
+    "live": true
+  }
+}
