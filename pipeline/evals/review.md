@@ -169,3 +169,104 @@ Edit `gold.qrels` to change a grade. Grade 3 = best lead.
 ## 2026-11-08 (Weary published: Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems)
 - **3** Elvis and Eminem rights holders are suing Suno <https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit>
 - 5 more graded 0-1
+
+## 2026-11-09 (Weary published: A single AI model simulates the behavior of many substances, from sliding sand to folding proteins)
+- **3** A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal <https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/>
+- **3** The race is on to sue Nvidia <https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/>
+- **3** Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy <https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/>
+- **3** Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny <https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/>
+- **3** The future of AI hinges on… Jensen Huang’s sex life? <https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me>
+- **3** Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year <https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/>
+- **2** Anthropic releases new Mythos and Fable models amid RSI concerns <https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/>
+- **2** Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines <https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/>
+- **2** Anthropic launches new Claude Fable and Mythos 5.2 models <https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2>
+- 69 more graded 0-1
+
+## 2026-11-10 (Weary published: Anthropic launches roadshow for proposed initial public offering)
+- **3** All 7 Anthropic founders will each cash out about $250M in IPO <https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/>
+- **3** Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion <https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/>
+- **3** Anthropic targets $1.4 trillion IPO <https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion>
+- **3** Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning <https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss>
+- **3** Anthropic launches roadshow for proposed initial public offering <https://www.anthropic.com/news/roadshow-launch>
+- **2** OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google <https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/>
+- **2** Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks <https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/>
+- **2** Google broadens its AI hardware portfolio with two new specialized chips <https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/>
+- **2** Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly <https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/>
+- **2** ChatGPT is getting verified AI ‘Business Agents’ <https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub>
+- **2** Anthropic has its own AI-powered office suite now <https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now>
+- **2** Google releases Gemini 4 Carbon with agent ‘swarm’ feature <https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout>
+- **2** Adobe is going all in on agentic AI <https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates>
+- **2** Fireworks AI gets burned twice as customer data exposure widens <https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722>
+- **2** Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques <https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625>
+- **2** AI Coding Agents Leak Thousands of Secrets to GitHub <https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github>
+- **2** Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code <https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/>
+- **2** Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes <https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/>
+- **2** AI company Fireworks says hackers stole data, billing info during October breaches <https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks>
+- **2** Google Cloud launches Gemini for healthcare. <https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/>
+- **2** Gemini 4 Carbon is now available <https://deepmind.google/blog/gemini-4-carbon-is-now-available/>
+- **2** Introducing AlphaProof Code: a breakthrough in verifying complex software at depth <https://deepmind.google/blog/introducing-alphaproof-code/>
+- **2** Introducing Gemini for healthcare <https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/>
+- 60 more graded 0-1
+
+## 2026-11-11 (Weary published: Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents)
+- **3** Anthropic launches roadshow for proposed initial public offering <https://www.anthropic.com/news/roadshow-launch>
+- **2** CoreWeave turns to customer prepayments, shorter contracts to fund AI growth <https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/>
+- **2** With $720M round, Britain’s Fractile gets a leg up in the race for AI chips <https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/>
+- **2** Congress to call Jensen Huang in to answer for alleged Chinese spy affair <https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/>
+- **2** OpenAI’s quarterly revenue reportedly crosses $10B for the first time <https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/>
+- **2** Google’s AlphaGenome 2 zooms in on the cellular roots of disease <https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model>
+- **2** China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway <https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/>
+- **2** A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks <https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/>
+- **2** Hackers use AntiFox AI agents in AWS credential-theft attacks <https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/>
+- **2** AlphaGenome 2: Deciphering how cells read DNA to better understand disease <https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/>
+- **2** Sovereign AI and British Business Bank invest in British firm developing the next generation of AI hardware <https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware>
+- 50 more graded 0-1
+
+## 2026-11-12 (Weary published: Google Search gets a major upgrade with Gemini 4 Hydrogen)
+- **3** Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement? <https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/>
+- **3** Nvidia CEO Jensen Huang has resigned. What happens next? <https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang>
+- **3** Nvidia CEO Jensen Huang resigns amid spy, affair scandals <https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns>
+- **3** Jensen Huang Resigns as Nvidia CEO <https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/>
+- **2** Google’s latest Search upgrade promises better answers to your most complicated questions <https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/>
+- **2** Jensen Huang’s exit puts Nvidia’s support for open source in question <https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/>
+- **2** United Airlines blocks AI agents from booking flights, citing cybersecurity risks <https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/>
+- **2** Jensen Huang agrees to testify before Congress <https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/>
+- **2** Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry <https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/>
+- **2** Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts <https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/>
+- **2** The unfolding Jensen Huang scandal: a timeline <https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/>
+- **2** The Jensen Huang scandal is hardly over <https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling>
+- **2** Jensen Huang is out. What did China want from him? <https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump>
+- **2** Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup <https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang>
+- **2** Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women <https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/>
+- **2** Jensen Huang’s $470 Billion Affair <https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/>
+- **2** Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month <https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/>
+- **2** Meet Colette Kress, Nvidia’s New Interim CEO <https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/>
+- **2** Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions <https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss>
+- **2** Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide <https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/>
+- **2** Notion Customer Data Compromised in Fireworks AI Hack <https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/>
+- **2** United to block customers from using AI agents, citing cyber threats <https://therecord.media/united-airlines-to-block-customers-using-ai-agents>
+- **2** Google Search gets a major upgrade with Gemini 4 Hydrogen <https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/>
+- **2** Introducing Gemini 4 Hydrogen <https://deepmind.google/blog/introducing-gemini-4-hydrogen/>
+- **2** OpenAI Codex on Amazon Bedrock <https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/>
+- 66 more graded 0-1
+
+## 2026-11-13 (Weary published: New AI agent observability and governance across BigQuery and Looker)
+- **3** Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen! <https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/>
+- **2** ChatGPT’s new Wallet lets AI agents shop and check out for you <https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/>
+- **2** The unfolding Jensen Huang scandal: a timeline <https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/>
+- **2** Jensen Huang didn’t show confidence in his successor, report says <https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/>
+- **2** Brit police watchdog says cops' use of facial recog risks wrongful arrests <https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379>
+- 51 more graded 0-1
+
+## 2026-11-14 (Weary published: OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures)
+- **3** Asian governments react to Nvidia CEO Jensen Huang’s exit <https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/>
+- **3** Jensen Huang and the decline of the visionary showman founder CEO <https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo>
+- **2** Beware the New AI-Fueled Ransomware Boom <https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/>
+- **2** Cursor confirms security breach led to malicious Claude Code extension <https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/>
+- 18 more graded 0-1
+
+## 2026-11-15 (Weary published: Scaling Mathematical Proof Supervision from Structured Textbooks)
+- **3** Congress wants to tighten export rules on AI chips after Nvidia spy scandal <https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china>
+- **2** An overview of Jensen Huang’s messy days <https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation>
+- **2** FBI warns ARTEX AI hacking tool is powering global cyberattacks <https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/>
+- 4 more graded 0-1
