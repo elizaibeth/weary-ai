@@ -1,0 +1,1085 @@
+{
+  "day": "2026-11-17",
+  "mode": "live",
+  "started_at": "2026-11-17T21:44:36+00:00",
+  "discovered": [
+    {
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T21:34:50+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
+    },
+    {
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T19:32:11+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T19:02:20+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T18:48:23+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+    },
+    {
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T18:10:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/"
+    },
+    {
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T18:04:16+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
+    },
+    {
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T17:32:25+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
+    },
+    {
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T17:20:41+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
+    },
+    {
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T16:44:15+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+    },
+    {
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T16:32:55+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
+    },
+    {
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T15:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    },
+    {
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T14:50:58+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+    },
+    {
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T14:26:46+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    },
+    {
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T14:05:30+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"
+    },
+    {
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-17T14:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
+    },
+    {
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-17T21:00:55+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+    },
+    {
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-17T18:58:01+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    },
+    {
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-17T16:19:03+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
+    },
+    {
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-17T16:09:57+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+    },
+    {
+      "title": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "published": "2026-11-17T14:39:46+00:00",
+      "official": false,
+      "event": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
+    },
+    {
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-17T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/"
+    },
+    {
+      "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-17T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/"
+    },
+    {
+      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-17T10:47:45+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/"
+    },
+    {
+      "title": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’",
+      "url": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-17T19:52:57+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574"
+    },
+    {
+      "title": "Hackers smash 'n' grab AI vendor: Take  off with license data of Uber drivers",
+      "url": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-17T16:15:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464"
+    },
+    {
+      "title": "Windows 11 previews remote padlock only IT can open",
+      "url": "https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-17T15:29:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402"
+    },
+    {
+      "title": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour",
+      "url": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-17T13:32:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197"
+    },
+    {
+      "title": "Opinion pollster Ipsos 'fesses up to 'cybersecurity incident'",
+      "url": "https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-17T11:44:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405"
+    },
+    {
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-17T21:27:17+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/"
+    },
+    {
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-17T20:51:21+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/"
+    },
+    {
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-17T19:24:07+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/"
+    },
+    {
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-17T18:21:24+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/"
+    },
+    {
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-17T18:04:15+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/"
+    },
+    {
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-17T16:00:00+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/"
+    },
+    {
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-17T15:01:11+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/"
+    },
+    {
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-17T11:19:51+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/"
+    },
+    {
+      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-17T20:58:13+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat"
+    },
+    {
+      "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+      "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-17T18:38:37+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach"
+    },
+    {
+      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+      "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-17T13:12:56+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval"
+    },
+    {
+      "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+      "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-17T18:16:17+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/"
+    },
+    {
+      "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+      "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-17T14:55:30+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/"
+    },
+    {
+      "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+      "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-17T14:14:24+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/"
+    },
+    {
+      "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+      "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-17T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/"
+    },
+    {
+      "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+      "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-17T13:24:43+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/"
+    },
+    {
+      "title": "Access Dental Management Data Breach Impacts Over 340,000",
+      "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-17T12:59:04+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/"
+    },
+    {
+      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
+      "url": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-17T12:51:54+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/"
+    },
+    {
+      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+      "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-17T12:28:45+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/"
+    },
+    {
+      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+      "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-17T12:00:00+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/"
+    },
+    {
+      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
+      "url": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-17T10:22:20+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/"
+    },
+    {
+      "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+      "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-17T21:20:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/optimizely-malicious-code-customer-sites"
+    },
+    {
+      "title": "Kazakh ransomware hacking suspect extradited from Italy",
+      "url": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-17T19:09:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx"
+    },
+    {
+      "title": "Chinese state group developing automated attack tool for cyber espionage, Google says",
+      "url": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-17T18:50:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage"
+    },
+    {
+      "title": "California fines Hertz $1.5 million for breaking state data privacy law",
+      "url": "https://therecord.media/california-fines-hertz-state-data-privacy-law",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-17T17:13:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/california-fines-hertz-state-data-privacy-law"
+    },
+    {
+      "title": "NSA Net, agency’s classified internal network, faces unspecified disruptions",
+      "url": "https://therecord.media/nsa-net-disruptions",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-17T16:21:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/nsa-net-disruptions"
+    },
+    {
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "feed": "https://blog.google/technology/ai/rss/",
+      "published": "2026-11-17T17:00:00+00:00",
+      "official": true,
+      "event": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+    },
+    {
+      "title": "Can AI help build a healthier future?",
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+      "feed": "https://www.microsoft.com/en-us/research/feed/",
+      "published": "2026-11-17T16:52:17+00:00",
+      "official": true,
+      "event": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/"
+    },
+    {
+      "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+      "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+      "feed": "https://about.fb.com/news/feed/",
+      "published": "2026-11-17T18:00:31+00:00",
+      "official": true,
+      "event": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/"
+    },
+    {
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-17T14:00:10+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/ian-buck-sc26/"
+    },
+    {
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-16T23:00:05+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/"
+    },
+    {
+      "title": "Cut generative AI costs: Code for rules, models for judgment",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T21:14:55+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/"
+    },
+    {
+      "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T21:11:51+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/"
+    },
+    {
+      "title": "Govern and discover records with common metadata in AWS Agent Registry",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T20:31:04+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/"
+    },
+    {
+      "title": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T20:25:23+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T19:40:01+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/"
+    },
+    {
+      "title": "Getting AI out of the demo and into businesses globally",
+      "url": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T19:05:22+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/"
+    },
+    {
+      "title": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T18:48:50+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T18:06:44+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/"
+    },
+    {
+      "title": "Your complete guide to AWS Quick at AWS re:Invent 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T17:08:21+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/"
+    },
+    {
+      "title": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T17:01:08+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "Responsible AI for agentic AI: A phased roadmap for platform and application teams",
+      "url": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T16:56:31+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/"
+    },
+    {
+      "title": "How ArisGlobal scaled generative AI inference on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-17T15:57:09+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/"
+    },
+    {
+      "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-16T22:43:30+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/"
+    },
+    {
+      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-16T22:06:08+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-16T21:53:46+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/"
+    },
+    {
+      "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-17T17:30:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/"
+    },
+    {
+      "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "url": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-17T17:00:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/"
+    },
+    {
+      "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+      "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-16T22:30:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/"
+    },
+    {
+      "title": "Google Cloud is a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-17T17:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/"
+    },
+    {
+      "title": "Putting a spotlight on AI, society, and humanity",
+      "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-17T20:40:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117"
+    },
+    {
+      "title": "Q&A: Why building math muscles remains important in the AI era",
+      "url": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-17T05:00:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117"
+    },
+    {
+      "title": "Learning the language of machine learning",
+      "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-17T05:00:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117"
+    },
+    {
+      "title": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
+      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant",
+      "feed": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22artificial+intelligence%22&conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PRORULE&conditions%5Btype%5D%5B%5D=PRESDOCU&order=newest",
+      "published": "2026-11-17T05:00:00+00:00",
+      "official": true,
+      "event": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "feed": "https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
+      "published": "2026-11-17T12:00:00+00:00",
+      "official": true,
+      "event": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
+    },
+    {
+      "title": "Why threat hunting should matter to every board",
+      "url": "https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board",
+      "feed": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
+      "published": "2026-11-17T12:00:00+00:00",
+      "official": true,
+      "event": "https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": 0.78,
+      "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/": 0.76,
+      "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/": 0.73,
+      "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/": 0.46,
+      "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/": 0.55,
+      "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/": 0.62,
+      "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/": 0.84,
+      "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/": 0.34,
+      "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/": 0.58,
+      "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/": 0.49,
+      "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/": 0.9,
+      "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/": 0.71,
+      "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/": 0.66,
+      "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake": 0.57,
+      "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free": 0.72,
+      "https://www.technologyreview.com/2026/11/17/1148203/research-reports/": 0.12,
+      "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/": 0.8,
+      "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574": 0.74,
+      "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat": 0.77,
+      "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval": 0.7,
+      "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/": 0.88,
+      "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/": 0.41,
+      "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/": 0.69,
+      "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/": 0.83,
+      "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage": 0.87,
+      "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/": 0.73,
+      "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/": 0.67,
+      "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/": 0.64,
+      "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/": 0.2
+    },
+    {
+      "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/": 0.82,
+      "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/": 0.79,
+      "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/": 0.91,
+      "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage": 0.88,
+      "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574": 0.73,
+      "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/": 0.84,
+      "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/": 0.87,
+      "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/": 0.68,
+      "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/": 0.62,
+      "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/": 0.55,
+      "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free": 0.74,
+      "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/": 0.57,
+      "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/": 0.66,
+      "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/": 0.46,
+      "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/": 0.63,
+      "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/": 0.83,
+      "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/": 0.49,
+      "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/": 0.69,
+      "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": 0.64,
+      "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/": 0.42,
+      "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/": 0.7,
+      "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/": 0.58,
+      "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake": 0.6,
+      "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/": 0.77
+    }
+  ],
+  "second_look": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+      "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+      "kind": "news",
+      "importance": 0.675,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5614
+    },
+    {
+      "rank": 2,
+      "headline": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "kind": "news",
+      "importance": 0.65,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5364
+    },
+    {
+      "rank": 3,
+      "headline": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "kind": "news",
+      "importance": 0.365,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.218
+    },
+    {
+      "rank": 4,
+      "headline": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+      "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+      "kind": "news",
+      "importance": 0.895,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.2033
+    },
+    {
+      "rank": 5,
+      "headline": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "kind": "news",
+      "importance": 0.865,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1983
+    },
+    {
+      "rank": 6,
+      "headline": "Google Cloud is a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/",
+      "kind": "news",
+      "importance": 0.33,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1964
+    },
+    {
+      "rank": 7,
+      "headline": "Chinese state group developing automated attack tool for cyber espionage, Google says",
+      "url": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
+      "kind": "news",
+      "importance": 0.875,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1883
+    },
+    {
+      "rank": 8,
+      "headline": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
+      "kind": "news",
+      "importance": 0.31,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1806
+    },
+    {
+      "rank": 9,
+      "headline": "How ArisGlobal scaled generative AI inference on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/",
+      "kind": "news",
+      "importance": 0.275,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1614
+    },
+    {
+      "rank": 10,
+      "headline": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "kind": "news",
+      "importance": 0.84,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1583
+    },
+    {
+      "rank": 11,
+      "headline": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/",
+      "kind": "news",
+      "importance": 0.285,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1499
+    },
+    {
+      "rank": 12,
+      "headline": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+      "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+      "kind": "news",
+      "importance": 0.85,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1433
+    },
+    {
+      "rank": 13,
+      "headline": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "kind": "news",
+      "importance": 0.785,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0969
+    },
+    {
+      "rank": 14,
+      "headline": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "kind": "news",
+      "importance": 0.79,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0805
+    },
+    {
+      "rank": 15,
+      "headline": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’",
+      "url": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
+      "kind": "news",
+      "importance": 0.735,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0507
+    },
+    {
+      "rank": 16,
+      "headline": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "kind": "news",
+      "importance": 0.76,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0472
+    },
+    {
+      "rank": 17,
+      "headline": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "kind": "news",
+      "importance": 0.73,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0383
+    },
+    {
+      "rank": 18,
+      "headline": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
+      "url": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
+      "kind": "news",
+      "importance": 0.69,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0233
+    },
+    {
+      "rank": 19,
+      "headline": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "kind": "news",
+      "importance": 0.71,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0219
+    },
+    {
+      "rank": 20,
+      "headline": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "kind": "news",
+      "importance": 0.625,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0417
+    },
+    {
+      "rank": 21,
+      "headline": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "kind": "news",
+      "importance": 0.62,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0467
+    },
+    {
+      "rank": 22,
+      "headline": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "kind": "news",
+      "importance": 0.585,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0817
+    },
+    {
+      "rank": 23,
+      "headline": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "kind": "news",
+      "importance": 0.49,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1767
+    },
+    {
+      "rank": 24,
+      "headline": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "kind": "news",
+      "importance": 0.485,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1817
+    },
+    {
+      "rank": 25,
+      "headline": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "kind": "news",
+      "importance": 0.385,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2817
+    },
+    {
+      "rank": 26,
+      "headline": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "kind": "news",
+      "importance": 0.355,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3117
+    },
+    {
+      "rank": 27,
+      "headline": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+      "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+      "kind": "news",
+      "importance": 0.35,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3167
+    },
+    {
+      "rank": 28,
+      "headline": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "kind": "news",
+      "importance": 0.35,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3317
+    },
+    {
+      "rank": 29,
+      "headline": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "kind": "news",
+      "importance": 0.29,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3917
+    },
+    {
+      "rank": 30,
+      "headline": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "kind": "news",
+      "importance": 0.23,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4597
+    },
+    {
+      "rank": 31,
+      "headline": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+      "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
+      "kind": "news",
+      "importance": 0.205,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4831
+    },
+    {
+      "rank": 32,
+      "headline": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "kind": "news",
+      "importance": 0.17,
+      "official": false,
+      "coverage": 2,
+      "rank_key": -0.4967
+    },
+    {
+      "rank": 33,
+      "headline": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "kind": "news",
+      "importance": 0.06,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.6067
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+      "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "meta-rolls-out-muse-in-australia-with-local-app-connectors",
+    "live": true
+  }
+}
