@@ -1,0 +1,941 @@
+{
+  "day": "2026-11-20",
+  "mode": "live",
+  "started_at": "2026-11-20T21:02:13+00:00",
+  "discovered": [
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-20T19:53:41+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-20T19:32:08+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    },
+    {
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-20T17:40:01+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    },
+    {
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-20T14:55:44+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-20T14:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+    },
+    {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-20T18:50:19+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-20T16:34:13+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+      "title": "The week everything fell apart",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-20T14:06:59+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+    },
+    {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-20T12:30:47+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "published": "2026-11-20T18:15:15+00:00",
+      "official": false,
+      "event": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+    },
+    {
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-20T19:52:21+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+    },
+    {
+      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-20T12:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
+    },
+    {
+      "title": "Regular Tech Bros Are Worried About Honeypots",
+      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-20T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/"
+    },
+    {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-20T20:54:12+00:00",
+      "official": false,
+      "event": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-20T20:00:53+00:00",
+      "official": false,
+      "event": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Signal slams door on prying AI agents to protect privacy",
+      "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-20T20:42:04+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466"
+    },
+    {
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-20T17:30:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
+    },
+    {
+      "title": "Dutch data watchdog highlights safety issues with AI glasses",
+      "url": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-20T16:44:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345"
+    },
+    {
+      "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
+      "url": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-20T12:18:19+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292"
+    },
+    {
+      "title": "Windows 11 passkey bug cries failure after successful sign-in",
+      "url": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-20T11:09:44+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263"
+    },
+    {
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-20T18:51:43+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+    },
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-20T17:30:00+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"
+    },
+    {
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-20T15:58:06+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+    },
+    {
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-20T15:00:10+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/"
+    },
+    {
+      "title": "N-able says recent security breach led to major service outage",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-20T13:18:36+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/"
+    },
+    {
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-20T12:14:28+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/"
+    },
+    {
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-20T10:57:43+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"
+    },
+    {
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-20T09:25:35+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/"
+    },
+    {
+      "title": "In Security, Words Matter as Much as Tools, Maybe More",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-20T18:35:40+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cybersecurity-operations/security-words-matter"
+    },
+    {
+      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-20T17:04:04+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry"
+    },
+    {
+      "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+      "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-20T16:01:02+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/"
+    },
+    {
+      "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+      "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-20T14:56:23+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/"
+    },
+    {
+      "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
+      "url": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-20T12:38:55+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/"
+    },
+    {
+      "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+      "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-20T11:36:51+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/"
+    },
+    {
+      "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+      "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-20T10:51:42+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/"
+    },
+    {
+      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+      "url": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-20T10:34:10+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/"
+    },
+    {
+      "title": "N-able Blames Service Disruption on Cyberattack",
+      "url": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-20T09:08:35+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/"
+    },
+    {
+      "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+      "url": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-20T20:25:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation"
+    },
+    {
+      "title": "Container Store restores systems after cyberattack",
+      "url": "https://therecord.media/container-store-restores-systems-cyberattack",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-20T19:32:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/container-store-restores-systems-cyberattack"
+    },
+    {
+      "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
+      "url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-20T17:30:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day"
+    },
+    {
+      "title": "NSA resumes normal operations following internal network disruptions",
+      "url": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-20T16:06:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions"
+    },
+    {
+      "title": "Cyber Director Cairncross out as White House resets cyber leadership",
+      "url": "https://therecord.media/sean-cairncross-out-as-national-cyber-director",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-20T14:30:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/sean-cairncross-out-as-national-cyber-director"
+    },
+    {
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "feed": "https://www.anthropic.com/news",
+      "published": "2026-11-20T23:59:59+00:00",
+      "official": true,
+      "event": "https://www.anthropic.com/news/ipo-close"
+    },
+    {
+      "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+      "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
+      "feed": "https://about.fb.com/news/feed/",
+      "published": "2026-11-20T18:30:45+00:00",
+      "official": true,
+      "event": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/"
+    },
+    {
+      "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+      "url": "https://machinelearning.apple.com/research/depth-pro-2-monocular",
+      "feed": "https://machinelearning.apple.com/rss.xml",
+      "published": "2026-11-20T00:00:00+00:00",
+      "official": true,
+      "event": "https://machinelearning.apple.com/research/depth-pro-2-monocular"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-20T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/inkling2mini"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-20T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/harness-adapters-at-scale"
+    },
+    {
+      "title": "Always Learning, Always Improving: The Era of Self-Evolving AI Systems",
+      "url": "https://www.salesforce.com/blog/self-evolving-systems/",
+      "feed": "https://www.salesforce.com/blog/category/ai-research/feed/",
+      "published": "2026-11-20T18:28:15+00:00",
+      "official": true,
+      "event": "https://www.salesforce.com/blog/self-evolving-systems/"
+    },
+    {
+      "title": "AI R&D-relevant model capabilities are improving rapidly and are getting harder to measure",
+      "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+      "feed": "https://metr.org/blog/rss.xml",
+      "published": "2026-11-20T08:00:00+00:00",
+      "official": true,
+      "event": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/"
+    },
+    {
+      "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-20T20:37:31+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/"
+    },
+    {
+      "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-20T20:22:00+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/"
+    },
+    {
+      "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-20T18:24:06+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/"
+    },
+    {
+      "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-20T00:34:07+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/"
+    },
+    {
+      "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-20T00:33:30+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/"
+    },
+    {
+      "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-19T23:02:16+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/"
+    },
+    {
+      "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-19T22:20:23+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/"
+    },
+    {
+      "title": "Run your whole selling business in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-19T22:16:22+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/"
+    },
+    {
+      "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-19T21:28:18+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/"
+    },
+    {
+      "title": "Inside Amazon Connect Talent: The science of structured AI interviews",
+      "url": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-19T21:23:20+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/"
+    },
+    {
+      "title": "Ultimate guide for fixing your team’s API keys",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-20T17:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/"
+    },
+    {
+      "title": "Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents",
+      "url": "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-20T17:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/"
+    },
+    {
+      "title": "The Blueprint: How Kult built a gaming companion that actually knows your game",
+      "url": "https://cloud.google.com/blog/products/gaming/kult-built-a-gaming-companion-with-gemini-that-actually-knows-your-game/",
+      "feed": "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/",
+      "published": "2026-11-19T23:00:00+00:00",
+      "official": true,
+      "event": "https://cloud.google.com/blog/products/gaming/kult-built-a-gaming-companion-with-gemini-that-actually-knows-your-game/"
+    },
+    {
+      "title": "Following the “mathocalypse,” mathematicians consider the future",
+      "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-20T15:20:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120"
+    },
+    {
+      "title": "AI helps researchers investigate how thousands of medical studies share code",
+      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-19T22:15:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"
+    },
+    {
+      "title": "New AI guidance to cut paperwork and free more time for care",
+      "url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
+      "feed": "https://www.gov.uk/search/news-and-communications.atom?keywords=artificial+intelligence",
+      "published": "2026-11-20T09:57:29+00:00",
+      "official": true,
+      "event": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care"
+    },
+    {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "feed": "https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
+      "published": "2026-11-20T12:00:00+00:00",
+      "official": true,
+      "event": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+    }
+  ],
+  "passes": [
+    {
+      "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax": 0.78,
+      "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": 0.74,
+      "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app": 0.61,
+      "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382": 0.88,
+      "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss": 0.56,
+      "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/": 0.71,
+      "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/": 0.83,
+      "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/": 0.86,
+      "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation": 0.63,
+      "https://www.anthropic.com/news/ipo-close": 0.77,
+      "https://metr.org/blog/2026-11-20-q4-2026-capability-update/": 0.72,
+      "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care": 0.58
+    },
+    {
+      "https://cloud.google.com/blog/products/gaming/kult-built-a-gaming-companion-with-gemini-that-actually-knows-your-game/": 0.55,
+      "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/": 0.46,
+      "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/": 0.38,
+      "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care": 0.47,
+      "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss": 0.78,
+      "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119": 0.52,
+      "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/": 0.33,
+      "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation": 0.64,
+      "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/": 0.42,
+      "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/": 0.57,
+      "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/": 0.44,
+      "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/": 0.31,
+      "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/": 0.36,
+      "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": 0.6,
+      "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466": 0.49,
+      "https://www.anthropic.com/news/ipo-close": 0.74,
+      "https://machinelearning.apple.com/research/depth-pro-2-monocular": 0.34,
+      "https://huggingface.co/blog/harness-adapters-at-scale": 0.32,
+      "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/": 0.29,
+      "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/": 0.3,
+      "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day": 0.77,
+      "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app": 0.5,
+      "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/": 0.41,
+      "https://metr.org/blog/2026-11-20-q4-2026-capability-update/": 0.63,
+      "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": 0.24,
+      "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/": 0.38,
+      "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/": 0.76,
+      "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382": 0.79,
+      "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345": 0.43,
+      "https://www.salesforce.com/blog/self-evolving-systems/": 0.28,
+      "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/": 0.78
+    }
+  ],
+  "second_look": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "kind": "news",
+      "importance": 0.755,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.6289
+    },
+    {
+      "rank": 2,
+      "headline": "AI R&D-relevant model capabilities are improving rapidly and are getting harder to measure",
+      "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+      "kind": "news",
+      "importance": 0.675,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5425
+    },
+    {
+      "rank": 3,
+      "headline": "New AI guidance to cut paperwork and free more time for care",
+      "url": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
+      "kind": "news",
+      "importance": 0.525,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4139
+    },
+    {
+      "rank": 4,
+      "headline": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "kind": "news",
+      "importance": 0.835,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1683
+    },
+    {
+      "rank": 5,
+      "headline": "The Blueprint: How Kult built a gaming companion that actually knows your game",
+      "url": "https://cloud.google.com/blog/products/gaming/kult-built-a-gaming-companion-with-gemini-that-actually-knows-your-game/",
+      "kind": "news",
+      "importance": 0.275,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1639
+    },
+    {
+      "rank": 6,
+      "headline": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+      "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+      "kind": "news",
+      "importance": 0.81,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1433
+    },
+    {
+      "rank": 7,
+      "headline": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "kind": "news",
+      "importance": 0.805,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1383
+    },
+    {
+      "rank": 8,
+      "headline": "AI helps researchers investigate how thousands of medical studies share code",
+      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "kind": "news",
+      "importance": 0.26,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1216
+    },
+    {
+      "rank": 9,
+      "headline": "How the BMW Group governs hundreds of agents across thousands of developers",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
+      "kind": "news",
+      "importance": 0.23,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1189
+    },
+    {
+      "rank": 10,
+      "headline": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+      "kind": "news",
+      "importance": 0.21,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0989
+    },
+    {
+      "rank": 11,
+      "headline": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+      "kind": "news",
+      "importance": 0.22,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0901
+    },
+    {
+      "rank": 12,
+      "headline": "Inside Amazon Connect Talent: The science of structured AI interviews",
+      "url": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
+      "kind": "news",
+      "importance": 0.19,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0789
+    },
+    {
+      "rank": 13,
+      "headline": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
+      "kind": "news",
+      "importance": 0.205,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0762
+    },
+    {
+      "rank": 14,
+      "headline": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+      "kind": "news",
+      "importance": 0.18,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0689
+    },
+    {
+      "rank": 15,
+      "headline": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+      "url": "https://machinelearning.apple.com/research/depth-pro-2-monocular",
+      "kind": "news",
+      "importance": 0.17,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0589
+    },
+    {
+      "rank": 16,
+      "headline": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+      "kind": "news",
+      "importance": 0.19,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0539
+    },
+    {
+      "rank": 17,
+      "headline": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+      "kind": "news",
+      "importance": 0.165,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0539
+    },
+    {
+      "rank": 18,
+      "headline": "Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents",
+      "url": "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/",
+      "kind": "news",
+      "importance": 0.155,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0439
+    },
+    {
+      "rank": 19,
+      "headline": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+      "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
+      "kind": "news",
+      "importance": 0.145,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0339
+    },
+    {
+      "rank": 20,
+      "headline": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "kind": "news",
+      "importance": 0.16,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0301
+    },
+    {
+      "rank": 21,
+      "headline": "Always Learning, Always Improving: The Era of Self-Evolving AI Systems",
+      "url": "https://www.salesforce.com/blog/self-evolving-systems/",
+      "kind": "news",
+      "importance": 0.14,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0289
+    },
+    {
+      "rank": 22,
+      "headline": "Run your whole selling business in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
+      "kind": "news",
+      "importance": 0.15,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.0139
+    },
+    {
+      "rank": 23,
+      "headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "kind": "news",
+      "importance": 0.67,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0197
+    },
+    {
+      "rank": 24,
+      "headline": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+      "url": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+      "kind": "news",
+      "importance": 0.635,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0317
+    },
+    {
+      "rank": 25,
+      "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "kind": "news",
+      "importance": 0.555,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.1117
+    },
+    {
+      "rank": 26,
+      "headline": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "kind": "news",
+      "importance": 0.39,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2767
+    },
+    {
+      "rank": 27,
+      "headline": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "kind": "news",
+      "importance": 0.39,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2767
+    },
+    {
+      "rank": 28,
+      "headline": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
+      "url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+      "kind": "news",
+      "importance": 0.385,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2967
+    },
+    {
+      "rank": 29,
+      "headline": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "kind": "news",
+      "importance": 0.355,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3117
+    },
+    {
+      "rank": 30,
+      "headline": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "kind": "news",
+      "importance": 0.285,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3817
+    },
+    {
+      "rank": 31,
+      "headline": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "kind": "news",
+      "importance": 0.28,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4097
+    },
+    {
+      "rank": 32,
+      "headline": "Signal slams door on prying AI agents to protect privacy",
+      "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+      "kind": "news",
+      "importance": 0.245,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4217
+    },
+    {
+      "rank": 33,
+      "headline": "Dutch data watchdog highlights safety issues with AI glasses",
+      "url": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+      "kind": "news",
+      "importance": 0.215,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4517
+    },
+    {
+      "rank": 34,
+      "headline": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "kind": "news",
+      "importance": 0.12,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.5467
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "anthropic-closes-ipo-private-placement-and-full-underwriters-option-exercise",
+    "live": true
+  }
+}
