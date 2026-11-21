@@ -1,0 +1,353 @@
+{
+  "day": "2026-11-21",
+  "mode": "live",
+  "started_at": "2026-11-21T20:03:52+00:00",
+  "discovered": [
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-21T17:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-21T16:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    },
+    {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-21T20:03:37+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-21T15:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+    },
+    {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-21T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+    },
+    {
+      "title": "The Outages Are Just Getting Started",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-21T13:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+    },
+    {
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-21T18:01:58+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+    },
+    {
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-21T15:17:27+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/"
+    },
+    {
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-21T14:26:04+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/"
+    },
+    {
+      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+      "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-21T12:08:50+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/"
+    },
+    {
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "feed": "https://www.anthropic.com/news",
+      "published": "2026-11-20T23:59:59+00:00",
+      "official": true,
+      "event": "https://www.anthropic.com/news/ipo-close"
+    },
+    {
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "feed": "https://research.google/blog/rss/",
+      "published": "2026-11-20T23:30:30+00:00",
+      "official": true,
+      "event": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"
+    },
+    {
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-21T01:06:42+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/"
+    },
+    {
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-21T00:14:26+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/"
+    },
+    {
+      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-20T23:07:03+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/"
+    },
+    {
+      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-20T22:35:24+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/"
+    },
+    {
+      "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-20T20:37:31+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/"
+    },
+    {
+      "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-20T20:22:00+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/"
+    },
+    {
+      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+      "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+      "feed": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "published": "2026-11-20T21:00:00+00:00",
+      "official": true,
+      "event": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120"
+    },
+    {
+      "title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+      "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
+      "feed": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22artificial+intelligence%22&conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PRORULE&conditions%5Btype%5D%5B%5D=PRESDOCU&order=newest",
+      "published": "2026-11-23T05:00:00+00:00",
+      "official": true,
+      "event": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical"
+    }
+  ],
+  "passes": [
+    {
+      "https://www.theverge.com/tech/1039554/un-regulations-killer-robots": 0.74,
+      "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure": 0.61,
+      "https://www.anthropic.com/news/ipo-close": 0.88,
+      "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/": 0.67,
+      "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/": 0.55,
+      "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/": 0.43,
+      "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/": 0.49,
+      "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/": 0.58,
+      "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/": 0.41,
+      "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/": 0.52,
+      "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120": 0.36
+    },
+    {
+      "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/": 0.62,
+      "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/": 0.74,
+      "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/": 0.55,
+      "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/": 0.87,
+      "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120": 0.58,
+      "https://www.anthropic.com/news/ipo-close": 0.91,
+      "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/": 0.57,
+      "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/": 0.46,
+      "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/": 0.4,
+      "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/": 0.49,
+      "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/": 0.63,
+      "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/": 0.56
+    }
+  ],
+  "second_look": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Anthropic’s IPO looks like a public debut, but it mainly lets insiders and big tech backers sell or double down.",
+      "url": "https://weary.ai/posts/anthropic-prices-ipo-at-83-a-share/",
+      "kind": "opinion",
+      "importance": 1.0,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0
+    },
+    {
+      "rank": 2,
+      "headline": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+      "kind": "news",
+      "importance": 0.66,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5319
+    },
+    {
+      "rank": 3,
+      "headline": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "kind": "news",
+      "importance": 0.65,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.5145
+    },
+    {
+      "rank": 4,
+      "headline": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+      "kind": "news",
+      "importance": 0.545,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4345
+    },
+    {
+      "rank": 5,
+      "headline": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+      "kind": "news",
+      "importance": 0.515,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4045
+    },
+    {
+      "rank": 6,
+      "headline": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+      "kind": "news",
+      "importance": 0.525,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3958
+    },
+    {
+      "rank": 7,
+      "headline": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+      "kind": "news",
+      "importance": 0.52,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3895
+    },
+    {
+      "rank": 8,
+      "headline": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+      "kind": "news",
+      "importance": 0.49,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3795
+    },
+    {
+      "rank": 9,
+      "headline": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+      "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+      "kind": "news",
+      "importance": 0.47,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3595
+    },
+    {
+      "rank": 10,
+      "headline": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+      "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "kind": "news",
+      "importance": 0.435,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2317
+    },
+    {
+      "rank": 11,
+      "headline": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "kind": "news",
+      "importance": 0.37,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2967
+    },
+    {
+      "rank": 12,
+      "headline": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "kind": "news",
+      "importance": 0.305,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.395
+    },
+    {
+      "rank": 13,
+      "headline": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "kind": "news",
+      "importance": 0.23,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4581
+    },
+    {
+      "rank": 14,
+      "headline": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "kind": "news",
+      "importance": 0.2,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4667
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Anthropic’s IPO looks like a public debut, but it mainly lets insiders and big tech backers sell or double down.",
+      "url": "https://weary.ai/posts/anthropic-prices-ipo-at-83-a-share/",
+      "kind": "opinion",
+      "official": false,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "anthropic-s-ipo-served-sellers-and-tech-giants",
+    "live": true
+  }
+}
