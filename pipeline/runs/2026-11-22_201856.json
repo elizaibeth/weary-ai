@@ -1,0 +1,232 @@
+{
+  "day": "2026-11-22",
+  "mode": "live",
+  "started_at": "2026-11-22T20:18:56+00:00",
+  "discovered": [
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-22T18:08:43+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-22T17:25:20+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+    },
+    {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-22T13:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-22T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+    },
+    {
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-22T18:45:37+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"
+    },
+    {
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-22T15:43:04+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"
+    },
+    {
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-22T15:15:25+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
+    },
+    {
+      "title": "Meta ads is now available in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+      "feed": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "published": "2026-11-22T01:59:13+00:00",
+      "official": true,
+      "event": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/"
+    },
+    {
+      "title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+      "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
+      "feed": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22artificial+intelligence%22&conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PRORULE&conditions%5Btype%5D%5B%5D=PRESDOCU&order=newest",
+      "published": "2026-11-23T05:00:00+00:00",
+      "official": true,
+      "event": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/": 0.74,
+      "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music": 0.39,
+      "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera": 0.28,
+      "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/": 0.66,
+      "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/": 0.52,
+      "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/": 0.31
+    },
+    {
+      "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/": 0.78,
+      "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/": 0.62,
+      "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera": 0.45,
+      "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/": 0.74
+    }
+  ],
+  "second_look": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+      "url": "https://arxiv.org/abs/2611.21218",
+      "kind": "paper",
+      "importance": 0.83,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.7195
+    },
+    {
+      "rank": 2,
+      "headline": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+      "url": "https://arxiv.org/abs/2611.20218",
+      "kind": "paper",
+      "importance": 0.79,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.6795
+    },
+    {
+      "rank": 3,
+      "headline": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+      "url": "https://arxiv.org/abs/2611.21373",
+      "kind": "paper",
+      "importance": 0.735,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.6245
+    },
+    {
+      "rank": 4,
+      "headline": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "url": "https://arxiv.org/abs/2611.17621",
+      "kind": "paper",
+      "importance": 0.6,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4895
+    },
+    {
+      "rank": 5,
+      "headline": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices",
+      "url": "https://arxiv.org/abs/2611.14848",
+      "kind": "paper",
+      "importance": 0.39,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2795
+    },
+    {
+      "rank": 6,
+      "headline": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+      "url": "https://arxiv.org/abs/2611.19937",
+      "kind": "paper",
+      "importance": 0.31,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1995
+    },
+    {
+      "rank": 7,
+      "headline": "Meta ads is now available in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+      "kind": "news",
+      "importance": 0.465,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2879
+    },
+    {
+      "rank": 8,
+      "headline": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "kind": "news",
+      "importance": 0.72,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0533
+    },
+    {
+      "rank": 9,
+      "headline": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "kind": "news",
+      "importance": 0.63,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0367
+    },
+    {
+      "rank": 10,
+      "headline": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "kind": "news",
+      "importance": 0.37,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2967
+    },
+    {
+      "rank": 11,
+      "headline": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "kind": "news",
+      "importance": 0.365,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3017
+    },
+    {
+      "rank": 12,
+      "headline": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "kind": "news",
+      "importance": 0.195,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4717
+    }
+  ],
+  "tries": [
+    {
+      "headline": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+      "url": "https://arxiv.org/abs/2611.21218",
+      "kind": "paper",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "researchers-build-inclusionmed-to-benchmark-medical-ai-across-healthcare-roles",
+    "live": true
+  }
+}
