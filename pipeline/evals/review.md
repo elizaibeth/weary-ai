@@ -270,3 +270,107 @@ Edit `gold.qrels` to change a grade. Grade 3 = best lead.
 - **2** An overview of Jensen Huang’s messy days <https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation>
 - **2** FBI warns ARTEX AI hacking tool is powering global cyberattacks <https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/>
 - 4 more graded 0-1
+
+## 2026-11-16 (Weary published: Hugging Face and OpenRouter join forces to make open-weight models easy to run)
+- **3** California state AG sues OpenAI over rogue agent incidents <https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/>
+- **3** California sues OpenAI over rogue AI hacking incidents <https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit>
+- **3** California sues OpenAI over AI agents escaping sandboxes, hacking firms <https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/>
+- **3** California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness <https://therecord.media/california-sues-openai-hugging-face>
+- **2** FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’ <https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/>
+- **2** OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM <https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/>
+- **2** US tightens AI chip export controls to deter Chinese companies from accessing compute remotely <https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/>
+- **2** US data centers now burn more electricity than a midsized country <https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard>
+- **2** OpenAI wants to stop deepfakes from overwhelming child abuse tiplines <https://www.theverge.com/policy/1034527/openai-csam-classifier>
+- **2** Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn <https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223>
+- **2** US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough) <https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094>
+- **2** Google: AI agent turned a security patch into a working exploit with no human help <https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926>
+- **2** Google Project Zero cuts bug disclosures to 30 days amid AI threats <https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/>
+- **2** Barracuda links cloud breach to ARTEX AI-powered cyberattack <https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/>
+- **2** Google warns that fully-automated AI attacks are coming soon <https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/>
+- **2** Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts <https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines>
+- **2** China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks <https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks>
+- **2** Trump Administration Moves to Block China From Indirect Access to American AI Technology <https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/>
+- **2** Cursor Supply Chain Attack Started at Fireworks AI <https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/>
+- **2** Google Project Zero Sets Course for 30-Day Disclosure Deadline <https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/>
+- **2** Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks <https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/>
+- **2** NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics <https://blogs.nvidia.com/blog/rubin-hpc/>
+- 67 more graded 0-1
+
+## 2026-11-17 (Weary published: Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone)
+- **3** AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says <https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/>
+- **3** Chinese state group developing automated attack tool for cyber espionage, Google says <https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage>
+- **2** Google to keep Gemini chats for 2 months, up from 72 hours, even with history off <https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/>
+- **2** AI models can be tricked into identifying civilians as military targets by telling them it’s a game <https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/>
+- **2** Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials <https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/>
+- **2** Nvidia’s first big move after Jensen Huang’s exit targets national security <https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/>
+- **2** Spotify’s new tool aims to stop deepfakes from being attributed to real artists <https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/>
+- **2** The DOJ says it’s investigating Megaspeed <https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update>
+- **2** Grok Bots Attempt to Access Corporate Data Without User Approval <https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval>
+- **2** California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack <https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/>
+- 74 more graded 0-1
+
+## 2026-11-18 (Weary published: Genie 4 is now available)
+- **3** Nvidia isn’t selling any more AI chips to China <https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling>
+- **2** More banks say customers using AI agents are on their own — even if they get hacked <https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/>
+- **2** Nvidia clarifies when it will — and won’t — keep financing neoclouds <https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/>
+- **2** Trump’s latest land grab is an AI hub in the Philippines <https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica>
+- **2** Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool <https://www.wired.com/story/artex-ai-hacking-tools/>
+- **2** AI found more critical bugs in another widely used technology running 225M websites <https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887>
+- **2** California tells Waymo to take the next exit after freeway mishaps <https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841>
+- **2** Microsoft's official Python agent framework hijacked to distribute malware <https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858>
+- **2** UK MPs want AI watchdog with power to pull the plug on dangerous models <https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567>
+- **2** Microsoft’s Agent Framework PyPI package compromised to steal credentials <https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/>
+- **2** Microsoft Agent Framework Releases Poisoned With Credential Stealer <https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/>
+- **2** Genie 4 is now available <https://deepmind.google/blog/genie-4-is-now-available/>
+- 69 more graded 0-1
+
+## 2026-11-19 (Weary published: Anthropic prices initial public offering)
+- **3** Anthropic’s IPO could deliver $156 billion to charity <https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>
+- **3** Anthropic hits Nasdaq exchanges at $111, 33% above IPO price <https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/>
+- **3** At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development <https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/>
+- **3** Anthropic’s IPO puts AI’s circular financing boom to the test <https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/>
+- **3** Anthropic starts trading on Wall Street <https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq>
+- **3** With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line <https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure>
+- **3** Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself <https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/>
+- **3** Anthropic raises $81bn in record-breaking stock market debut <https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss>
+- **3** Anthropic prices initial public offering <https://www.anthropic.com/news/anthropic-prices-initial-public-offering>
+- **2** Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says <https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/>
+- **2** Google is putting AI chats right on the homepage <https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats>
+- **2** Dutch watchdog tells people not to buy AI smart glasses <https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss>
+- **2** European Commission confirms cyberattack, says hackers used AI tool <https://therecord.media/european-commission-confirms-cyberattack-using-ai>
+- **2** Introducing Gemini 4 Neon <https://deepmind.google/blog/introducing-gemini-4-neon/>
+- **2** Amazon Polly launches voice cloning: A unique voice for your brand <https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/>
+- **2** Addressing Remote Access to Advanced Semiconductors <https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors>
+- 73 more graded 0-1
+
+## 2026-11-20 (Weary published: Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement)
+- **3** Trump threatens ‘tremendous tax’ for moving AI data centers outside the US <https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax>
+- **3** Trump threatens ban on US firms building AI data centres overseas <https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss>
+- **2** AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too <https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/>
+- **2** The fallout from Nvidia’s Jensen Huang scandal continues <https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/>
+- **2** Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude <https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem>
+- **2** Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation <https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/>
+- **2** Anthropic shares fall after blockbuster opening as wider tech sell-off continues <https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss>
+- **2** China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server <https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382>
+- **2** Bell Canada says 'agentic' hacker stole enterprise customer data <https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/>
+- **2** Hackers use autonomous AI tool Cairn to find zero-day, take over server <https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/>
+- **2** What We Missed: Nvidia CEO Scandal Rocks AI Industry <https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry>
+- **2** European Commission Confirms AI-Assisted Cyberattack Disrupted Services <https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/>
+- **2** US companies’ use of Chinese open weight AI draws rebuke from House chairmen <https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation>
+- **2** Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university <https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day>
+- **2** Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement <https://www.anthropic.com/news/ipo-close>
+- **2** Following the “mathocalypse,” mathematicians consider the future <https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120>
+- **2** New AI guidance to cut paperwork and free more time for care <https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care>
+- 49 more graded 0-1
+
+## 2026-11-21 (Weary published: Anthropic’s IPO looks like a public debut, but it mainly lets insiders and big tech backers sell or double down.)
+- **3** The UN fails to agree on rules regulating ‘killer robots’ <https://www.theverge.com/tech/1039554/un-regulations-killer-robots>
+- **2** Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day <https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/>
+- **2** Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement <https://www.anthropic.com/news/ipo-close>
+- 17 more graded 0-1
+
+## 2026-11-22 (Weary published: InclusionMed: Benchmarking AI for Inclusive Healthcare)
+- **3** Banks Have Had It Up to Here With Your AI Agent <https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/>
+- **2** Why data centers are at the center of the Big Tech backlash <https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/>
+- **2** Signal to block Siri, Gemini AI from capturing chats on iOS, Android <https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/>
+- 6 more graded 0-1
