@@ -1,0 +1,647 @@
+{
+  "day": "2026-11-25",
+  "mode": "live",
+  "started_at": "2026-11-25T22:27:45+00:00",
+  "discovered": [
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-25T20:03:27+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-25T19:54:57+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-25T19:44:24+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    },
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-25T18:11:46+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+    },
+    {
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-25T17:35:58+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    },
+    {
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-25T15:41:43+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-25T14:10:18+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    },
+    {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-25T13:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+    },
+    {
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-25T21:51:26+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+    },
+    {
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-25T17:44:51+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-25T16:00:59+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+    },
+    {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-25T14:12:33+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-25T13:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
+    },
+    {
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-25T11:30:00+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
+    },
+    {
+      "title": "The security of US water systems is even leakier than we thought",
+      "url": "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-25T19:40:17+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243"
+    },
+    {
+      "title": "Microsoft's NTLM security changes trip up third-party logins",
+      "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-25T17:01:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085"
+    },
+    {
+      "title": "US Treasury financial crimes unit becomes latest fed breach victim",
+      "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-25T16:40:16+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"
+    },
+    {
+      "title": "Gatwick drop-off customers' personal data exposed in supplier breach",
+      "url": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-25T11:16:18+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060"
+    },
+    {
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-25T22:05:09+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"
+    },
+    {
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-25T21:33:33+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+    },
+    {
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-25T19:39:31+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+    },
+    {
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-25T16:13:40+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/"
+    },
+    {
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-25T15:00:10+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/"
+    },
+    {
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-25T15:00:00+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"
+    },
+    {
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-25T11:16:32+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"
+    },
+    {
+      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+      "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-25T15:48:04+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments"
+    },
+    {
+      "title": "It's a Bot World. We're Just Living in It",
+      "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-25T15:20:27+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cyber-risk/bot-world-just-living"
+    },
+    {
+      "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-25T15:00:00+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide"
+    },
+    {
+      "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-25T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing"
+    },
+    {
+      "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+      "url": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-25T15:27:36+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/"
+    },
+    {
+      "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+      "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-25T14:15:25+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/"
+    },
+    {
+      "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
+      "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-25T13:39:21+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/"
+    },
+    {
+      "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+      "url": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-25T13:30:00+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/"
+    },
+    {
+      "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
+      "url": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-25T10:40:07+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/"
+    },
+    {
+      "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
+      "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-25T21:18:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool"
+    },
+    {
+      "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
+      "url": "https://therecord.media/fifa-data-breach-limited",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-25T20:40:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/fifa-data-breach-limited"
+    },
+    {
+      "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
+      "url": "https://therecord.media/ransomware-doj-indictment-recovery",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-25T17:30:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/ransomware-doj-indictment-recovery"
+    },
+    {
+      "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
+      "url": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-25T17:07:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms"
+    },
+    {
+      "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
+      "url": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-25T13:30:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/guadeloupe-ransomware-hospital-cyber"
+    },
+    {
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "feed": "https://research.google/blog/rss/",
+      "published": "2026-11-25T17:10:27+00:00",
+      "official": true,
+      "event": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"
+    },
+    {
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-25T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents",
+      "feed": "https://allenai.org/rss.xml",
+      "published": "2026-11-25T08:00:00+00:00",
+      "official": true,
+      "event": "https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents"
+    },
+    {
+      "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+      "url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+      "feed": "https://developer.nvidia.com/blog/feed/",
+      "published": "2026-11-25T19:30:00+00:00",
+      "official": true,
+      "event": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/"
+    },
+    {
+      "title": "Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly",
+      "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program",
+      "feed": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22artificial+intelligence%22&conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PRORULE&conditions%5Btype%5D%5B%5D=PRESDOCU&order=newest",
+      "published": "2026-11-25T05:00:00+00:00",
+      "official": true,
+      "event": "https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program"
+    },
+    {
+      "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+      "feed": "https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
+      "published": "2026-11-25T12:00:00+00:00",
+      "official": true,
+      "event": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/": 0.68,
+      "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/": 0.83,
+      "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/": 0.59,
+      "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": 0.91,
+      "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/": 0.62,
+      "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent": 0.47,
+      "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal": 0.31,
+      "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware": 0.22,
+      "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/": 0.88,
+      "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/": 0.24,
+      "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide": 0.41,
+      "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/": 0.54,
+      "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": 0.29,
+      "https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents": 0.27,
+      "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/": 0.36,
+      "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool": 0.58
+    },
+    {
+      "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/": 0.79,
+      "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions": 0.72,
+      "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/": 0.66,
+      "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool": 0.84,
+      "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": 0.69,
+      "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal": 0.42,
+      "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/": 0.61,
+      "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/": 0.55,
+      "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": 0.44,
+      "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/": 0.58,
+      "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/": 0.71,
+      "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/": 0.52,
+      "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/": 0.38,
+      "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/": 0.35,
+      "https://www.darkreading.com/cyber-risk/bot-world-just-living": 0.28,
+      "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/": 0.86,
+      "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/": 0.83,
+      "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware": 0.31,
+      "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide": 0.33,
+      "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/": 0.57,
+      "https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents": 0.41
+    }
+  ],
+  "second_look": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Verifiable Social Reasoning for LLM Assistants",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "kind": "news",
+      "importance": 0.53,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.4195
+    },
+    {
+      "rank": 2,
+      "headline": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+      "url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+      "kind": "news",
+      "importance": 0.455,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.3445
+    },
+    {
+      "rank": 3,
+      "headline": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "kind": "news",
+      "importance": 0.365,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2545
+    },
+    {
+      "rank": 4,
+      "headline": "Where scientists draw the line on AI agents",
+      "url": "https://allenai.org/blog/where-scientists-draw-the-line-on-ai-agents",
+      "kind": "news",
+      "importance": 0.34,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2295
+    },
+    {
+      "rank": 5,
+      "headline": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "kind": "news",
+      "importance": 0.855,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1883
+    },
+    {
+      "rank": 6,
+      "headline": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "kind": "news",
+      "importance": 0.845,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1617
+    },
+    {
+      "rank": 7,
+      "headline": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "kind": "news",
+      "importance": 0.8,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1333
+    },
+    {
+      "rank": 8,
+      "headline": "Microsoft: China’s Salt Typhoon hackers are using Artex",
+      "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+      "kind": "news",
+      "importance": 0.71,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0433
+    },
+    {
+      "rank": 9,
+      "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "kind": "news",
+      "importance": 0.705,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0383
+    },
+    {
+      "rank": 10,
+      "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "kind": "news",
+      "importance": 0.65,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0167
+    },
+    {
+      "rank": 11,
+      "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "kind": "news",
+      "importance": 0.625,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0417
+    },
+    {
+      "rank": 12,
+      "headline": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+      "kind": "news",
+      "importance": 0.37,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2967
+    },
+    {
+      "rank": 13,
+      "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "kind": "news",
+      "importance": 0.36,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3067
+    },
+    {
+      "rank": 14,
+      "headline": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "kind": "news",
+      "importance": 0.365,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3217
+    },
+    {
+      "rank": 15,
+      "headline": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "kind": "news",
+      "importance": 0.33,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3581
+    },
+    {
+      "rank": 16,
+      "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "kind": "news",
+      "importance": 0.305,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3617
+    },
+    {
+      "rank": 17,
+      "headline": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "kind": "news",
+      "importance": 0.295,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.3717
+    },
+    {
+      "rank": 18,
+      "headline": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "kind": "news",
+      "importance": 0.265,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4017
+    },
+    {
+      "rank": 19,
+      "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "kind": "news",
+      "importance": 0.29,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4017
+    },
+    {
+      "rank": 20,
+      "headline": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "kind": "news",
+      "importance": 0.235,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4531
+    },
+    {
+      "rank": 21,
+      "headline": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "kind": "news",
+      "importance": 0.19,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.4767
+    },
+    {
+      "rank": 22,
+      "headline": "It's a Bot World. We're Just Living in It",
+      "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+      "kind": "news",
+      "importance": 0.14,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.5267
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Verifiable Social Reasoning for LLM Assistants",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "google-research-outlines-a-way-to-test-how-chatbots-handle-social-reasoning",
+    "live": true
+  }
+}
