@@ -1,0 +1,253 @@
+{
+  "day": "2026-11-26",
+  "mode": "live",
+  "started_at": "2026-11-26T22:16:41+00:00",
+  "discovered": [
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-26T20:03:54+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "2026-11-26T16:00:00+00:00",
+      "official": false,
+      "event": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
+    {
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "published": "2026-11-26T10:51:27+00:00",
+      "official": false,
+      "event": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"
+    },
+    {
+      "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-26T19:04:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"
+    },
+    {
+      "title": "UK privacy watchdog faces probe into its workplace culture",
+      "url": "https://www.theregister.com/public-sector/2026/11/26/uk-privacy-watchdog-faces-probe-into-its-workplace-culture/5312380",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-26T16:16:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/public-sector/2026/11/26/uk-privacy-watchdog-faces-probe-into-its-workplace-culture/5312380"
+    },
+    {
+      "title": "'Significant number of customer records' pwned in Flight Centre Travel Group breach",
+      "url": "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-26T15:29:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360"
+    },
+    {
+      "title": "Wyoming uranium operation shuts down after cyberattack",
+      "url": "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-26T14:02:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323"
+    },
+    {
+      "title": "Company was religious about backups but sinned by leaving them exposed",
+      "url": "https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-26T13:22:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234"
+    },
+    {
+      "title": "Hackers help themselves to 1Password's source code and customer data",
+      "url": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-26T11:02:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
+    },
+    {
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-26T21:06:22+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/"
+    },
+    {
+      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-26T17:58:42+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/"
+    },
+    {
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-26T17:15:27+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/"
+    },
+    {
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-26T15:23:28+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/"
+    },
+    {
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-26T11:50:17+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/"
+    },
+    {
+      "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+      "url": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-26T17:06:55+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/"
+    },
+    {
+      "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-26T13:04:06+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/"
+    },
+    {
+      "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+      "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-26T11:35:25+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"
+    },
+    {
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+      "feed": "https://blogs.nvidia.com/feed/",
+      "published": "2026-11-26T14:00:22+00:00",
+      "official": true,
+      "event": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-26T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/training-swarms"
+    }
+  ],
+  "passes": [
+    {
+      "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/": 0.81,
+      "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/": 0.64,
+      "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433": 0.88,
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/": 0.67,
+      "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/": 0.72,
+      "https://huggingface.co/blog/training-swarms": 0.32
+    },
+    {
+      "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/": 0.76,
+      "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433": 0.83,
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/": 0.47,
+      "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/": 0.58,
+      "https://huggingface.co/blog/training-swarms": 0.22
+    }
+  ],
+  "second_look": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "kind": "news",
+      "importance": 0.855,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.1883
+    },
+    {
+      "rank": 2,
+      "headline": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "kind": "news",
+      "importance": 0.27,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.1414
+    },
+    {
+      "rank": 3,
+      "headline": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+      "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+      "kind": "news",
+      "importance": 0.74,
+      "official": false,
+      "coverage": 1,
+      "rank_key": 0.0733
+    },
+    {
+      "rank": 4,
+      "headline": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "kind": "news",
+      "importance": 0.61,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0839
+    },
+    {
+      "rank": 5,
+      "headline": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "kind": "news",
+      "importance": 0.57,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.0967
+    },
+    {
+      "rank": 6,
+      "headline": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "kind": "news",
+      "importance": 0.405,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.2617
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "kind": "news",
+      "official": false,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "uk-cyber-agency-says-ai-tools-are-helping-attackers-exploit-old-weaknesses",
+    "live": true
+  }
+}
