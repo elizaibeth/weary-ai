@@ -1,0 +1,228 @@
+{
+  "day": "2026-11-27",
+  "mode": "live",
+  "started_at": "2026-11-27T21:55:37+00:00",
+  "discovered": [
+    {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-11-27T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+    },
+    {
+      "title": "British social security system techies yank services offline following 'cyber incident'",
+      "url": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522",
+      "feed": "https://www.theregister.com/security/headlines.atom",
+      "published": "2026-11-27T10:01:00+00:00",
+      "official": false,
+      "event": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522"
+    },
+    {
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-27T19:26:04+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"
+    },
+    {
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-27T18:57:42+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"
+    },
+    {
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-27T17:06:13+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/"
+    },
+    {
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-27T15:09:40+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/"
+    },
+    {
+      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+      "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-27T15:00:10+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/"
+    },
+    {
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-27T14:22:06+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/"
+    },
+    {
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-27T11:18:36+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/"
+    },
+    {
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-27T10:10:15+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/"
+    },
+    {
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "feed": "https://www.bleepingcomputer.com/feed/",
+      "published": "2026-11-27T09:56:36+00:00",
+      "official": false,
+      "event": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/"
+    },
+    {
+      "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+      "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-27T15:27:20+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks"
+    },
+    {
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "feed": "https://www.darkreading.com/rss.xml",
+      "published": "2026-11-27T14:00:00+00:00",
+      "official": false,
+      "event": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc"
+    },
+    {
+      "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+      "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+      "feed": "https://www.securityweek.com/feed/",
+      "published": "2026-11-27T11:00:00+00:00",
+      "official": false,
+      "event": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/"
+    },
+    {
+      "title": "Japan’s education ministry discloses breach of government procurement system",
+      "url": "https://therecord.media/japan-education-ministry-cyberattack",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-27T14:15:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/japan-education-ministry-cyberattack"
+    },
+    {
+      "title": "Software giant SAP confirms cyber incident amid reports of source code breach",
+      "url": "https://therecord.media/sap-germany-cyberattack-github",
+      "feed": "https://therecord.media/feed",
+      "published": "2026-11-27T13:15:00+00:00",
+      "official": false,
+      "event": "https://therecord.media/sap-germany-cyberattack-github"
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "feed": "https://huggingface.co/blog/feed.xml",
+      "published": "2026-11-27T00:00:00+00:00",
+      "official": true,
+      "event": "https://huggingface.co/blog/video-trainium3"
+    },
+    {
+      "title": "We’re Talking Token Management and it’s Not Arcade Flashbacks",
+      "url": "https://www.salesforce.com/blog/small-business/token-management-for-business-owners/",
+      "feed": "https://www.salesforce.com/blog/category/ai-research/feed/",
+      "published": "2026-11-27T14:00:00+00:00",
+      "official": true,
+      "event": "https://www.salesforce.com/blog/small-business/token-management-for-business-owners/"
+    },
+    {
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "feed": "https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
+      "published": "2026-11-27T12:00:00+00:00",
+      "official": true,
+      "event": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    }
+  ],
+  "passes": [
+    {
+      "https://huggingface.co/blog/video-trainium3": 0.83,
+      "https://www.salesforce.com/blog/small-business/token-management-for-business-owners/": 0.46
+    },
+    {
+      "https://huggingface.co/blog/video-trainium3": 0.64,
+      "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini": 0.47,
+      "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks": 0.34,
+      "https://www.salesforce.com/blog/small-business/token-management-for-business-owners/": 0.18
+    }
+  ],
+  "second_look": [],
+  "ranking": [
+    {
+      "rank": 1,
+      "headline": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "kind": "news",
+      "importance": 0.735,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.6251
+    },
+    {
+      "rank": 2,
+      "headline": "We’re Talking Token Management and it’s Not Arcade Flashbacks",
+      "url": "https://www.salesforce.com/blog/small-business/token-management-for-business-owners/",
+      "kind": "news",
+      "importance": 0.32,
+      "official": true,
+      "coverage": 1,
+      "rank_key": 0.2101
+    },
+    {
+      "rank": 3,
+      "headline": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "kind": "news",
+      "importance": 0.235,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.29
+    },
+    {
+      "rank": 4,
+      "headline": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+      "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+      "kind": "news",
+      "importance": 0.17,
+      "official": false,
+      "coverage": 1,
+      "rank_key": -0.355
+    }
+  ],
+  "tries": [
+    {
+      "headline": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "kind": "news",
+      "official": true,
+      "outcome": "verified",
+      "reason": ""
+    }
+  ],
+  "outcome": {
+    "published": "hugging-face-post-says-trainium3-setup-generated-videos-with-ltx-2-5",
+    "live": true
+  }
+}
